@@ -14,6 +14,9 @@
 		"type": "git",
     "url": "https://github.com/digitaldrummerj/vscode-ionic1-snippets.git"
 	},
+	  "bugs": {
+        "url": "https://github.com/digitaldrummerj/vscode-ionic1-snippets/issues"
+    },
 	"contributes": {
 		"snippets": [
 			{
