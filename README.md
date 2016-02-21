@@ -20,8 +20,6 @@ Type part of a snippet, press enter and the snippet unfolds.
 
 Alternatively, press Ctrl+Space (Windows,Linux) or Cmd+Space (OSX) to activate snippets from within the editor.
 
-There are over 200 snippets and 700 icons.  
-
 See the docs at [https://github.com/digitaldrummerj/vscode-ionic1-snippets/blob/master/docs.md](https://github.com/digitaldrummerj/vscode-ionic1-snippets/blob/master/docs.md)
 
 ** Enjoy!**
