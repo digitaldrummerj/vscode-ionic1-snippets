@@ -1,0 +1,42 @@
+{
+	"name": "ionic1-snippets",
+	"displayName": "ionic1-snippets",
+	"description": "ionic1 html, icon, and javascript snippets",
+	"version": "0.0.1",
+	"publisher": "justinjames",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			}
+			,
+			{
+				"language": "javascript",
+				"path": "./snippets/icons-name.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/icons-name.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/icons-html.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/ng-ionic.json"
+			}
+		]
+	}
+}

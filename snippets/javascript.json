@@ -1,0 +1,50 @@
+{
+	"ionicjsactionsheet": {
+		"prefix": "ionicjsactionsheet",
+		"body": "\n// Make Sure to Add the $ionicActionSheet as Dependency to the Controller\n\n// Show the action sheet\nvar hideSheet = $ionicActionSheet.show({\n  buttons: [\n    { text: '<b>Share</b> This' },\n    { text: 'Move' }\n  ],\n  destructiveText: 'Delete',\n  titleText: 'Modify your album',\n  cancelText: 'Cancel',\n  cancel: function() {\n    // add cancel code..\n  },\n  buttonClicked: function(index) {\n    return true;\n  }\n});\n",
+		"description": "",
+		"scope": "source.js"
+	},
+	"ionicjsbackdrop": {
+		"prefix": "ionicjsbackdrop",
+		"body": "\nfunction MyController($scope, $ionicBackdrop, $timeout) {\n  //Show a backdrop for one second\n  $scope.action = function() {\n    $ionicBackdrop.retain();\n    $timeout(function() {\n      $ionicBackdrop.release();\n    }, 1000);\n  };\n}\n",
+		"description": "",
+		"scope": "source.js"
+	},
+	"ionicbroadcastinfinitescroll": {
+		"prefix": "ionicbroadcastinfinitescroll",
+		"body": "\n$scope.$broadcast('scroll.infiniteScrollComplete');\n",
+		"description": "",
+		"scope": "source.js"
+	},
+	"ionicbroadcastrefreshcomplete": {
+		"prefix": "ionicbroadcastrefreshcomplete",
+		"body": "\n$scope.$broadcast('scroll.refreshComplete');\n",
+		"description": "",
+		"scope": "source.js"
+	},
+	"ionicjspopover": {
+		"prefix": "ionicjspopover",
+		"body": "\n$ionicPopover.fromTemplateUrl('${1:my-popover.html}', {\n  scope: $scope,\n}).then(function(popover) {\n  $scope.popover = popover;\n});\n$scope.openPopover = function($event) {\n  $scope.popover.show($event);\n};\n$scope.closePopover = function() {\n  $scope.popover.hide();\n};\n//Cleanup the popover when we're done with it!\n$scope.$on('$destroy', function() {\n  $scope.popover.remove();\n});\n// Execute action on hide popover\n$scope.$on('popover.hidden', function() {\n  // Execute action\n});\n// Execute action on remove popover\n$scope.$on('popover.removed', function() {\n  // Execute action\n});\n",
+		"description": "",
+		"scope": "source.js"
+	},
+	"ionicjspopup:alert": {
+		"prefix": "ionicjspopup:alert",
+		"body": "\n$scope.showAlert = function() {\n  var alertPopup = $ionicPopup.alert({\n    title: '${1:Popup Title}',\n    template: '${2:Its Content}'\n  });\n  alertPopup.then(function(res) {\n    console.log('${3:Thank you for not eating my delicious ice cream cone}');\n  });\n});\n",
+		"description": "",
+		"scope": "source.js"
+	},
+	"ionicjspopup:confirm": {
+		"prefix": "ionicjspopup:confirm",
+		"body": "\n$scope.showConfirm = function() {\n  var confirmPopup = $ionicPopup.confirm({\n    title: '${1:Title}',\n    template: '${2:Its Content}'\n  });\n  confirmPopup.then(function(res) {\n    if(res) {\n      console.log('You are sure');\n    } else {\n      console.log('You are not sure');\n    }\n  });\n};\n",
+		"description": "",
+		"scope": "source.js"
+	},
+	"ionicjspopup:prompt": {
+		"prefix": "ionicjspopup:prompt",
+		"body": "\n$ionicPopup.prompt({\n  title: '${1:Title}',\n  template: '${2:Template}',\n  inputType: '${3:password}',\n  inputPlaceholder: '${4:Placehoder Text}'\n}).then(function(res) {\n  console.log('Your password is', res);\n});\n",
+		"description": "",
+		"scope": "source.js"
+	}
+}

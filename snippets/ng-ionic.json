@@ -1,0 +1,224 @@
+{
+	"ioniccontent": {
+		"prefix": "ioniccontent",
+		"body": "\n<ion-content\n  delegate-handle=\"${1:}\"\n  direction=\"${2:}\"\n  locking=\"${3:}\"\n  padding=\"${4:}\"\n  scroll=\"${5:}\"\n  overflow-scroll=\"${6:}\"\n  scrollbar-x=\"${7:}\"\n  scrollbar-y=\"${8:}\"\n  start-x=\"${9:}\"\n  start-y=\"${10:}\"\n  on-scroll=\"${11:}\"\n  on-scroll-complete=\"${12:}\"\n  has-bouncing=\"${13:}\"\n  scroll-event-interval=\"${14:}\"\n  ${15:...}\n</ion-content>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicpane": {
+		"prefix": "ionicpane",
+		"body": "\n<ion-pane>\n  ${1:Challenge Accepted! :P}\n</ion-pane>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicrefresher": {
+		"prefix": "ionicrefresher",
+		"body": "\n<ion-refresher\n  pulling-text=\"${1:Pull to refresh...}\"\n  on-refresh=\"${2:doRefresh}()\">\n</ion-refresher>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ioniccheckbox": {
+		"prefix": "ioniccheckbox",
+		"body": "\n<ion-checkbox ng-model=\"${1:isChecked}\">${2:Label}</ion-checkbox>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicradio": {
+		"prefix": "ionicradio",
+		"body": "\n<ion-radio ng-model=\"${1:choice}\" ng-value=\"'${2:}'\">${3:Label}</ion-radio>\n<ion-radio ng-model=\"${4:choice}\" ng-value=\"'${5:}'\">${6:Label}</ion-radio>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:assertive": {
+		"prefix": "ionictoggle:assertive",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-assertive\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:balanced": {
+		"prefix": "ionictoggle:balanced",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-balanced\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:calm": {
+		"prefix": "ionictoggle:calm",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-calm\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:dark": {
+		"prefix": "ionictoggle:dark",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-dark\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:energized": {
+		"prefix": "ionictoggle:energized",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-energized\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:light": {
+		"prefix": "ionictoggle:light",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-light\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:positive": {
+		"prefix": "ionictoggle:positive",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-positive\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:royal": {
+		"prefix": "ionictoggle:royal",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-royal\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle:stable": {
+		"prefix": "ionictoggle:stable",
+		"body": "\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-stable\">${2:Airplane Mode}</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictoggle": {
+		"prefix": "ionictoggle",
+		"body": "\n<ion-toggle ng-model=\"\" toggle-class=\"toggle-default\">Toggle Label</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicfooterbar": {
+		"prefix": "ionicfooterbar",
+		"body": "\n<ion-footer-bar align-title=\"left\" class=\"bar-assertive\">\n  <div class=\"buttons\">\n    <button class=\"button\">Left Button</button>\n  </div>\n  <h1 class=\"title\">Title!</h1>\n  <div class=\"buttons\" ng-click=\"doSomething()\">\n    <button class=\"button\">Right Button</button>\n  </div>\n</ion-footer-bar>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicheaderbar": {
+		"prefix": "ionicheaderbar",
+		"body": "\n<ion-header-bar align-title=\"left\" class=\"bar-positive\">\n  <div class=\"buttons\">\n    <button class=\"button\" ng-click=\"doSomething()\">Left Button</button>\n  </div>\n  <h1 class=\"title\">Title!</h1>\n  <div class=\"buttons\">\n    <button class=\"button\">Right Button</button>\n  </div>\n</ion-header-bar>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ioniccollectionrepeat": {
+		"prefix": "ioniccollectionrepeat",
+		"body": "\n<ion-content ng-controller=\"${1:ContentCtrl}\">\n  <div class=\"list\">\n    <div class=\"item my-item\"\n      collection-repeat=\"${2:item} in ${3:items}\"\n      collection-item-width=\"'${4:100%}'\"\n      collection-item-height=\"getItemHeight(${2:item}, \\$index)\"\n      ng-style=\"{height: getItemHeight(${2:item} , \\$index)}\">\n      {{${2:item}}}\n    </div>\n  </div>\n</ion-content>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicdeletebutton": {
+		"prefix": "ionicdeletebutton",
+		"body": "\n<ion-list show-delete=\"${1:shouldShowDelete}\">\n  <ion-item>\n    <ion-delete-button class=\"ion-minus-circled\"></ion-delete-button>\n    ${2:Hello, list item!}\n  </ion-item>\n</ion-list>\n<ion-toggle ng-model=\"${1:shouldShowDelete}\">\n  ${3:Show Delete?}\n</ion-toggle>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicitem": {
+		"prefix": "ionicitem",
+		"body": "\n<ion-item>${1:Item!}</ion-item>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicoptionbutton": {
+		"prefix": "ionicoptionbutton",
+		"body": "\n<ion-list>\n  <ion-item>\n    ${1:I love kittens!}\n    <ion-option-button class=\"button-positive\">${2:Share}</ion-option-button>\n    <ion-option-button class=\"button-assertive\">${3:Edit}</ion-option-button>\n  </ion-item>\n</ion-list>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicreorderbutton": {
+		"prefix": "ionicreorderbutton",
+		"body": "\n<ion-list ng-controller=\"${1:MyCtrl}\">\n  <ion-item ng-repeat=\"${2:item} in ${3:items}\">\n    ${4:Item}\n    <ion-reorder-button class=\"ion-navicon\"\n        on-reorder=\"moveItem(item, \\$fromIndex, \\$toIndex)\">\n    </ion-reorder>\n  </ion-item>\n</ion-list>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ioniclist": {
+		"prefix": "ioniclist",
+		"body": "\n<ion-list>\n  <ion-item ng-repeat=\"${1:item} in ${2:items}\">\n\n  </ion-item>\n</ion-list>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicnavback": {
+		"prefix": "ionicnavback",
+		"body": "\n<ion-nav-back-button class=\"button-clear\">\n  <i class=\"ion-arrow-left-c\"></i> Back\n</ion-nav-back-button>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicnavbar": {
+		"prefix": "ionicnavbar",
+		"body": "\n<ion-nav-bar class=\"bar-positive\">\n  ${0}\n</ion-nav-bar>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicnavbuttons:left": {
+		"prefix": "ionicnavbuttons:left",
+		"body": "\n<ion-nav-buttons side=\"left\">\n  <button class=\"button\" ng-click=\"doSomething()\">\n    I'm a button on the left of the navbar!\n  </button>\n</ion-nav-buttons>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicnavbuttons:right": {
+		"prefix": "ionicnavbuttons:right",
+		"body": "\n<ion-nav-buttons side=\"right\">\n  <button class=\"button\" ng-click=\"doSomething()\">\n    I'm a button on the right of the navbar!\n  </button>\n</ion-nav-buttons>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicnavview": {
+		"prefix": "ionicnavview",
+		"body": "\n<ion-nav-bar></ion-nav-bar>\n<ion-nav-view animation=\"slide-left-right\">\n  <!-- Center content -->\n</ion-nav-view>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicview": {
+		"prefix": "ionicview",
+		"body": "\n<ion-view view-title=\"$1\">\n  <ion-content>\n    $0\n  </ion-content>\n</ion-view>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicpopover": {
+		"prefix": "ionicpopover",
+		"body": "\n<p>\n  <button ng-click=\"openPopover(\\$event)\">Open Popover</button>\n</p>\n\n// You can place this template in seperate html file\n<script id=\"my-popover.html\" type=\"text/ng-template\">\n  <ion-popover-view>\n    <ion-header-bar>\n      <h1 class=\"title\">My Popover Title</h1>\n    </ion-header-bar>\n    <ion-content>\n      Hello!\n    </ion-content>\n  </ion-popover-view>\n</script>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicinfinitescroll": {
+		"prefix": "ionicinfinitescroll",
+		"body": "\n<ion-infinite-scroll\n    on-infinite=\"${1:loadMore()}\"\n    distance=\"1%\">\n</ion-infinite-scroll>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicscroll": {
+		"prefix": "ionicscroll",
+		"body": "\n<ion-scroll zooming=\"${1:true}\" direction=\"${2:xy}\" style=\"width:${3:500}px; height:${4:500}px\">\n\n  <div style=\"width: ${5:5000}px; height: ${6:5000}px; background: url('${6:https://avatars0.githubusercontent.com/u/2650146?v=2&s=460}') repeat\">\n  </div>\n\n</ion-scroll>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicsidemenus": {
+		"prefix": "ionicsidemenus",
+		"body": "\n<ion-side-menus>\n  <!-- Center content -->\n  <ion-side-menu-content ng-controller=\"yourController\">\n  </ion-side-menu-content>\n\n  <!-- Left menu -->\n  <ion-side-menu side=\"left\">\n  </ion-side-menu>\n\n  <!-- Right menu -->\n  <ion-side-menu side=\"right\">\n  </ion-side-menu>\n</ion-side-menus>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicslidebox": {
+		"prefix": "ionicslidebox",
+		"body": "\n<ion-slide-box on-slide-changed=\"${1:slideHasChanged}(\\$index)\">\n  <ion-slide>\n    <div class=\"box ${3:blue}\"><h1>${3:blue}</h1></div>\n  </ion-slide>\n  <ion-slide>\n    <div class=\"box ${4:yellow}\"><h1>${4:yellow}</h1></div>\n  </ion-slide>\n  <ion-slide>\n    <div class=\"box ${5:pink}\"><h1>${5:pink}</h1></div>\n  </ion-slide>\n</ion-slide-box>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionicslide": {
+		"prefix": "ionicslide",
+		"body": "\n<ion-slide>\n  <div class=\"box blue\"><h1>Content</h1></div>\n</ion-slide>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictab": {
+		"prefix": "ionictab",
+		"body": "\n<ion-tab\n  title=\"${1:Tab!}\"\n  icon=\"my-icon\"\n  href=\"#/${2:tab/tab-link}\"\n  on-select=\"onTabSelected()\"\n  on-deselect=\"onTabDeselected()\">\n</ion-tab>\n",
+		"description": "",
+		"scope": "text.html"
+	},
+	"ionictabs": {
+		"prefix": "ionictabs",
+		"body": "\n<ion-tabs class=\"tabs-positive tabs-icon-only\">\n\n  <ion-tab title=\"${1:Home}\" icon-on=\"ion-ios7-filing\" icon-off=\"ion-ios7-filing-outline\">\n    ${2:<!-- Tab 1 content -->}\n  </ion-tab>\n\n  <ion-tab title=\"${3:About}\" icon-on=\"ion-ios7-clock\" icon-off=\"ion-ios7-clock-outline\">\n    ${4:<!-- Tab 2 content -->}\n  </ion-tab>\n\n  <ion-tab title=\"${5:Settings}\" icon-on=\"ion-ios7-gear\" icon-off=\"ion-ios7-gear-outline\">\n    ${6:<!-- Tab 3 content -->}\n  </ion-tab>\n\n</ion-tabs>\n",
+		"description": "",
+		"scope": "text.html"
+	}
+}

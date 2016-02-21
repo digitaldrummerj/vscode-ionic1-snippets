@@ -1,0 +1,4400 @@
+{
+	"ionicIconalertcircled": {
+		"prefix": "ionicIconalertcircled",
+		"body": "<i class=\"ion-alert-circled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconalert": {
+		"prefix": "ionicIconalert",
+		"body": "<i class=\"ion-alert icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidaddcircle": {
+		"prefix": "ionicIconandroidaddcircle",
+		"body": "<i class=\"ion-android-add-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidadd": {
+		"prefix": "ionicIconandroidadd",
+		"body": "<i class=\"ion-android-add icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidalarmclock": {
+		"prefix": "ionicIconandroidalarmclock",
+		"body": "<i class=\"ion-android-alarm-clock icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidalert": {
+		"prefix": "ionicIconandroidalert",
+		"body": "<i class=\"ion-android-alert icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidapps": {
+		"prefix": "ionicIconandroidapps",
+		"body": "<i class=\"ion-android-apps icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarchive": {
+		"prefix": "ionicIconandroidarchive",
+		"body": "<i class=\"ion-android-archive icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowback": {
+		"prefix": "ionicIconandroidarrowback",
+		"body": "<i class=\"ion-android-arrow-back icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdown": {
+		"prefix": "ionicIconandroidarrowdown",
+		"body": "<i class=\"ion-android-arrow-down icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdropdowncircle": {
+		"prefix": "ionicIconandroidarrowdropdowncircle",
+		"body": "<i class=\"ion-android-arrow-dropdown-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdropdown": {
+		"prefix": "ionicIconandroidarrowdropdown",
+		"body": "<i class=\"ion-android-arrow-dropdown icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdropleftcircle": {
+		"prefix": "ionicIconandroidarrowdropleftcircle",
+		"body": "<i class=\"ion-android-arrow-dropleft-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdropleft": {
+		"prefix": "ionicIconandroidarrowdropleft",
+		"body": "<i class=\"ion-android-arrow-dropleft icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdroprightcircle": {
+		"prefix": "ionicIconandroidarrowdroprightcircle",
+		"body": "<i class=\"ion-android-arrow-dropright-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdropright": {
+		"prefix": "ionicIconandroidarrowdropright",
+		"body": "<i class=\"ion-android-arrow-dropright icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdropupcircle": {
+		"prefix": "ionicIconandroidarrowdropupcircle",
+		"body": "<i class=\"ion-android-arrow-dropup-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowdropup": {
+		"prefix": "ionicIconandroidarrowdropup",
+		"body": "<i class=\"ion-android-arrow-dropup icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowforward": {
+		"prefix": "ionicIconandroidarrowforward",
+		"body": "<i class=\"ion-android-arrow-forward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidarrowup": {
+		"prefix": "ionicIconandroidarrowup",
+		"body": "<i class=\"ion-android-arrow-up icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidattach": {
+		"prefix": "ionicIconandroidattach",
+		"body": "<i class=\"ion-android-attach icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidbar": {
+		"prefix": "ionicIconandroidbar",
+		"body": "<i class=\"ion-android-bar icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidbicycle": {
+		"prefix": "ionicIconandroidbicycle",
+		"body": "<i class=\"ion-android-bicycle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidboat": {
+		"prefix": "ionicIconandroidboat",
+		"body": "<i class=\"ion-android-boat icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidbookmark": {
+		"prefix": "ionicIconandroidbookmark",
+		"body": "<i class=\"ion-android-bookmark icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidbulb": {
+		"prefix": "ionicIconandroidbulb",
+		"body": "<i class=\"ion-android-bulb icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidbus": {
+		"prefix": "ionicIconandroidbus",
+		"body": "<i class=\"ion-android-bus icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcalendar": {
+		"prefix": "ionicIconandroidcalendar",
+		"body": "<i class=\"ion-android-calendar icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcall": {
+		"prefix": "ionicIconandroidcall",
+		"body": "<i class=\"ion-android-call icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcamera": {
+		"prefix": "ionicIconandroidcamera",
+		"body": "<i class=\"ion-android-camera icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcancel": {
+		"prefix": "ionicIconandroidcancel",
+		"body": "<i class=\"ion-android-cancel icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcar": {
+		"prefix": "ionicIconandroidcar",
+		"body": "<i class=\"ion-android-car icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcart": {
+		"prefix": "ionicIconandroidcart",
+		"body": "<i class=\"ion-android-cart icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidchat": {
+		"prefix": "ionicIconandroidchat",
+		"body": "<i class=\"ion-android-chat icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcheckboxblank": {
+		"prefix": "ionicIconandroidcheckboxblank",
+		"body": "<i class=\"ion-android-checkbox-blank icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcheckbox": {
+		"prefix": "ionicIconandroidcheckbox",
+		"body": "<i class=\"ion-android-checkbox icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcheckboxoutlineblank": {
+		"prefix": "ionicIconandroidcheckboxoutlineblank",
+		"body": "<i class=\"ion-android-checkbox-outline-blank icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcheckboxoutline": {
+		"prefix": "ionicIconandroidcheckboxoutline",
+		"body": "<i class=\"ion-android-checkbox-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcheckmarkcircle": {
+		"prefix": "ionicIconandroidcheckmarkcircle",
+		"body": "<i class=\"ion-android-checkmark-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidclipboard": {
+		"prefix": "ionicIconandroidclipboard",
+		"body": "<i class=\"ion-android-clipboard icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidclose": {
+		"prefix": "ionicIconandroidclose",
+		"body": "<i class=\"ion-android-close icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcloudcircle": {
+		"prefix": "ionicIconandroidcloudcircle",
+		"body": "<i class=\"ion-android-cloud-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidclouddone": {
+		"prefix": "ionicIconandroidclouddone",
+		"body": "<i class=\"ion-android-cloud-done icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcloud": {
+		"prefix": "ionicIconandroidcloud",
+		"body": "<i class=\"ion-android-cloud icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcloudoutline": {
+		"prefix": "ionicIconandroidcloudoutline",
+		"body": "<i class=\"ion-android-cloud-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcolorpalette": {
+		"prefix": "ionicIconandroidcolorpalette",
+		"body": "<i class=\"ion-android-color-palette icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcompass": {
+		"prefix": "ionicIconandroidcompass",
+		"body": "<i class=\"ion-android-compass icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcontact": {
+		"prefix": "ionicIconandroidcontact",
+		"body": "<i class=\"ion-android-contact icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcontacts": {
+		"prefix": "ionicIconandroidcontacts",
+		"body": "<i class=\"ion-android-contacts icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcontract": {
+		"prefix": "ionicIconandroidcontract",
+		"body": "<i class=\"ion-android-contract icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidcreate": {
+		"prefix": "ionicIconandroidcreate",
+		"body": "<i class=\"ion-android-create icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroiddelete": {
+		"prefix": "ionicIconandroiddelete",
+		"body": "<i class=\"ion-android-delete icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroiddesktop": {
+		"prefix": "ionicIconandroiddesktop",
+		"body": "<i class=\"ion-android-desktop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroiddocument": {
+		"prefix": "ionicIconandroiddocument",
+		"body": "<i class=\"ion-android-document icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroiddoneall": {
+		"prefix": "ionicIconandroiddoneall",
+		"body": "<i class=\"ion-android-done-all icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroiddone": {
+		"prefix": "ionicIconandroiddone",
+		"body": "<i class=\"ion-android-done icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroiddownload": {
+		"prefix": "ionicIconandroiddownload",
+		"body": "<i class=\"ion-android-download icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroiddrafts": {
+		"prefix": "ionicIconandroiddrafts",
+		"body": "<i class=\"ion-android-drafts icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidexit": {
+		"prefix": "ionicIconandroidexit",
+		"body": "<i class=\"ion-android-exit icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidexpand": {
+		"prefix": "ionicIconandroidexpand",
+		"body": "<i class=\"ion-android-expand icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidfavorite": {
+		"prefix": "ionicIconandroidfavorite",
+		"body": "<i class=\"ion-android-favorite icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidfavoriteoutline": {
+		"prefix": "ionicIconandroidfavoriteoutline",
+		"body": "<i class=\"ion-android-favorite-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidfilm": {
+		"prefix": "ionicIconandroidfilm",
+		"body": "<i class=\"ion-android-film icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidfolder": {
+		"prefix": "ionicIconandroidfolder",
+		"body": "<i class=\"ion-android-folder icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidfolderopen": {
+		"prefix": "ionicIconandroidfolderopen",
+		"body": "<i class=\"ion-android-folder-open icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidfunnel": {
+		"prefix": "ionicIconandroidfunnel",
+		"body": "<i class=\"ion-android-funnel icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidglobe": {
+		"prefix": "ionicIconandroidglobe",
+		"body": "<i class=\"ion-android-globe icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidhand": {
+		"prefix": "ionicIconandroidhand",
+		"body": "<i class=\"ion-android-hand icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidhangout": {
+		"prefix": "ionicIconandroidhangout",
+		"body": "<i class=\"ion-android-hangout icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidhappy": {
+		"prefix": "ionicIconandroidhappy",
+		"body": "<i class=\"ion-android-happy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidhome": {
+		"prefix": "ionicIconandroidhome",
+		"body": "<i class=\"ion-android-home icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidimage": {
+		"prefix": "ionicIconandroidimage",
+		"body": "<i class=\"ion-android-image icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidlaptop": {
+		"prefix": "ionicIconandroidlaptop",
+		"body": "<i class=\"ion-android-laptop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidlist": {
+		"prefix": "ionicIconandroidlist",
+		"body": "<i class=\"ion-android-list icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidlocate": {
+		"prefix": "ionicIconandroidlocate",
+		"body": "<i class=\"ion-android-locate icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidlock": {
+		"prefix": "ionicIconandroidlock",
+		"body": "<i class=\"ion-android-lock icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidmail": {
+		"prefix": "ionicIconandroidmail",
+		"body": "<i class=\"ion-android-mail icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidmap": {
+		"prefix": "ionicIconandroidmap",
+		"body": "<i class=\"ion-android-map icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidmenu": {
+		"prefix": "ionicIconandroidmenu",
+		"body": "<i class=\"ion-android-menu icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidmicrophone": {
+		"prefix": "ionicIconandroidmicrophone",
+		"body": "<i class=\"ion-android-microphone icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidmicrophoneoff": {
+		"prefix": "ionicIconandroidmicrophoneoff",
+		"body": "<i class=\"ion-android-microphone-off icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidmorehorizontal": {
+		"prefix": "ionicIconandroidmorehorizontal",
+		"body": "<i class=\"ion-android-more-horizontal icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidmorevertical": {
+		"prefix": "ionicIconandroidmorevertical",
+		"body": "<i class=\"ion-android-more-vertical icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidnavigate": {
+		"prefix": "ionicIconandroidnavigate",
+		"body": "<i class=\"ion-android-navigate icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidnotifications": {
+		"prefix": "ionicIconandroidnotifications",
+		"body": "<i class=\"ion-android-notifications icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidnotificationsnone": {
+		"prefix": "ionicIconandroidnotificationsnone",
+		"body": "<i class=\"ion-android-notifications-none icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidnotificationsoff": {
+		"prefix": "ionicIconandroidnotificationsoff",
+		"body": "<i class=\"ion-android-notifications-off icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidopen": {
+		"prefix": "ionicIconandroidopen",
+		"body": "<i class=\"ion-android-open icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidoptions": {
+		"prefix": "ionicIconandroidoptions",
+		"body": "<i class=\"ion-android-options icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidpeople": {
+		"prefix": "ionicIconandroidpeople",
+		"body": "<i class=\"ion-android-people icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidpersonadd": {
+		"prefix": "ionicIconandroidpersonadd",
+		"body": "<i class=\"ion-android-person-add icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidperson": {
+		"prefix": "ionicIconandroidperson",
+		"body": "<i class=\"ion-android-person icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidphonelandscape": {
+		"prefix": "ionicIconandroidphonelandscape",
+		"body": "<i class=\"ion-android-phone-landscape icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidphoneportrait": {
+		"prefix": "ionicIconandroidphoneportrait",
+		"body": "<i class=\"ion-android-phone-portrait icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidpin": {
+		"prefix": "ionicIconandroidpin",
+		"body": "<i class=\"ion-android-pin icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidplane": {
+		"prefix": "ionicIconandroidplane",
+		"body": "<i class=\"ion-android-plane icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidplaystore": {
+		"prefix": "ionicIconandroidplaystore",
+		"body": "<i class=\"ion-android-playstore icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidprint": {
+		"prefix": "ionicIconandroidprint",
+		"body": "<i class=\"ion-android-print icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidradiobuttonoff": {
+		"prefix": "ionicIconandroidradiobuttonoff",
+		"body": "<i class=\"ion-android-radio-button-off icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidradiobuttonon": {
+		"prefix": "ionicIconandroidradiobuttonon",
+		"body": "<i class=\"ion-android-radio-button-on icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidrefresh": {
+		"prefix": "ionicIconandroidrefresh",
+		"body": "<i class=\"ion-android-refresh icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidremovecircle": {
+		"prefix": "ionicIconandroidremovecircle",
+		"body": "<i class=\"ion-android-remove-circle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidremove": {
+		"prefix": "ionicIconandroidremove",
+		"body": "<i class=\"ion-android-remove icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidrestaurant": {
+		"prefix": "ionicIconandroidrestaurant",
+		"body": "<i class=\"ion-android-restaurant icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsad": {
+		"prefix": "ionicIconandroidsad",
+		"body": "<i class=\"ion-android-sad icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsearch": {
+		"prefix": "ionicIconandroidsearch",
+		"body": "<i class=\"ion-android-search icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsend": {
+		"prefix": "ionicIconandroidsend",
+		"body": "<i class=\"ion-android-send icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsettings": {
+		"prefix": "ionicIconandroidsettings",
+		"body": "<i class=\"ion-android-settings icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsharealt": {
+		"prefix": "ionicIconandroidsharealt",
+		"body": "<i class=\"ion-android-share-alt icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidshare": {
+		"prefix": "ionicIconandroidshare",
+		"body": "<i class=\"ion-android-share icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidstarhalf": {
+		"prefix": "ionicIconandroidstarhalf",
+		"body": "<i class=\"ion-android-star-half icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidstar": {
+		"prefix": "ionicIconandroidstar",
+		"body": "<i class=\"ion-android-star icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidstaroutline": {
+		"prefix": "ionicIconandroidstaroutline",
+		"body": "<i class=\"ion-android-star-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidstopwatch": {
+		"prefix": "ionicIconandroidstopwatch",
+		"body": "<i class=\"ion-android-stopwatch icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsubway": {
+		"prefix": "ionicIconandroidsubway",
+		"body": "<i class=\"ion-android-subway icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsunny": {
+		"prefix": "ionicIconandroidsunny",
+		"body": "<i class=\"ion-android-sunny icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidsync": {
+		"prefix": "ionicIconandroidsync",
+		"body": "<i class=\"ion-android-sync icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidtextsms": {
+		"prefix": "ionicIconandroidtextsms",
+		"body": "<i class=\"ion-android-textsms icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidtime": {
+		"prefix": "ionicIconandroidtime",
+		"body": "<i class=\"ion-android-time icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidtrain": {
+		"prefix": "ionicIconandroidtrain",
+		"body": "<i class=\"ion-android-train icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidunlock": {
+		"prefix": "ionicIconandroidunlock",
+		"body": "<i class=\"ion-android-unlock icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidupload": {
+		"prefix": "ionicIconandroidupload",
+		"body": "<i class=\"ion-android-upload icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidvolumedown": {
+		"prefix": "ionicIconandroidvolumedown",
+		"body": "<i class=\"ion-android-volume-down icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidvolumemute": {
+		"prefix": "ionicIconandroidvolumemute",
+		"body": "<i class=\"ion-android-volume-mute icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidvolumeoff": {
+		"prefix": "ionicIconandroidvolumeoff",
+		"body": "<i class=\"ion-android-volume-off icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidvolumeup": {
+		"prefix": "ionicIconandroidvolumeup",
+		"body": "<i class=\"ion-android-volume-up icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidwalk": {
+		"prefix": "ionicIconandroidwalk",
+		"body": "<i class=\"ion-android-walk icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidwarning": {
+		"prefix": "ionicIconandroidwarning",
+		"body": "<i class=\"ion-android-warning icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidwatch": {
+		"prefix": "ionicIconandroidwatch",
+		"body": "<i class=\"ion-android-watch icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconandroidwifi": {
+		"prefix": "ionicIconandroidwifi",
+		"body": "<i class=\"ion-android-wifi icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconaperture": {
+		"prefix": "ionicIconaperture",
+		"body": "<i class=\"ion-aperture icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarchive": {
+		"prefix": "ionicIconarchive",
+		"body": "<i class=\"ion-archive icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowdowna": {
+		"prefix": "ionicIconarrowdowna",
+		"body": "<i class=\"ion-arrow-down-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowdownb": {
+		"prefix": "ionicIconarrowdownb",
+		"body": "<i class=\"ion-arrow-down-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowdownc": {
+		"prefix": "ionicIconarrowdownc",
+		"body": "<i class=\"ion-arrow-down-c icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowexpand": {
+		"prefix": "ionicIconarrowexpand",
+		"body": "<i class=\"ion-arrow-expand icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowgraphdownleft": {
+		"prefix": "ionicIconarrowgraphdownleft",
+		"body": "<i class=\"ion-arrow-graph-down-left icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowgraphdownright": {
+		"prefix": "ionicIconarrowgraphdownright",
+		"body": "<i class=\"ion-arrow-graph-down-right icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowgraphupleft": {
+		"prefix": "ionicIconarrowgraphupleft",
+		"body": "<i class=\"ion-arrow-graph-up-left icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowgraphupright": {
+		"prefix": "ionicIconarrowgraphupright",
+		"body": "<i class=\"ion-arrow-graph-up-right icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowlefta": {
+		"prefix": "ionicIconarrowlefta",
+		"body": "<i class=\"ion-arrow-left-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowleftb": {
+		"prefix": "ionicIconarrowleftb",
+		"body": "<i class=\"ion-arrow-left-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowleftc": {
+		"prefix": "ionicIconarrowleftc",
+		"body": "<i class=\"ion-arrow-left-c icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowmove": {
+		"prefix": "ionicIconarrowmove",
+		"body": "<i class=\"ion-arrow-move icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowresize": {
+		"prefix": "ionicIconarrowresize",
+		"body": "<i class=\"ion-arrow-resize icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowreturnleft": {
+		"prefix": "ionicIconarrowreturnleft",
+		"body": "<i class=\"ion-arrow-return-left icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowreturnright": {
+		"prefix": "ionicIconarrowreturnright",
+		"body": "<i class=\"ion-arrow-return-right icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowrighta": {
+		"prefix": "ionicIconarrowrighta",
+		"body": "<i class=\"ion-arrow-right-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowrightb": {
+		"prefix": "ionicIconarrowrightb",
+		"body": "<i class=\"ion-arrow-right-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowrightc": {
+		"prefix": "ionicIconarrowrightc",
+		"body": "<i class=\"ion-arrow-right-c icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowshrink": {
+		"prefix": "ionicIconarrowshrink",
+		"body": "<i class=\"ion-arrow-shrink icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowswap": {
+		"prefix": "ionicIconarrowswap",
+		"body": "<i class=\"ion-arrow-swap icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowupa": {
+		"prefix": "ionicIconarrowupa",
+		"body": "<i class=\"ion-arrow-up-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowupb": {
+		"prefix": "ionicIconarrowupb",
+		"body": "<i class=\"ion-arrow-up-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconarrowupc": {
+		"prefix": "ionicIconarrowupc",
+		"body": "<i class=\"ion-arrow-up-c icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconasterisk": {
+		"prefix": "ionicIconasterisk",
+		"body": "<i class=\"ion-asterisk icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconat": {
+		"prefix": "ionicIconat",
+		"body": "<i class=\"ion-at icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbackspace": {
+		"prefix": "ionicIconbackspace",
+		"body": "<i class=\"ion-backspace icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbackspaceoutline": {
+		"prefix": "ionicIconbackspaceoutline",
+		"body": "<i class=\"ion-backspace-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbag": {
+		"prefix": "ionicIconbag",
+		"body": "<i class=\"ion-bag icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbatterycharging": {
+		"prefix": "ionicIconbatterycharging",
+		"body": "<i class=\"ion-battery-charging icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbatteryempty": {
+		"prefix": "ionicIconbatteryempty",
+		"body": "<i class=\"ion-battery-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbatteryfull": {
+		"prefix": "ionicIconbatteryfull",
+		"body": "<i class=\"ion-battery-full icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbatteryhalf": {
+		"prefix": "ionicIconbatteryhalf",
+		"body": "<i class=\"ion-battery-half icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbatterylow": {
+		"prefix": "ionicIconbatterylow",
+		"body": "<i class=\"ion-battery-low icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbeaker": {
+		"prefix": "ionicIconbeaker",
+		"body": "<i class=\"ion-beaker icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbeer": {
+		"prefix": "ionicIconbeer",
+		"body": "<i class=\"ion-beer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbluetooth": {
+		"prefix": "ionicIconbluetooth",
+		"body": "<i class=\"ion-bluetooth icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbonfire": {
+		"prefix": "ionicIconbonfire",
+		"body": "<i class=\"ion-bonfire icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbookmark": {
+		"prefix": "ionicIconbookmark",
+		"body": "<i class=\"ion-bookmark icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbowtie": {
+		"prefix": "ionicIconbowtie",
+		"body": "<i class=\"ion-bowtie icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbriefcase": {
+		"prefix": "ionicIconbriefcase",
+		"body": "<i class=\"ion-briefcase icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconbug": {
+		"prefix": "ionicIconbug",
+		"body": "<i class=\"ion-bug icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcalculator": {
+		"prefix": "ionicIconcalculator",
+		"body": "<i class=\"ion-calculator icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcalendar": {
+		"prefix": "ionicIconcalendar",
+		"body": "<i class=\"ion-calendar icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcamera": {
+		"prefix": "ionicIconcamera",
+		"body": "<i class=\"ion-camera icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcard": {
+		"prefix": "ionicIconcard",
+		"body": "<i class=\"ion-card icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcash": {
+		"prefix": "ionicIconcash",
+		"body": "<i class=\"ion-cash icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchatbox": {
+		"prefix": "ionicIconchatbox",
+		"body": "<i class=\"ion-chatbox icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchatboxworking": {
+		"prefix": "ionicIconchatboxworking",
+		"body": "<i class=\"ion-chatbox-working icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchatboxes": {
+		"prefix": "ionicIconchatboxes",
+		"body": "<i class=\"ion-chatboxes icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchatbubble": {
+		"prefix": "ionicIconchatbubble",
+		"body": "<i class=\"ion-chatbubble icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchatbubbleworking": {
+		"prefix": "ionicIconchatbubbleworking",
+		"body": "<i class=\"ion-chatbubble-working icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchatbubbles": {
+		"prefix": "ionicIconchatbubbles",
+		"body": "<i class=\"ion-chatbubbles icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcheckmarkcircled": {
+		"prefix": "ionicIconcheckmarkcircled",
+		"body": "<i class=\"ion-checkmark-circled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcheckmark": {
+		"prefix": "ionicIconcheckmark",
+		"body": "<i class=\"ion-checkmark icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcheckmarkround": {
+		"prefix": "ionicIconcheckmarkround",
+		"body": "<i class=\"ion-checkmark-round icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchevrondown": {
+		"prefix": "ionicIconchevrondown",
+		"body": "<i class=\"ion-chevron-down icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchevronleft": {
+		"prefix": "ionicIconchevronleft",
+		"body": "<i class=\"ion-chevron-left icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchevronright": {
+		"prefix": "ionicIconchevronright",
+		"body": "<i class=\"ion-chevron-right icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconchevronup": {
+		"prefix": "ionicIconchevronup",
+		"body": "<i class=\"ion-chevron-up icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconclipboard": {
+		"prefix": "ionicIconclipboard",
+		"body": "<i class=\"ion-clipboard icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconclock": {
+		"prefix": "ionicIconclock",
+		"body": "<i class=\"ion-clock icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconclosecircled": {
+		"prefix": "ionicIconclosecircled",
+		"body": "<i class=\"ion-close-circled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconclose": {
+		"prefix": "ionicIconclose",
+		"body": "<i class=\"ion-close icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcloseround": {
+		"prefix": "ionicIconcloseround",
+		"body": "<i class=\"ion-close-round icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconclosedcaptioning": {
+		"prefix": "ionicIconclosedcaptioning",
+		"body": "<i class=\"ion-closed-captioning icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcloud": {
+		"prefix": "ionicIconcloud",
+		"body": "<i class=\"ion-cloud icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcodedownload": {
+		"prefix": "ionicIconcodedownload",
+		"body": "<i class=\"ion-code-download icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcode": {
+		"prefix": "ionicIconcode",
+		"body": "<i class=\"ion-code icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcodeworking": {
+		"prefix": "ionicIconcodeworking",
+		"body": "<i class=\"ion-code-working icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcoffee": {
+		"prefix": "ionicIconcoffee",
+		"body": "<i class=\"ion-coffee icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcompass": {
+		"prefix": "ionicIconcompass",
+		"body": "<i class=\"ion-compass icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcompose": {
+		"prefix": "ionicIconcompose",
+		"body": "<i class=\"ion-compose icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconconnectionbars": {
+		"prefix": "ionicIconconnectionbars",
+		"body": "<i class=\"ion-connection-bars icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcontrast": {
+		"prefix": "ionicIconcontrast",
+		"body": "<i class=\"ion-contrast icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcrop": {
+		"prefix": "ionicIconcrop",
+		"body": "<i class=\"ion-crop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconcube": {
+		"prefix": "ionicIconcube",
+		"body": "<i class=\"ion-cube icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcondisc": {
+		"prefix": "ionicIcondisc",
+		"body": "<i class=\"ion-disc icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcondocument": {
+		"prefix": "ionicIcondocument",
+		"body": "<i class=\"ion-document icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcondocumenttext": {
+		"prefix": "ionicIcondocumenttext",
+		"body": "<i class=\"ion-document-text icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcondrag": {
+		"prefix": "ionicIcondrag",
+		"body": "<i class=\"ion-drag icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconearth": {
+		"prefix": "ionicIconearth",
+		"body": "<i class=\"ion-earth icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconeasel": {
+		"prefix": "ionicIconeasel",
+		"body": "<i class=\"ion-easel icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconedit": {
+		"prefix": "ionicIconedit",
+		"body": "<i class=\"ion-edit icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconegg": {
+		"prefix": "ionicIconegg",
+		"body": "<i class=\"ion-egg icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconeject": {
+		"prefix": "ionicIconeject",
+		"body": "<i class=\"ion-eject icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconemail": {
+		"prefix": "ionicIconemail",
+		"body": "<i class=\"ion-email icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconemailunread": {
+		"prefix": "ionicIconemailunread",
+		"body": "<i class=\"ion-email-unread icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconerlenmeyerflaskbubbles": {
+		"prefix": "ionicIconerlenmeyerflaskbubbles",
+		"body": "<i class=\"ion-erlenmeyer-flask-bubbles icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconerlenmeyerflask": {
+		"prefix": "ionicIconerlenmeyerflask",
+		"body": "<i class=\"ion-erlenmeyer-flask icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconeyedisabled": {
+		"prefix": "ionicIconeyedisabled",
+		"body": "<i class=\"ion-eye-disabled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconeye": {
+		"prefix": "ionicIconeye",
+		"body": "<i class=\"ion-eye icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconfemale": {
+		"prefix": "ionicIconfemale",
+		"body": "<i class=\"ion-female icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconfiling": {
+		"prefix": "ionicIconfiling",
+		"body": "<i class=\"ion-filing icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconfilmmarker": {
+		"prefix": "ionicIconfilmmarker",
+		"body": "<i class=\"ion-film-marker icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconfireball": {
+		"prefix": "ionicIconfireball",
+		"body": "<i class=\"ion-fireball icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconflag": {
+		"prefix": "ionicIconflag",
+		"body": "<i class=\"ion-flag icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconflame": {
+		"prefix": "ionicIconflame",
+		"body": "<i class=\"ion-flame icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconflash": {
+		"prefix": "ionicIconflash",
+		"body": "<i class=\"ion-flash icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconflashoff": {
+		"prefix": "ionicIconflashoff",
+		"body": "<i class=\"ion-flash-off icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconfolder": {
+		"prefix": "ionicIconfolder",
+		"body": "<i class=\"ion-folder icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconfork": {
+		"prefix": "ionicIconfork",
+		"body": "<i class=\"ion-fork icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconforkrepo": {
+		"prefix": "ionicIconforkrepo",
+		"body": "<i class=\"ion-fork-repo icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconforward": {
+		"prefix": "ionicIconforward",
+		"body": "<i class=\"ion-forward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconfunnel": {
+		"prefix": "ionicIconfunnel",
+		"body": "<i class=\"ion-funnel icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcongeara": {
+		"prefix": "ionicIcongeara",
+		"body": "<i class=\"ion-gear-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcongearb": {
+		"prefix": "ionicIcongearb",
+		"body": "<i class=\"ion-gear-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcongrid": {
+		"prefix": "ionicIcongrid",
+		"body": "<i class=\"ion-grid icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconhammer": {
+		"prefix": "ionicIconhammer",
+		"body": "<i class=\"ion-hammer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconhappy": {
+		"prefix": "ionicIconhappy",
+		"body": "<i class=\"ion-happy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconhappyoutline": {
+		"prefix": "ionicIconhappyoutline",
+		"body": "<i class=\"ion-happy-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconheadphone": {
+		"prefix": "ionicIconheadphone",
+		"body": "<i class=\"ion-headphone icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconheartbroken": {
+		"prefix": "ionicIconheartbroken",
+		"body": "<i class=\"ion-heart-broken icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconheart": {
+		"prefix": "ionicIconheart",
+		"body": "<i class=\"ion-heart icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconhelpbuoy": {
+		"prefix": "ionicIconhelpbuoy",
+		"body": "<i class=\"ion-help-buoy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconhelpcircled": {
+		"prefix": "ionicIconhelpcircled",
+		"body": "<i class=\"ion-help-circled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconhelp": {
+		"prefix": "ionicIconhelp",
+		"body": "<i class=\"ion-help icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconhome": {
+		"prefix": "ionicIconhome",
+		"body": "<i class=\"ion-home icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconicecream": {
+		"prefix": "ionicIconicecream",
+		"body": "<i class=\"ion-icecream icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconimage": {
+		"prefix": "ionicIconimage",
+		"body": "<i class=\"ion-image icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconimages": {
+		"prefix": "ionicIconimages",
+		"body": "<i class=\"ion-images icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconinformationcircled": {
+		"prefix": "ionicIconinformationcircled",
+		"body": "<i class=\"ion-information-circled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconinformation": {
+		"prefix": "ionicIconinformation",
+		"body": "<i class=\"ion-information icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconionic": {
+		"prefix": "ionicIconionic",
+		"body": "<i class=\"ion-ionic icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosalarm": {
+		"prefix": "ionicIconiosalarm",
+		"body": "<i class=\"ion-ios-alarm icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosalarmoutline": {
+		"prefix": "ionicIconiosalarmoutline",
+		"body": "<i class=\"ion-ios-alarm-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosalbums": {
+		"prefix": "ionicIconiosalbums",
+		"body": "<i class=\"ion-ios-albums icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosalbumsoutline": {
+		"prefix": "ionicIconiosalbumsoutline",
+		"body": "<i class=\"ion-ios-albums-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosamericanfootball": {
+		"prefix": "ionicIconiosamericanfootball",
+		"body": "<i class=\"ion-ios-americanfootball icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosamericanfootballoutline": {
+		"prefix": "ionicIconiosamericanfootballoutline",
+		"body": "<i class=\"ion-ios-americanfootball-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosanalytics": {
+		"prefix": "ionicIconiosanalytics",
+		"body": "<i class=\"ion-ios-analytics icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosanalyticsoutline": {
+		"prefix": "ionicIconiosanalyticsoutline",
+		"body": "<i class=\"ion-ios-analytics-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowback": {
+		"prefix": "ionicIconiosarrowback",
+		"body": "<i class=\"ion-ios-arrow-back icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowdown": {
+		"prefix": "ionicIconiosarrowdown",
+		"body": "<i class=\"ion-ios-arrow-down icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowforward": {
+		"prefix": "ionicIconiosarrowforward",
+		"body": "<i class=\"ion-ios-arrow-forward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowleft": {
+		"prefix": "ionicIconiosarrowleft",
+		"body": "<i class=\"ion-ios-arrow-left icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowright": {
+		"prefix": "ionicIconiosarrowright",
+		"body": "<i class=\"ion-ios-arrow-right icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowthindown": {
+		"prefix": "ionicIconiosarrowthindown",
+		"body": "<i class=\"ion-ios-arrow-thin-down icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowthinleft": {
+		"prefix": "ionicIconiosarrowthinleft",
+		"body": "<i class=\"ion-ios-arrow-thin-left icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowthinright": {
+		"prefix": "ionicIconiosarrowthinright",
+		"body": "<i class=\"ion-ios-arrow-thin-right icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowthinup": {
+		"prefix": "ionicIconiosarrowthinup",
+		"body": "<i class=\"ion-ios-arrow-thin-up icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosarrowup": {
+		"prefix": "ionicIconiosarrowup",
+		"body": "<i class=\"ion-ios-arrow-up icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosat": {
+		"prefix": "ionicIconiosat",
+		"body": "<i class=\"ion-ios-at icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosatoutline": {
+		"prefix": "ionicIconiosatoutline",
+		"body": "<i class=\"ion-ios-at-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbarcode": {
+		"prefix": "ionicIconiosbarcode",
+		"body": "<i class=\"ion-ios-barcode icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbarcodeoutline": {
+		"prefix": "ionicIconiosbarcodeoutline",
+		"body": "<i class=\"ion-ios-barcode-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbaseball": {
+		"prefix": "ionicIconiosbaseball",
+		"body": "<i class=\"ion-ios-baseball icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbaseballoutline": {
+		"prefix": "ionicIconiosbaseballoutline",
+		"body": "<i class=\"ion-ios-baseball-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbasketball": {
+		"prefix": "ionicIconiosbasketball",
+		"body": "<i class=\"ion-ios-basketball icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbasketballoutline": {
+		"prefix": "ionicIconiosbasketballoutline",
+		"body": "<i class=\"ion-ios-basketball-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbell": {
+		"prefix": "ionicIconiosbell",
+		"body": "<i class=\"ion-ios-bell icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbelloutline": {
+		"prefix": "ionicIconiosbelloutline",
+		"body": "<i class=\"ion-ios-bell-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbody": {
+		"prefix": "ionicIconiosbody",
+		"body": "<i class=\"ion-ios-body icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbodyoutline": {
+		"prefix": "ionicIconiosbodyoutline",
+		"body": "<i class=\"ion-ios-body-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbolt": {
+		"prefix": "ionicIconiosbolt",
+		"body": "<i class=\"ion-ios-bolt icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosboltoutline": {
+		"prefix": "ionicIconiosboltoutline",
+		"body": "<i class=\"ion-ios-bolt-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbook": {
+		"prefix": "ionicIconiosbook",
+		"body": "<i class=\"ion-ios-book icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbookoutline": {
+		"prefix": "ionicIconiosbookoutline",
+		"body": "<i class=\"ion-ios-book-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbookmarks": {
+		"prefix": "ionicIconiosbookmarks",
+		"body": "<i class=\"ion-ios-bookmarks icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbookmarksoutline": {
+		"prefix": "ionicIconiosbookmarksoutline",
+		"body": "<i class=\"ion-ios-bookmarks-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbox": {
+		"prefix": "ionicIconiosbox",
+		"body": "<i class=\"ion-ios-box icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosboxoutline": {
+		"prefix": "ionicIconiosboxoutline",
+		"body": "<i class=\"ion-ios-box-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbriefcase": {
+		"prefix": "ionicIconiosbriefcase",
+		"body": "<i class=\"ion-ios-briefcase icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbriefcaseoutline": {
+		"prefix": "ionicIconiosbriefcaseoutline",
+		"body": "<i class=\"ion-ios-briefcase-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbrowsers": {
+		"prefix": "ionicIconiosbrowsers",
+		"body": "<i class=\"ion-ios-browsers icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosbrowsersoutline": {
+		"prefix": "ionicIconiosbrowsersoutline",
+		"body": "<i class=\"ion-ios-browsers-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscalculator": {
+		"prefix": "ionicIconioscalculator",
+		"body": "<i class=\"ion-ios-calculator icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscalculatoroutline": {
+		"prefix": "ionicIconioscalculatoroutline",
+		"body": "<i class=\"ion-ios-calculator-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscalendar": {
+		"prefix": "ionicIconioscalendar",
+		"body": "<i class=\"ion-ios-calendar icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscalendaroutline": {
+		"prefix": "ionicIconioscalendaroutline",
+		"body": "<i class=\"ion-ios-calendar-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscamera": {
+		"prefix": "ionicIconioscamera",
+		"body": "<i class=\"ion-ios-camera icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscameraoutline": {
+		"prefix": "ionicIconioscameraoutline",
+		"body": "<i class=\"ion-ios-camera-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscart": {
+		"prefix": "ionicIconioscart",
+		"body": "<i class=\"ion-ios-cart icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscartoutline": {
+		"prefix": "ionicIconioscartoutline",
+		"body": "<i class=\"ion-ios-cart-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioschatboxes": {
+		"prefix": "ionicIconioschatboxes",
+		"body": "<i class=\"ion-ios-chatboxes icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioschatboxesoutline": {
+		"prefix": "ionicIconioschatboxesoutline",
+		"body": "<i class=\"ion-ios-chatboxes-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioschatbubble": {
+		"prefix": "ionicIconioschatbubble",
+		"body": "<i class=\"ion-ios-chatbubble icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioschatbubbleoutline": {
+		"prefix": "ionicIconioschatbubbleoutline",
+		"body": "<i class=\"ion-ios-chatbubble-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscheckmarkempty": {
+		"prefix": "ionicIconioscheckmarkempty",
+		"body": "<i class=\"ion-ios-checkmark-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscheckmark": {
+		"prefix": "ionicIconioscheckmark",
+		"body": "<i class=\"ion-ios-checkmark icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscheckmarkoutline": {
+		"prefix": "ionicIconioscheckmarkoutline",
+		"body": "<i class=\"ion-ios-checkmark-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscirclefilled": {
+		"prefix": "ionicIconioscirclefilled",
+		"body": "<i class=\"ion-ios-circle-filled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscircleoutline": {
+		"prefix": "ionicIconioscircleoutline",
+		"body": "<i class=\"ion-ios-circle-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosclock": {
+		"prefix": "ionicIconiosclock",
+		"body": "<i class=\"ion-ios-clock icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosclockoutline": {
+		"prefix": "ionicIconiosclockoutline",
+		"body": "<i class=\"ion-ios-clock-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloseempty": {
+		"prefix": "ionicIconioscloseempty",
+		"body": "<i class=\"ion-ios-close-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosclose": {
+		"prefix": "ionicIconiosclose",
+		"body": "<i class=\"ion-ios-close icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloseoutline": {
+		"prefix": "ionicIconioscloseoutline",
+		"body": "<i class=\"ion-ios-close-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosclouddownload": {
+		"prefix": "ionicIconiosclouddownload",
+		"body": "<i class=\"ion-ios-cloud-download icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosclouddownloadoutline": {
+		"prefix": "ionicIconiosclouddownloadoutline",
+		"body": "<i class=\"ion-ios-cloud-download-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloud": {
+		"prefix": "ionicIconioscloud",
+		"body": "<i class=\"ion-ios-cloud icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloudoutline": {
+		"prefix": "ionicIconioscloudoutline",
+		"body": "<i class=\"ion-ios-cloud-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloudupload": {
+		"prefix": "ionicIconioscloudupload",
+		"body": "<i class=\"ion-ios-cloud-upload icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosclouduploadoutline": {
+		"prefix": "ionicIconiosclouduploadoutline",
+		"body": "<i class=\"ion-ios-cloud-upload-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloudy": {
+		"prefix": "ionicIconioscloudy",
+		"body": "<i class=\"ion-ios-cloudy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloudynight": {
+		"prefix": "ionicIconioscloudynight",
+		"body": "<i class=\"ion-ios-cloudy-night icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloudynightoutline": {
+		"prefix": "ionicIconioscloudynightoutline",
+		"body": "<i class=\"ion-ios-cloudy-night-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscloudyoutline": {
+		"prefix": "ionicIconioscloudyoutline",
+		"body": "<i class=\"ion-ios-cloudy-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscog": {
+		"prefix": "ionicIconioscog",
+		"body": "<i class=\"ion-ios-cog icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscogoutline": {
+		"prefix": "ionicIconioscogoutline",
+		"body": "<i class=\"ion-ios-cog-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscolorfilter": {
+		"prefix": "ionicIconioscolorfilter",
+		"body": "<i class=\"ion-ios-color-filter icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscolorfilteroutline": {
+		"prefix": "ionicIconioscolorfilteroutline",
+		"body": "<i class=\"ion-ios-color-filter-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscolorwand": {
+		"prefix": "ionicIconioscolorwand",
+		"body": "<i class=\"ion-ios-color-wand icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscolorwandoutline": {
+		"prefix": "ionicIconioscolorwandoutline",
+		"body": "<i class=\"ion-ios-color-wand-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscompose": {
+		"prefix": "ionicIconioscompose",
+		"body": "<i class=\"ion-ios-compose icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscomposeoutline": {
+		"prefix": "ionicIconioscomposeoutline",
+		"body": "<i class=\"ion-ios-compose-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscontact": {
+		"prefix": "ionicIconioscontact",
+		"body": "<i class=\"ion-ios-contact icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscontactoutline": {
+		"prefix": "ionicIconioscontactoutline",
+		"body": "<i class=\"ion-ios-contact-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscopy": {
+		"prefix": "ionicIconioscopy",
+		"body": "<i class=\"ion-ios-copy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscopyoutline": {
+		"prefix": "ionicIconioscopyoutline",
+		"body": "<i class=\"ion-ios-copy-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscrop": {
+		"prefix": "ionicIconioscrop",
+		"body": "<i class=\"ion-ios-crop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioscropstrong": {
+		"prefix": "ionicIconioscropstrong",
+		"body": "<i class=\"ion-ios-crop-strong icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosdownload": {
+		"prefix": "ionicIconiosdownload",
+		"body": "<i class=\"ion-ios-download icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosdownloadoutline": {
+		"prefix": "ionicIconiosdownloadoutline",
+		"body": "<i class=\"ion-ios-download-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosdrag": {
+		"prefix": "ionicIconiosdrag",
+		"body": "<i class=\"ion-ios-drag icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosemail": {
+		"prefix": "ionicIconiosemail",
+		"body": "<i class=\"ion-ios-email icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosemailoutline": {
+		"prefix": "ionicIconiosemailoutline",
+		"body": "<i class=\"ion-ios-email-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioseye": {
+		"prefix": "ionicIconioseye",
+		"body": "<i class=\"ion-ios-eye icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioseyeoutline": {
+		"prefix": "ionicIconioseyeoutline",
+		"body": "<i class=\"ion-ios-eye-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfastforward": {
+		"prefix": "ionicIconiosfastforward",
+		"body": "<i class=\"ion-ios-fastforward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfastforwardoutline": {
+		"prefix": "ionicIconiosfastforwardoutline",
+		"body": "<i class=\"ion-ios-fastforward-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfiling": {
+		"prefix": "ionicIconiosfiling",
+		"body": "<i class=\"ion-ios-filing icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfilingoutline": {
+		"prefix": "ionicIconiosfilingoutline",
+		"body": "<i class=\"ion-ios-filing-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfilm": {
+		"prefix": "ionicIconiosfilm",
+		"body": "<i class=\"ion-ios-film icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfilmoutline": {
+		"prefix": "ionicIconiosfilmoutline",
+		"body": "<i class=\"ion-ios-film-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosflag": {
+		"prefix": "ionicIconiosflag",
+		"body": "<i class=\"ion-ios-flag icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosflagoutline": {
+		"prefix": "ionicIconiosflagoutline",
+		"body": "<i class=\"ion-ios-flag-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosflame": {
+		"prefix": "ionicIconiosflame",
+		"body": "<i class=\"ion-ios-flame icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosflameoutline": {
+		"prefix": "ionicIconiosflameoutline",
+		"body": "<i class=\"ion-ios-flame-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosflask": {
+		"prefix": "ionicIconiosflask",
+		"body": "<i class=\"ion-ios-flask icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosflaskoutline": {
+		"prefix": "ionicIconiosflaskoutline",
+		"body": "<i class=\"ion-ios-flask-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosflower": {
+		"prefix": "ionicIconiosflower",
+		"body": "<i class=\"ion-ios-flower icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfloweroutline": {
+		"prefix": "ionicIconiosfloweroutline",
+		"body": "<i class=\"ion-ios-flower-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfolder": {
+		"prefix": "ionicIconiosfolder",
+		"body": "<i class=\"ion-ios-folder icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfolderoutline": {
+		"prefix": "ionicIconiosfolderoutline",
+		"body": "<i class=\"ion-ios-folder-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfootball": {
+		"prefix": "ionicIconiosfootball",
+		"body": "<i class=\"ion-ios-football icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosfootballoutline": {
+		"prefix": "ionicIconiosfootballoutline",
+		"body": "<i class=\"ion-ios-football-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgamecontrollera": {
+		"prefix": "ionicIconiosgamecontrollera",
+		"body": "<i class=\"ion-ios-game-controller-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgamecontrolleraoutline": {
+		"prefix": "ionicIconiosgamecontrolleraoutline",
+		"body": "<i class=\"ion-ios-game-controller-a-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgamecontrollerb": {
+		"prefix": "ionicIconiosgamecontrollerb",
+		"body": "<i class=\"ion-ios-game-controller-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgamecontrollerboutline": {
+		"prefix": "ionicIconiosgamecontrollerboutline",
+		"body": "<i class=\"ion-ios-game-controller-b-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgear": {
+		"prefix": "ionicIconiosgear",
+		"body": "<i class=\"ion-ios-gear icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgearoutline": {
+		"prefix": "ionicIconiosgearoutline",
+		"body": "<i class=\"ion-ios-gear-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosglasses": {
+		"prefix": "ionicIconiosglasses",
+		"body": "<i class=\"ion-ios-glasses icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosglassesoutline": {
+		"prefix": "ionicIconiosglassesoutline",
+		"body": "<i class=\"ion-ios-glasses-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgridview": {
+		"prefix": "ionicIconiosgridview",
+		"body": "<i class=\"ion-ios-grid-view icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosgridviewoutline": {
+		"prefix": "ionicIconiosgridviewoutline",
+		"body": "<i class=\"ion-ios-grid-view-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosheart": {
+		"prefix": "ionicIconiosheart",
+		"body": "<i class=\"ion-ios-heart icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosheartoutline": {
+		"prefix": "ionicIconiosheartoutline",
+		"body": "<i class=\"ion-ios-heart-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioshelpempty": {
+		"prefix": "ionicIconioshelpempty",
+		"body": "<i class=\"ion-ios-help-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioshelp": {
+		"prefix": "ionicIconioshelp",
+		"body": "<i class=\"ion-ios-help icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioshelpoutline": {
+		"prefix": "ionicIconioshelpoutline",
+		"body": "<i class=\"ion-ios-help-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioshome": {
+		"prefix": "ionicIconioshome",
+		"body": "<i class=\"ion-ios-home icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioshomeoutline": {
+		"prefix": "ionicIconioshomeoutline",
+		"body": "<i class=\"ion-ios-home-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosinfinite": {
+		"prefix": "ionicIconiosinfinite",
+		"body": "<i class=\"ion-ios-infinite icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosinfiniteoutline": {
+		"prefix": "ionicIconiosinfiniteoutline",
+		"body": "<i class=\"ion-ios-infinite-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosinformationempty": {
+		"prefix": "ionicIconiosinformationempty",
+		"body": "<i class=\"ion-ios-information-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosinformation": {
+		"prefix": "ionicIconiosinformation",
+		"body": "<i class=\"ion-ios-information icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosinformationoutline": {
+		"prefix": "ionicIconiosinformationoutline",
+		"body": "<i class=\"ion-ios-information-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosionicoutline": {
+		"prefix": "ionicIconiosionicoutline",
+		"body": "<i class=\"ion-ios-ionic-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioskeypad": {
+		"prefix": "ionicIconioskeypad",
+		"body": "<i class=\"ion-ios-keypad icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioskeypadoutline": {
+		"prefix": "ionicIconioskeypadoutline",
+		"body": "<i class=\"ion-ios-keypad-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslightbulb": {
+		"prefix": "ionicIconioslightbulb",
+		"body": "<i class=\"ion-ios-lightbulb icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslightbulboutline": {
+		"prefix": "ionicIconioslightbulboutline",
+		"body": "<i class=\"ion-ios-lightbulb-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslist": {
+		"prefix": "ionicIconioslist",
+		"body": "<i class=\"ion-ios-list icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslistoutline": {
+		"prefix": "ionicIconioslistoutline",
+		"body": "<i class=\"ion-ios-list-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslocation": {
+		"prefix": "ionicIconioslocation",
+		"body": "<i class=\"ion-ios-location icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslocationoutline": {
+		"prefix": "ionicIconioslocationoutline",
+		"body": "<i class=\"ion-ios-location-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslocked": {
+		"prefix": "ionicIconioslocked",
+		"body": "<i class=\"ion-ios-locked icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioslockedoutline": {
+		"prefix": "ionicIconioslockedoutline",
+		"body": "<i class=\"ion-ios-locked-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosloop": {
+		"prefix": "ionicIconiosloop",
+		"body": "<i class=\"ion-ios-loop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosloopstrong": {
+		"prefix": "ionicIconiosloopstrong",
+		"body": "<i class=\"ion-ios-loop-strong icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmedical": {
+		"prefix": "ionicIconiosmedical",
+		"body": "<i class=\"ion-ios-medical icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmedicaloutline": {
+		"prefix": "ionicIconiosmedicaloutline",
+		"body": "<i class=\"ion-ios-medical-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmedkit": {
+		"prefix": "ionicIconiosmedkit",
+		"body": "<i class=\"ion-ios-medkit icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmedkitoutline": {
+		"prefix": "ionicIconiosmedkitoutline",
+		"body": "<i class=\"ion-ios-medkit-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmic": {
+		"prefix": "ionicIconiosmic",
+		"body": "<i class=\"ion-ios-mic icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmicoff": {
+		"prefix": "ionicIconiosmicoff",
+		"body": "<i class=\"ion-ios-mic-off icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmicoutline": {
+		"prefix": "ionicIconiosmicoutline",
+		"body": "<i class=\"ion-ios-mic-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosminusempty": {
+		"prefix": "ionicIconiosminusempty",
+		"body": "<i class=\"ion-ios-minus-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosminus": {
+		"prefix": "ionicIconiosminus",
+		"body": "<i class=\"ion-ios-minus icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosminusoutline": {
+		"prefix": "ionicIconiosminusoutline",
+		"body": "<i class=\"ion-ios-minus-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmonitor": {
+		"prefix": "ionicIconiosmonitor",
+		"body": "<i class=\"ion-ios-monitor icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmonitoroutline": {
+		"prefix": "ionicIconiosmonitoroutline",
+		"body": "<i class=\"ion-ios-monitor-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmoon": {
+		"prefix": "ionicIconiosmoon",
+		"body": "<i class=\"ion-ios-moon icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmoonoutline": {
+		"prefix": "ionicIconiosmoonoutline",
+		"body": "<i class=\"ion-ios-moon-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmore": {
+		"prefix": "ionicIconiosmore",
+		"body": "<i class=\"ion-ios-more icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmoreoutline": {
+		"prefix": "ionicIconiosmoreoutline",
+		"body": "<i class=\"ion-ios-more-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmusicalnote": {
+		"prefix": "ionicIconiosmusicalnote",
+		"body": "<i class=\"ion-ios-musical-note icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosmusicalnotes": {
+		"prefix": "ionicIconiosmusicalnotes",
+		"body": "<i class=\"ion-ios-musical-notes icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosnavigate": {
+		"prefix": "ionicIconiosnavigate",
+		"body": "<i class=\"ion-ios-navigate icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosnavigateoutline": {
+		"prefix": "ionicIconiosnavigateoutline",
+		"body": "<i class=\"ion-ios-navigate-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosnutrition": {
+		"prefix": "ionicIconiosnutrition",
+		"body": "<i class=\"ion-ios-nutrition icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosnutritionoutline": {
+		"prefix": "ionicIconiosnutritionoutline",
+		"body": "<i class=\"ion-ios-nutrition-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospaper": {
+		"prefix": "ionicIconiospaper",
+		"body": "<i class=\"ion-ios-paper icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospaperoutline": {
+		"prefix": "ionicIconiospaperoutline",
+		"body": "<i class=\"ion-ios-paper-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospaperplane": {
+		"prefix": "ionicIconiospaperplane",
+		"body": "<i class=\"ion-ios-paperplane icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospaperplaneoutline": {
+		"prefix": "ionicIconiospaperplaneoutline",
+		"body": "<i class=\"ion-ios-paperplane-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospartlysunny": {
+		"prefix": "ionicIconiospartlysunny",
+		"body": "<i class=\"ion-ios-partlysunny icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospartlysunnyoutline": {
+		"prefix": "ionicIconiospartlysunnyoutline",
+		"body": "<i class=\"ion-ios-partlysunny-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospause": {
+		"prefix": "ionicIconiospause",
+		"body": "<i class=\"ion-ios-pause icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospauseoutline": {
+		"prefix": "ionicIconiospauseoutline",
+		"body": "<i class=\"ion-ios-pause-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospaw": {
+		"prefix": "ionicIconiospaw",
+		"body": "<i class=\"ion-ios-paw icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospawoutline": {
+		"prefix": "ionicIconiospawoutline",
+		"body": "<i class=\"ion-ios-paw-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospeople": {
+		"prefix": "ionicIconiospeople",
+		"body": "<i class=\"ion-ios-people icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospeopleoutline": {
+		"prefix": "ionicIconiospeopleoutline",
+		"body": "<i class=\"ion-ios-people-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosperson": {
+		"prefix": "ionicIconiosperson",
+		"body": "<i class=\"ion-ios-person icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospersonoutline": {
+		"prefix": "ionicIconiospersonoutline",
+		"body": "<i class=\"ion-ios-person-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospersonadd": {
+		"prefix": "ionicIconiospersonadd",
+		"body": "<i class=\"ion-ios-personadd icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospersonaddoutline": {
+		"prefix": "ionicIconiospersonaddoutline",
+		"body": "<i class=\"ion-ios-personadd-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosphotos": {
+		"prefix": "ionicIconiosphotos",
+		"body": "<i class=\"ion-ios-photos icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosphotosoutline": {
+		"prefix": "ionicIconiosphotosoutline",
+		"body": "<i class=\"ion-ios-photos-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospie": {
+		"prefix": "ionicIconiospie",
+		"body": "<i class=\"ion-ios-pie icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospieoutline": {
+		"prefix": "ionicIconiospieoutline",
+		"body": "<i class=\"ion-ios-pie-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospint": {
+		"prefix": "ionicIconiospint",
+		"body": "<i class=\"ion-ios-pint icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospintoutline": {
+		"prefix": "ionicIconiospintoutline",
+		"body": "<i class=\"ion-ios-pint-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosplay": {
+		"prefix": "ionicIconiosplay",
+		"body": "<i class=\"ion-ios-play icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosplayoutline": {
+		"prefix": "ionicIconiosplayoutline",
+		"body": "<i class=\"ion-ios-play-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosplusempty": {
+		"prefix": "ionicIconiosplusempty",
+		"body": "<i class=\"ion-ios-plus-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosplus": {
+		"prefix": "ionicIconiosplus",
+		"body": "<i class=\"ion-ios-plus icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosplusoutline": {
+		"prefix": "ionicIconiosplusoutline",
+		"body": "<i class=\"ion-ios-plus-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospricetag": {
+		"prefix": "ionicIconiospricetag",
+		"body": "<i class=\"ion-ios-pricetag icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospricetagoutline": {
+		"prefix": "ionicIconiospricetagoutline",
+		"body": "<i class=\"ion-ios-pricetag-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospricetags": {
+		"prefix": "ionicIconiospricetags",
+		"body": "<i class=\"ion-ios-pricetags icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospricetagsoutline": {
+		"prefix": "ionicIconiospricetagsoutline",
+		"body": "<i class=\"ion-ios-pricetags-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosprinter": {
+		"prefix": "ionicIconiosprinter",
+		"body": "<i class=\"ion-ios-printer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosprinteroutline": {
+		"prefix": "ionicIconiosprinteroutline",
+		"body": "<i class=\"ion-ios-printer-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospulse": {
+		"prefix": "ionicIconiospulse",
+		"body": "<i class=\"ion-ios-pulse icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiospulsestrong": {
+		"prefix": "ionicIconiospulsestrong",
+		"body": "<i class=\"ion-ios-pulse-strong icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrainy": {
+		"prefix": "ionicIconiosrainy",
+		"body": "<i class=\"ion-ios-rainy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrainyoutline": {
+		"prefix": "ionicIconiosrainyoutline",
+		"body": "<i class=\"ion-ios-rainy-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrecording": {
+		"prefix": "ionicIconiosrecording",
+		"body": "<i class=\"ion-ios-recording icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrecordingoutline": {
+		"prefix": "ionicIconiosrecordingoutline",
+		"body": "<i class=\"ion-ios-recording-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosredo": {
+		"prefix": "ionicIconiosredo",
+		"body": "<i class=\"ion-ios-redo icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosredooutline": {
+		"prefix": "ionicIconiosredooutline",
+		"body": "<i class=\"ion-ios-redo-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrefreshempty": {
+		"prefix": "ionicIconiosrefreshempty",
+		"body": "<i class=\"ion-ios-refresh-empty icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrefresh": {
+		"prefix": "ionicIconiosrefresh",
+		"body": "<i class=\"ion-ios-refresh icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrefreshoutline": {
+		"prefix": "ionicIconiosrefreshoutline",
+		"body": "<i class=\"ion-ios-refresh-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosreload": {
+		"prefix": "ionicIconiosreload",
+		"body": "<i class=\"ion-ios-reload icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosreversecamera": {
+		"prefix": "ionicIconiosreversecamera",
+		"body": "<i class=\"ion-ios-reverse-camera icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosreversecameraoutline": {
+		"prefix": "ionicIconiosreversecameraoutline",
+		"body": "<i class=\"ion-ios-reverse-camera-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrewind": {
+		"prefix": "ionicIconiosrewind",
+		"body": "<i class=\"ion-ios-rewind icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrewindoutline": {
+		"prefix": "ionicIconiosrewindoutline",
+		"body": "<i class=\"ion-ios-rewind-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosrose": {
+		"prefix": "ionicIconiosrose",
+		"body": "<i class=\"ion-ios-rose icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosroseoutline": {
+		"prefix": "ionicIconiosroseoutline",
+		"body": "<i class=\"ion-ios-rose-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiossearch": {
+		"prefix": "ionicIconiossearch",
+		"body": "<i class=\"ion-ios-search icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiossearchstrong": {
+		"prefix": "ionicIconiossearchstrong",
+		"body": "<i class=\"ion-ios-search-strong icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiossettings": {
+		"prefix": "ionicIconiossettings",
+		"body": "<i class=\"ion-ios-settings icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiossettingsstrong": {
+		"prefix": "ionicIconiossettingsstrong",
+		"body": "<i class=\"ion-ios-settings-strong icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosshuffle": {
+		"prefix": "ionicIconiosshuffle",
+		"body": "<i class=\"ion-ios-shuffle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosshufflestrong": {
+		"prefix": "ionicIconiosshufflestrong",
+		"body": "<i class=\"ion-ios-shuffle-strong icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosskipbackward": {
+		"prefix": "ionicIconiosskipbackward",
+		"body": "<i class=\"ion-ios-skipbackward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosskipbackwardoutline": {
+		"prefix": "ionicIconiosskipbackwardoutline",
+		"body": "<i class=\"ion-ios-skipbackward-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosskipforward": {
+		"prefix": "ionicIconiosskipforward",
+		"body": "<i class=\"ion-ios-skipforward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosskipforwardoutline": {
+		"prefix": "ionicIconiosskipforwardoutline",
+		"body": "<i class=\"ion-ios-skipforward-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiossnowy": {
+		"prefix": "ionicIconiossnowy",
+		"body": "<i class=\"ion-ios-snowy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosspeedometer": {
+		"prefix": "ionicIconiosspeedometer",
+		"body": "<i class=\"ion-ios-speedometer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosspeedometeroutline": {
+		"prefix": "ionicIconiosspeedometeroutline",
+		"body": "<i class=\"ion-ios-speedometer-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosstarhalf": {
+		"prefix": "ionicIconiosstarhalf",
+		"body": "<i class=\"ion-ios-star-half icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosstar": {
+		"prefix": "ionicIconiosstar",
+		"body": "<i class=\"ion-ios-star icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosstaroutline": {
+		"prefix": "ionicIconiosstaroutline",
+		"body": "<i class=\"ion-ios-star-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosstopwatch": {
+		"prefix": "ionicIconiosstopwatch",
+		"body": "<i class=\"ion-ios-stopwatch icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosstopwatchoutline": {
+		"prefix": "ionicIconiosstopwatchoutline",
+		"body": "<i class=\"ion-ios-stopwatch-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiossunny": {
+		"prefix": "ionicIconiossunny",
+		"body": "<i class=\"ion-ios-sunny icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiossunnyoutline": {
+		"prefix": "ionicIconiossunnyoutline",
+		"body": "<i class=\"ion-ios-sunny-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostelephone": {
+		"prefix": "ionicIconiostelephone",
+		"body": "<i class=\"ion-ios-telephone icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostelephoneoutline": {
+		"prefix": "ionicIconiostelephoneoutline",
+		"body": "<i class=\"ion-ios-telephone-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostennisball": {
+		"prefix": "ionicIconiostennisball",
+		"body": "<i class=\"ion-ios-tennisball icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostennisballoutline": {
+		"prefix": "ionicIconiostennisballoutline",
+		"body": "<i class=\"ion-ios-tennisball-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosthunderstorm": {
+		"prefix": "ionicIconiosthunderstorm",
+		"body": "<i class=\"ion-ios-thunderstorm icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosthunderstormoutline": {
+		"prefix": "ionicIconiosthunderstormoutline",
+		"body": "<i class=\"ion-ios-thunderstorm-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostime": {
+		"prefix": "ionicIconiostime",
+		"body": "<i class=\"ion-ios-time icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostimeoutline": {
+		"prefix": "ionicIconiostimeoutline",
+		"body": "<i class=\"ion-ios-time-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostimer": {
+		"prefix": "ionicIconiostimer",
+		"body": "<i class=\"ion-ios-timer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostimeroutline": {
+		"prefix": "ionicIconiostimeroutline",
+		"body": "<i class=\"ion-ios-timer-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostoggle": {
+		"prefix": "ionicIconiostoggle",
+		"body": "<i class=\"ion-ios-toggle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostoggleoutline": {
+		"prefix": "ionicIconiostoggleoutline",
+		"body": "<i class=\"ion-ios-toggle-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostrash": {
+		"prefix": "ionicIconiostrash",
+		"body": "<i class=\"ion-ios-trash icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiostrashoutline": {
+		"prefix": "ionicIconiostrashoutline",
+		"body": "<i class=\"ion-ios-trash-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosundo": {
+		"prefix": "ionicIconiosundo",
+		"body": "<i class=\"ion-ios-undo icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosundooutline": {
+		"prefix": "ionicIconiosundooutline",
+		"body": "<i class=\"ion-ios-undo-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosunlocked": {
+		"prefix": "ionicIconiosunlocked",
+		"body": "<i class=\"ion-ios-unlocked icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosunlockedoutline": {
+		"prefix": "ionicIconiosunlockedoutline",
+		"body": "<i class=\"ion-ios-unlocked-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosupload": {
+		"prefix": "ionicIconiosupload",
+		"body": "<i class=\"ion-ios-upload icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosuploadoutline": {
+		"prefix": "ionicIconiosuploadoutline",
+		"body": "<i class=\"ion-ios-upload-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosvideocam": {
+		"prefix": "ionicIconiosvideocam",
+		"body": "<i class=\"ion-ios-videocam icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosvideocamoutline": {
+		"prefix": "ionicIconiosvideocamoutline",
+		"body": "<i class=\"ion-ios-videocam-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosvolumehigh": {
+		"prefix": "ionicIconiosvolumehigh",
+		"body": "<i class=\"ion-ios-volume-high icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosvolumelow": {
+		"prefix": "ionicIconiosvolumelow",
+		"body": "<i class=\"ion-ios-volume-low icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioswineglass": {
+		"prefix": "ionicIconioswineglass",
+		"body": "<i class=\"ion-ios-wineglass icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconioswineglassoutline": {
+		"prefix": "ionicIconioswineglassoutline",
+		"body": "<i class=\"ion-ios-wineglass-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosworld": {
+		"prefix": "ionicIconiosworld",
+		"body": "<i class=\"ion-ios-world icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiosworldoutline": {
+		"prefix": "ionicIconiosworldoutline",
+		"body": "<i class=\"ion-ios-world-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconipad": {
+		"prefix": "ionicIconipad",
+		"body": "<i class=\"ion-ipad icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconiphone": {
+		"prefix": "ionicIconiphone",
+		"body": "<i class=\"ion-iphone icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconipod": {
+		"prefix": "ionicIconipod",
+		"body": "<i class=\"ion-ipod icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconjet": {
+		"prefix": "ionicIconjet",
+		"body": "<i class=\"ion-jet icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconkey": {
+		"prefix": "ionicIconkey",
+		"body": "<i class=\"ion-key icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconknife": {
+		"prefix": "ionicIconknife",
+		"body": "<i class=\"ion-knife icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlaptop": {
+		"prefix": "ionicIconlaptop",
+		"body": "<i class=\"ion-laptop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconleaf": {
+		"prefix": "ionicIconleaf",
+		"body": "<i class=\"ion-leaf icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlevels": {
+		"prefix": "ionicIconlevels",
+		"body": "<i class=\"ion-levels icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlightbulb": {
+		"prefix": "ionicIconlightbulb",
+		"body": "<i class=\"ion-lightbulb icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlink": {
+		"prefix": "ionicIconlink",
+		"body": "<i class=\"ion-link icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconloada": {
+		"prefix": "ionicIconloada",
+		"body": "<i class=\"ion-load-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconloadb": {
+		"prefix": "ionicIconloadb",
+		"body": "<i class=\"ion-load-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconloadc": {
+		"prefix": "ionicIconloadc",
+		"body": "<i class=\"ion-load-c icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconloadd": {
+		"prefix": "ionicIconloadd",
+		"body": "<i class=\"ion-load-d icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlocation": {
+		"prefix": "ionicIconlocation",
+		"body": "<i class=\"ion-location icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlockcombination": {
+		"prefix": "ionicIconlockcombination",
+		"body": "<i class=\"ion-lock-combination icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlocked": {
+		"prefix": "ionicIconlocked",
+		"body": "<i class=\"ion-locked icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlogin": {
+		"prefix": "ionicIconlogin",
+		"body": "<i class=\"ion-log-in icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconlogout": {
+		"prefix": "ionicIconlogout",
+		"body": "<i class=\"ion-log-out icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconloop": {
+		"prefix": "ionicIconloop",
+		"body": "<i class=\"ion-loop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmagnet": {
+		"prefix": "ionicIconmagnet",
+		"body": "<i class=\"ion-magnet icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmale": {
+		"prefix": "ionicIconmale",
+		"body": "<i class=\"ion-male icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconman": {
+		"prefix": "ionicIconman",
+		"body": "<i class=\"ion-man icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmap": {
+		"prefix": "ionicIconmap",
+		"body": "<i class=\"ion-map icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmedkit": {
+		"prefix": "ionicIconmedkit",
+		"body": "<i class=\"ion-medkit icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmerge": {
+		"prefix": "ionicIconmerge",
+		"body": "<i class=\"ion-merge icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmica": {
+		"prefix": "ionicIconmica",
+		"body": "<i class=\"ion-mic-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmicb": {
+		"prefix": "ionicIconmicb",
+		"body": "<i class=\"ion-mic-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmicc": {
+		"prefix": "ionicIconmicc",
+		"body": "<i class=\"ion-mic-c icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconminuscircled": {
+		"prefix": "ionicIconminuscircled",
+		"body": "<i class=\"ion-minus-circled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconminus": {
+		"prefix": "ionicIconminus",
+		"body": "<i class=\"ion-minus icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconminusround": {
+		"prefix": "ionicIconminusround",
+		"body": "<i class=\"ion-minus-round icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmodels": {
+		"prefix": "ionicIconmodels",
+		"body": "<i class=\"ion-model-s icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmonitor": {
+		"prefix": "ionicIconmonitor",
+		"body": "<i class=\"ion-monitor icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmore": {
+		"prefix": "ionicIconmore",
+		"body": "<i class=\"ion-more icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmouse": {
+		"prefix": "ionicIconmouse",
+		"body": "<i class=\"ion-mouse icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconmusicnote": {
+		"prefix": "ionicIconmusicnote",
+		"body": "<i class=\"ion-music-note icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconnavicon": {
+		"prefix": "ionicIconnavicon",
+		"body": "<i class=\"ion-navicon icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconnaviconround": {
+		"prefix": "ionicIconnaviconround",
+		"body": "<i class=\"ion-navicon-round icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconnavigate": {
+		"prefix": "ionicIconnavigate",
+		"body": "<i class=\"ion-navigate icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconnetwork": {
+		"prefix": "ionicIconnetwork",
+		"body": "<i class=\"ion-network icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconnosmoking": {
+		"prefix": "ionicIconnosmoking",
+		"body": "<i class=\"ion-no-smoking icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconnuclear": {
+		"prefix": "ionicIconnuclear",
+		"body": "<i class=\"ion-nuclear icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconoutlet": {
+		"prefix": "ionicIconoutlet",
+		"body": "<i class=\"ion-outlet icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpaintbrush": {
+		"prefix": "ionicIconpaintbrush",
+		"body": "<i class=\"ion-paintbrush icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpaintbucket": {
+		"prefix": "ionicIconpaintbucket",
+		"body": "<i class=\"ion-paintbucket icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpaperairplane": {
+		"prefix": "ionicIconpaperairplane",
+		"body": "<i class=\"ion-paper-airplane icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpaperclip": {
+		"prefix": "ionicIconpaperclip",
+		"body": "<i class=\"ion-paperclip icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpause": {
+		"prefix": "ionicIconpause",
+		"body": "<i class=\"ion-pause icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpersonadd": {
+		"prefix": "ionicIconpersonadd",
+		"body": "<i class=\"ion-person-add icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconperson": {
+		"prefix": "ionicIconperson",
+		"body": "<i class=\"ion-person icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpersonstalker": {
+		"prefix": "ionicIconpersonstalker",
+		"body": "<i class=\"ion-person-stalker icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpiegraph": {
+		"prefix": "ionicIconpiegraph",
+		"body": "<i class=\"ion-pie-graph icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpin": {
+		"prefix": "ionicIconpin",
+		"body": "<i class=\"ion-pin icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpinpoint": {
+		"prefix": "ionicIconpinpoint",
+		"body": "<i class=\"ion-pinpoint icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpizza": {
+		"prefix": "ionicIconpizza",
+		"body": "<i class=\"ion-pizza icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconplane": {
+		"prefix": "ionicIconplane",
+		"body": "<i class=\"ion-plane icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconplanet": {
+		"prefix": "ionicIconplanet",
+		"body": "<i class=\"ion-planet icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconplay": {
+		"prefix": "ionicIconplay",
+		"body": "<i class=\"ion-play icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconplaystation": {
+		"prefix": "ionicIconplaystation",
+		"body": "<i class=\"ion-playstation icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpluscircled": {
+		"prefix": "ionicIconpluscircled",
+		"body": "<i class=\"ion-plus-circled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconplus": {
+		"prefix": "ionicIconplus",
+		"body": "<i class=\"ion-plus icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconplusround": {
+		"prefix": "ionicIconplusround",
+		"body": "<i class=\"ion-plus-round icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpodium": {
+		"prefix": "ionicIconpodium",
+		"body": "<i class=\"ion-podium icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpound": {
+		"prefix": "ionicIconpound",
+		"body": "<i class=\"ion-pound icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpower": {
+		"prefix": "ionicIconpower",
+		"body": "<i class=\"ion-power icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpricetag": {
+		"prefix": "ionicIconpricetag",
+		"body": "<i class=\"ion-pricetag icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpricetags": {
+		"prefix": "ionicIconpricetags",
+		"body": "<i class=\"ion-pricetags icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconprinter": {
+		"prefix": "ionicIconprinter",
+		"body": "<i class=\"ion-printer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconpullrequest": {
+		"prefix": "ionicIconpullrequest",
+		"body": "<i class=\"ion-pull-request icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconqrscanner": {
+		"prefix": "ionicIconqrscanner",
+		"body": "<i class=\"ion-qr-scanner icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconquote": {
+		"prefix": "ionicIconquote",
+		"body": "<i class=\"ion-quote icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconradiowaves": {
+		"prefix": "ionicIconradiowaves",
+		"body": "<i class=\"ion-radio-waves icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconrecord": {
+		"prefix": "ionicIconrecord",
+		"body": "<i class=\"ion-record icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconrefresh": {
+		"prefix": "ionicIconrefresh",
+		"body": "<i class=\"ion-refresh icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconreplyall": {
+		"prefix": "ionicIconreplyall",
+		"body": "<i class=\"ion-reply-all icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconreply": {
+		"prefix": "ionicIconreply",
+		"body": "<i class=\"ion-reply icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconribbona": {
+		"prefix": "ionicIconribbona",
+		"body": "<i class=\"ion-ribbon-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconribbonb": {
+		"prefix": "ionicIconribbonb",
+		"body": "<i class=\"ion-ribbon-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsad": {
+		"prefix": "ionicIconsad",
+		"body": "<i class=\"ion-sad icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsadoutline": {
+		"prefix": "ionicIconsadoutline",
+		"body": "<i class=\"ion-sad-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconscissors": {
+		"prefix": "ionicIconscissors",
+		"body": "<i class=\"ion-scissors icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsearch": {
+		"prefix": "ionicIconsearch",
+		"body": "<i class=\"ion-search icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsettings": {
+		"prefix": "ionicIconsettings",
+		"body": "<i class=\"ion-settings icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconshare": {
+		"prefix": "ionicIconshare",
+		"body": "<i class=\"ion-share icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconshuffle": {
+		"prefix": "ionicIconshuffle",
+		"body": "<i class=\"ion-shuffle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconskipbackward": {
+		"prefix": "ionicIconskipbackward",
+		"body": "<i class=\"ion-skip-backward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconskipforward": {
+		"prefix": "ionicIconskipforward",
+		"body": "<i class=\"ion-skip-forward icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialandroid": {
+		"prefix": "ionicIconsocialandroid",
+		"body": "<i class=\"ion-social-android icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialandroidoutline": {
+		"prefix": "ionicIconsocialandroidoutline",
+		"body": "<i class=\"ion-social-android-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialangular": {
+		"prefix": "ionicIconsocialangular",
+		"body": "<i class=\"ion-social-angular icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialangularoutline": {
+		"prefix": "ionicIconsocialangularoutline",
+		"body": "<i class=\"ion-social-angular-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialapple": {
+		"prefix": "ionicIconsocialapple",
+		"body": "<i class=\"ion-social-apple icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialappleoutline": {
+		"prefix": "ionicIconsocialappleoutline",
+		"body": "<i class=\"ion-social-apple-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialbitcoin": {
+		"prefix": "ionicIconsocialbitcoin",
+		"body": "<i class=\"ion-social-bitcoin icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialbitcoinoutline": {
+		"prefix": "ionicIconsocialbitcoinoutline",
+		"body": "<i class=\"ion-social-bitcoin-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialbuffer": {
+		"prefix": "ionicIconsocialbuffer",
+		"body": "<i class=\"ion-social-buffer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialbufferoutline": {
+		"prefix": "ionicIconsocialbufferoutline",
+		"body": "<i class=\"ion-social-buffer-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialchrome": {
+		"prefix": "ionicIconsocialchrome",
+		"body": "<i class=\"ion-social-chrome icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialchromeoutline": {
+		"prefix": "ionicIconsocialchromeoutline",
+		"body": "<i class=\"ion-social-chrome-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialcodepen": {
+		"prefix": "ionicIconsocialcodepen",
+		"body": "<i class=\"ion-social-codepen icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialcodepenoutline": {
+		"prefix": "ionicIconsocialcodepenoutline",
+		"body": "<i class=\"ion-social-codepen-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialcss3": {
+		"prefix": "ionicIconsocialcss3",
+		"body": "<i class=\"ion-social-css3 icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialcss3outline": {
+		"prefix": "ionicIconsocialcss3outline",
+		"body": "<i class=\"ion-social-css3-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialdesignernews": {
+		"prefix": "ionicIconsocialdesignernews",
+		"body": "<i class=\"ion-social-designernews icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialdesignernewsoutline": {
+		"prefix": "ionicIconsocialdesignernewsoutline",
+		"body": "<i class=\"ion-social-designernews-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialdribbble": {
+		"prefix": "ionicIconsocialdribbble",
+		"body": "<i class=\"ion-social-dribbble icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialdribbbleoutline": {
+		"prefix": "ionicIconsocialdribbbleoutline",
+		"body": "<i class=\"ion-social-dribbble-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialdropbox": {
+		"prefix": "ionicIconsocialdropbox",
+		"body": "<i class=\"ion-social-dropbox icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialdropboxoutline": {
+		"prefix": "ionicIconsocialdropboxoutline",
+		"body": "<i class=\"ion-social-dropbox-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialeuro": {
+		"prefix": "ionicIconsocialeuro",
+		"body": "<i class=\"ion-social-euro icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialeurooutline": {
+		"prefix": "ionicIconsocialeurooutline",
+		"body": "<i class=\"ion-social-euro-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialfacebook": {
+		"prefix": "ionicIconsocialfacebook",
+		"body": "<i class=\"ion-social-facebook icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialfacebookoutline": {
+		"prefix": "ionicIconsocialfacebookoutline",
+		"body": "<i class=\"ion-social-facebook-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialfoursquare": {
+		"prefix": "ionicIconsocialfoursquare",
+		"body": "<i class=\"ion-social-foursquare icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialfoursquareoutline": {
+		"prefix": "ionicIconsocialfoursquareoutline",
+		"body": "<i class=\"ion-social-foursquare-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialfreebsddevil": {
+		"prefix": "ionicIconsocialfreebsddevil",
+		"body": "<i class=\"ion-social-freebsd-devil icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialgithub": {
+		"prefix": "ionicIconsocialgithub",
+		"body": "<i class=\"ion-social-github icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialgithuboutline": {
+		"prefix": "ionicIconsocialgithuboutline",
+		"body": "<i class=\"ion-social-github-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialgoogle": {
+		"prefix": "ionicIconsocialgoogle",
+		"body": "<i class=\"ion-social-google icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialgoogleoutline": {
+		"prefix": "ionicIconsocialgoogleoutline",
+		"body": "<i class=\"ion-social-google-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialgoogleplus": {
+		"prefix": "ionicIconsocialgoogleplus",
+		"body": "<i class=\"ion-social-googleplus icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialgoogleplusoutline": {
+		"prefix": "ionicIconsocialgoogleplusoutline",
+		"body": "<i class=\"ion-social-googleplus-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialhackernews": {
+		"prefix": "ionicIconsocialhackernews",
+		"body": "<i class=\"ion-social-hackernews icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialhackernewsoutline": {
+		"prefix": "ionicIconsocialhackernewsoutline",
+		"body": "<i class=\"ion-social-hackernews-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialhtml5": {
+		"prefix": "ionicIconsocialhtml5",
+		"body": "<i class=\"ion-social-html5 icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialhtml5outline": {
+		"prefix": "ionicIconsocialhtml5outline",
+		"body": "<i class=\"ion-social-html5-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialinstagram": {
+		"prefix": "ionicIconsocialinstagram",
+		"body": "<i class=\"ion-social-instagram icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialinstagramoutline": {
+		"prefix": "ionicIconsocialinstagramoutline",
+		"body": "<i class=\"ion-social-instagram-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialjavascript": {
+		"prefix": "ionicIconsocialjavascript",
+		"body": "<i class=\"ion-social-javascript icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialjavascriptoutline": {
+		"prefix": "ionicIconsocialjavascriptoutline",
+		"body": "<i class=\"ion-social-javascript-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsociallinkedin": {
+		"prefix": "ionicIconsociallinkedin",
+		"body": "<i class=\"ion-social-linkedin icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsociallinkedinoutline": {
+		"prefix": "ionicIconsociallinkedinoutline",
+		"body": "<i class=\"ion-social-linkedin-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialmarkdown": {
+		"prefix": "ionicIconsocialmarkdown",
+		"body": "<i class=\"ion-social-markdown icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialnodejs": {
+		"prefix": "ionicIconsocialnodejs",
+		"body": "<i class=\"ion-social-nodejs icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialoctocat": {
+		"prefix": "ionicIconsocialoctocat",
+		"body": "<i class=\"ion-social-octocat icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialpinterest": {
+		"prefix": "ionicIconsocialpinterest",
+		"body": "<i class=\"ion-social-pinterest icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialpinterestoutline": {
+		"prefix": "ionicIconsocialpinterestoutline",
+		"body": "<i class=\"ion-social-pinterest-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialpython": {
+		"prefix": "ionicIconsocialpython",
+		"body": "<i class=\"ion-social-python icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialreddit": {
+		"prefix": "ionicIconsocialreddit",
+		"body": "<i class=\"ion-social-reddit icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialredditoutline": {
+		"prefix": "ionicIconsocialredditoutline",
+		"body": "<i class=\"ion-social-reddit-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialrss": {
+		"prefix": "ionicIconsocialrss",
+		"body": "<i class=\"ion-social-rss icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialrssoutline": {
+		"prefix": "ionicIconsocialrssoutline",
+		"body": "<i class=\"ion-social-rss-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialsass": {
+		"prefix": "ionicIconsocialsass",
+		"body": "<i class=\"ion-social-sass icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialskype": {
+		"prefix": "ionicIconsocialskype",
+		"body": "<i class=\"ion-social-skype icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialskypeoutline": {
+		"prefix": "ionicIconsocialskypeoutline",
+		"body": "<i class=\"ion-social-skype-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialsnapchat": {
+		"prefix": "ionicIconsocialsnapchat",
+		"body": "<i class=\"ion-social-snapchat icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialsnapchatoutline": {
+		"prefix": "ionicIconsocialsnapchatoutline",
+		"body": "<i class=\"ion-social-snapchat-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialtumblr": {
+		"prefix": "ionicIconsocialtumblr",
+		"body": "<i class=\"ion-social-tumblr icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialtumblroutline": {
+		"prefix": "ionicIconsocialtumblroutline",
+		"body": "<i class=\"ion-social-tumblr-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialtux": {
+		"prefix": "ionicIconsocialtux",
+		"body": "<i class=\"ion-social-tux icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialtwitch": {
+		"prefix": "ionicIconsocialtwitch",
+		"body": "<i class=\"ion-social-twitch icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialtwitchoutline": {
+		"prefix": "ionicIconsocialtwitchoutline",
+		"body": "<i class=\"ion-social-twitch-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialtwitter": {
+		"prefix": "ionicIconsocialtwitter",
+		"body": "<i class=\"ion-social-twitter icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialtwitteroutline": {
+		"prefix": "ionicIconsocialtwitteroutline",
+		"body": "<i class=\"ion-social-twitter-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialusd": {
+		"prefix": "ionicIconsocialusd",
+		"body": "<i class=\"ion-social-usd icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialusdoutline": {
+		"prefix": "ionicIconsocialusdoutline",
+		"body": "<i class=\"ion-social-usd-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialvimeo": {
+		"prefix": "ionicIconsocialvimeo",
+		"body": "<i class=\"ion-social-vimeo icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialvimeooutline": {
+		"prefix": "ionicIconsocialvimeooutline",
+		"body": "<i class=\"ion-social-vimeo-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialwhatsapp": {
+		"prefix": "ionicIconsocialwhatsapp",
+		"body": "<i class=\"ion-social-whatsapp icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialwhatsappoutline": {
+		"prefix": "ionicIconsocialwhatsappoutline",
+		"body": "<i class=\"ion-social-whatsapp-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialwindows": {
+		"prefix": "ionicIconsocialwindows",
+		"body": "<i class=\"ion-social-windows icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialwindowsoutline": {
+		"prefix": "ionicIconsocialwindowsoutline",
+		"body": "<i class=\"ion-social-windows-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialwordpress": {
+		"prefix": "ionicIconsocialwordpress",
+		"body": "<i class=\"ion-social-wordpress icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialwordpressoutline": {
+		"prefix": "ionicIconsocialwordpressoutline",
+		"body": "<i class=\"ion-social-wordpress-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialyahoo": {
+		"prefix": "ionicIconsocialyahoo",
+		"body": "<i class=\"ion-social-yahoo icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialyahoooutline": {
+		"prefix": "ionicIconsocialyahoooutline",
+		"body": "<i class=\"ion-social-yahoo-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialyen": {
+		"prefix": "ionicIconsocialyen",
+		"body": "<i class=\"ion-social-yen icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialyenoutline": {
+		"prefix": "ionicIconsocialyenoutline",
+		"body": "<i class=\"ion-social-yen-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialyoutube": {
+		"prefix": "ionicIconsocialyoutube",
+		"body": "<i class=\"ion-social-youtube icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsocialyoutubeoutline": {
+		"prefix": "ionicIconsocialyoutubeoutline",
+		"body": "<i class=\"ion-social-youtube-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsoupcan": {
+		"prefix": "ionicIconsoupcan",
+		"body": "<i class=\"ion-soup-can icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsoupcanoutline": {
+		"prefix": "ionicIconsoupcanoutline",
+		"body": "<i class=\"ion-soup-can-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconspeakerphone": {
+		"prefix": "ionicIconspeakerphone",
+		"body": "<i class=\"ion-speakerphone icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconspeedometer": {
+		"prefix": "ionicIconspeedometer",
+		"body": "<i class=\"ion-speedometer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconspoon": {
+		"prefix": "ionicIconspoon",
+		"body": "<i class=\"ion-spoon icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconstar": {
+		"prefix": "ionicIconstar",
+		"body": "<i class=\"ion-star icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconstatsbars": {
+		"prefix": "ionicIconstatsbars",
+		"body": "<i class=\"ion-stats-bars icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconsteam": {
+		"prefix": "ionicIconsteam",
+		"body": "<i class=\"ion-steam icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconstop": {
+		"prefix": "ionicIconstop",
+		"body": "<i class=\"ion-stop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconthermometer": {
+		"prefix": "ionicIconthermometer",
+		"body": "<i class=\"ion-thermometer icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconthumbsdown": {
+		"prefix": "ionicIconthumbsdown",
+		"body": "<i class=\"ion-thumbsdown icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconthumbsup": {
+		"prefix": "ionicIconthumbsup",
+		"body": "<i class=\"ion-thumbsup icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontogglefilled": {
+		"prefix": "ionicIcontogglefilled",
+		"body": "<i class=\"ion-toggle-filled icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontoggle": {
+		"prefix": "ionicIcontoggle",
+		"body": "<i class=\"ion-toggle icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontransgender": {
+		"prefix": "ionicIcontransgender",
+		"body": "<i class=\"ion-transgender icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontrasha": {
+		"prefix": "ionicIcontrasha",
+		"body": "<i class=\"ion-trash-a icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontrashb": {
+		"prefix": "ionicIcontrashb",
+		"body": "<i class=\"ion-trash-b icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontrophy": {
+		"prefix": "ionicIcontrophy",
+		"body": "<i class=\"ion-trophy icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontshirt": {
+		"prefix": "ionicIcontshirt",
+		"body": "<i class=\"ion-tshirt icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIcontshirtoutline": {
+		"prefix": "ionicIcontshirtoutline",
+		"body": "<i class=\"ion-tshirt-outline icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconumbrella": {
+		"prefix": "ionicIconumbrella",
+		"body": "<i class=\"ion-umbrella icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconuniversity": {
+		"prefix": "ionicIconuniversity",
+		"body": "<i class=\"ion-university icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconunlocked": {
+		"prefix": "ionicIconunlocked",
+		"body": "<i class=\"ion-unlocked icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconupload": {
+		"prefix": "ionicIconupload",
+		"body": "<i class=\"ion-upload icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconusb": {
+		"prefix": "ionicIconusb",
+		"body": "<i class=\"ion-usb icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconvideocamera": {
+		"prefix": "ionicIconvideocamera",
+		"body": "<i class=\"ion-videocamera icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconvolumehigh": {
+		"prefix": "ionicIconvolumehigh",
+		"body": "<i class=\"ion-volume-high icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconvolumelow": {
+		"prefix": "ionicIconvolumelow",
+		"body": "<i class=\"ion-volume-low icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconvolumemedium": {
+		"prefix": "ionicIconvolumemedium",
+		"body": "<i class=\"ion-volume-medium icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconvolumemute": {
+		"prefix": "ionicIconvolumemute",
+		"body": "<i class=\"ion-volume-mute icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconwand": {
+		"prefix": "ionicIconwand",
+		"body": "<i class=\"ion-wand icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconwaterdrop": {
+		"prefix": "ionicIconwaterdrop",
+		"body": "<i class=\"ion-waterdrop icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconwifi": {
+		"prefix": "ionicIconwifi",
+		"body": "<i class=\"ion-wifi icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconwineglass": {
+		"prefix": "ionicIconwineglass",
+		"body": "<i class=\"ion-wineglass icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconwoman": {
+		"prefix": "ionicIconwoman",
+		"body": "<i class=\"ion-woman icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconwrench": {
+		"prefix": "ionicIconwrench",
+		"body": "<i class=\"ion-wrench icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	},
+	"ionicIconxbox": {
+		"prefix": "ionicIconxbox",
+		"body": "<i class=\"ion-xbox icon\"></i>$0",
+		"description": "",
+		"scope": ""
+	}
+}
