@@ -10,6 +10,10 @@
 	"categories": [
 		"Snippets"
 	],
+	"repository": {
+		"type": "git",
+    "url": "https://github.com/digitaldrummerj/vscode-ionic1-snippets.git"
+	},
 	"contributes": {
 		"snippets": [
 			{
