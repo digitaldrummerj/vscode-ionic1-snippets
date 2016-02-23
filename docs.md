@@ -1,14 +1,15 @@
 ### AngularJS Directive based Ionic Snippets
 #### These snippets will work only in HTML Files
 
-* [Tabs](#tabs)
-* [Side Menu](#sidemenu)
-* [Navigation](#navigation)
-* [Header Bar/Footer Bar](#header)
 * [Content](#content)
-* [Scroll](#scroll)
-* [List](#list)
 * [Forms](#forms)
+* [Header Bar/Footer Bar](#header)
+* [List](#list)
+* [Modal](#modal)
+* [Navigation](#navigation)
+* [Tabs](#tabs)
+* [Scroll](#scroll)
+* [Side Menu](#sidemenu)
 * [Slide Box](#slide-box)
 * [Popover](#popover)
 * [Icons](#icons)
@@ -18,90 +19,41 @@
 
 #### If you don't want or don't need to use AngularJS directives and only want to use Ionic's CSS than you should use following snippets.
 
-* [Header Bar & Footer Bar](#cssheader)
 * [Buttons](#cssbuttons)
-* [List](#csslist)
 * [Cards](#csscards)
-* [Forms](#cssforms)
-* [Toggle](#csstoggle)
 * [Checkbox](#csscheckbox)
+* [Forms](#cssforms)
+* [Icons](#icons)
+* [Header Bar & Footer Bar](#cssheader)
+* [List](#csslist)
 * [Radio Buttons](#cssradio)
 * [Range](#cssrange)
 * [Select](#cssselect)
 * [Tabs](#csstabs)
-* [Icons](#icons)
+* [Toggle](#csstoggle)
 
 ### Javascript based snippets
 #### Following snippets will only work in javascript file.
 
 * [Actionsheet](#jsactionsheet)
 * [Backdrop](#jsbackdrop)
+* [Icon Names](#icons)
+* [Modal](#jsmodal)
+* [Platform](#jsplatform)
 * [Popover](#jspopover)
 * [Popup](#jspopup)
-* [Icons](#icons)
+
 
 
 ## AngularJS Directive based Ionic Snippets
-
-<h2 id="tabs">Tabs</h2>
-
-
-| Component | Snippet Code |
-|---------- | :-----------:|
-| ion-tabs  | ionictabs   |
-| ion-tab   | ionictab    |
-
-
-<h2 name="sidemenu">Side Menu</h2>
-
-| Component      | Snippet Code     |
-|----------------| :---------------:|
-| ion-side-menus | ionicsidemenus |
-
-
-<h2 id="navigation">Navigation</h2>
-
-| Component             | Snippet Code            |
-|-----------------------| :----------------------:|
-| ion-nav-bar           | ionicnavbar           |
-| ion-nav-view          | ionicnavview          |
-| ion-view              | ionicview              |
-| ion-nav-buttons Left  | ionicnavbuttons:left  |
-| ion-nav-buttons Right | ionicnavbuttons:right |
-| ion-nav-back-button   | ionicnavbackbutton   |
-
-<h2 id="header">Header Bar/Footer Bar</h2>
-
-| Component      | Snippet Code     |
-| ---------------| :---------------:|
-| ion-header-bar | ionicheaderbar |
-| ion-footer-bar | ionicfooterbar |
 
 <h2 id="content">Content</h2>
 
 | Component             | Snippet Code            |
 |-----------------------| :----------------------:|
 | ion-content          	| ioniccontent	          |
-| ion-pane           	| ionicpane              |
+| ion-pane           	| ionicpane               |
 | ion-refresher 	 	| ionicrefresher		  |
-
-<h2 id="list">Scroll</h2>
-
-| Component             	| Snippet Code            |
-|---------------------------| :----------------------:|
-| ion-scroll	           	| ionicscroll         	  |
-| ion-infinite-scroll		| ionicinfinite-scrol	  |
-
-
-<h2 id="list">List</h2>
-
-| Component             	| Snippet Code            |
-|---------------------------| :----------------------:|
-| ion-list	            	| ioniclist         	  |
-| ion-item					| ionicitem			  |
-| ion-reorder-button		| ionicreorderbutton	  |
-| ion-option-button			| ionicoptionbutton	  |
-| ion-delete-button			| ionicdeletebutton	  |
 
 <h2 id="forms">Forms</h2>
 
@@ -114,18 +66,80 @@
 
 ##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
-<h2 id="slidebox">Slide Box</h2>
+<h2 id="header">Header Bar/Footer Bar</h2>
 
-| Component     | Snippet Code    |
-| --------------| :--------------:|
-| ion-slide-box | ionicslide-box |
-| ion-slide     | ionicslide     |
+| Component      | Snippet Code     |
+| ---------------| :---------------:|
+| ion-header-bar | ionicheaderbar |
+| ion-footer-bar | ionicfooterbar |
+
+
+<h2 id="list">List</h2>
+
+| Component             	| Snippet Code            |
+|---------------------------| :----------------------:|
+| ion-list	            	| ioniclist         	  |
+| ion-item					| ionicitem			      |
+| ion-reorder-button		| ionicreorderbutton	  |
+| ion-option-button			| ionicoptionbutton	      |
+| ion-delete-button			| ionicdeletebutton	      |
+
+
+
+<h2 id="list">List</h2>
+
+| Component             	| Snippet Code            |
+|---------------------------| :----------------------:|
+| ion-modal-view	        | ionicmodal         	  |
+
+
+<h2 id="navigation">Navigation</h2>
+
+| Component             | Snippet Code            |
+|-----------------------| :----------------------:|
+| ion-nav-bar           | ionicnavbar             |
+| ion-nav-view          | ionicnavview            |
+| ion-view              | ionicview               |
+| ion-nav-buttons Left  | ionicnavbuttons:left    |
+| ion-nav-buttons Right | ionicnavbuttons:right   |
+| ion-nav-back-button   | ionicnavbackbutton      |
+
+
 
 <h2 id="popover">Popover</h2>
 
 | Component    				| Snippet Code   			|
 | --------------------------| :------------------------:|
-| ion-popover-view			| ionicpopover 			|
+| ion-popover-view			| ionicpopover 			    |
+
+<h2 id="tabs">Tabs</h2>
+
+
+| Component | Snippet Code |
+|---------- | :-----------:|
+| ion-tabs  | ionictabs   |
+| ion-tab   | ionictab    |
+
+<h2 id="list">Scroll</h2>
+
+| Component             	| Snippet Code            |
+|---------------------------| :----------------------:|
+| ion-scroll	           	| ionicscroll         	  |
+| ion-infinite-scroll		| ionicinfinite-scrol	  |
+
+<h2 name="sidemenu">Side Menu</h2>
+
+| Component      | Snippet Code     |
+|----------------| :---------------:|
+| ion-side-menus | ionicsidemenus   |
+
+
+<h2 id="slidebox">Slide Box</h2>
+
+| Component     | Snippet Code    |
+| --------------| :--------------:|
+| ion-slide-box | ionicslide-box  |
+| ion-slide     | ionicslide      |
 
 
 ## Simple HTML Ionic Snippets
@@ -134,104 +148,102 @@
 
 Example : ioniccssfooter:calm for calm theme footer.
 
-<h2 name="cssheader">Header & Footer Bar</h2>
-
-| Component             	| Snippet Code            		|
-|---------------------------| :----------------------------:|
-| Header Bar	           	| ioniccssheader     	 	 	|
-| Header Bar Theme			| ioniccssheader:themecolor	|
-| Sub Header Bar			| ioniccsssubheader	  		|
-| Footer Bar				| ioniccssfooter  	  		|
-| Footer Bar Theme			| ioniccssfooter:themecolor	|
-
 <h2 name="cssbuttons">Buttons Snippet</h2>
 
 | Component             	| Snippet Code            					|
 |---------------------------| :----------------------------------------:|
 | Button		           	| ioniccssbutton     	 	 				|
-| Button Theme				| ioniccssbutton:themecolor				|
+| Button Theme				| ioniccssbutton:themecolor				    |
 | Full Width Button			| ioniccssbuttonfull	  					|
 | Full Width Button Theme	| ioniccssbuttonfull:themecolor 	  		|
-| Large Button				| ioniccssbuttonlarge					|
-| Large Button Theme		| ioniccssbuttonlarge:themecolor 		|
-| Small Button				| ioniccssbuttonsmall					|
+| Large Button				| ioniccssbuttonlarge					    |
+| Large Button Theme		| ioniccssbuttonlarge:themecolor 		    |
+| Small Button				| ioniccssbuttonsmall					    |
 | Small Button Theme		| ioniccssbuttonsmall:themecolor			|
-| Outlined Button			| ioniccssbuttonoutline					|
-| Outlined Button Theme		| ioniccssbuttonoutline:themecolor 		|
-| Clear Button				| ioniccssbuttonclear					|
+| Outlined Button			| ioniccssbuttonoutline					    |
+| Outlined Button Theme		| ioniccssbuttonoutline:themecolor 	     	|
+| Clear Button				| ioniccssbuttonclear					    |
 | Clear Button Theme		| ioniccssbuttonclear:themecolor			|
 
-
-<h2 name="csslist">List Snippets</h2>
-
-| Component             		| Snippet Code            					|
-|-------------------------------| :----------------------------------------:|
-| List			           		| ioniccsslist    	 	 				|
-| List Inset					| ioniccsslist:inset						|
-| List Item						| ioniccsslist:item	  					|
-| List Divider					| ioniccsslist:divider			  		|
-| List Item with Avatar			| ioniccsslistitem:avatar				|
-| List Item with Left Button	| ioniccsslistitem:buttonleft	 		|
-| List Item with Right Button	| ioniccsslistitem:buttonright			|
-| List Item with Left Icon		| ioniccsslistitem:iconright				|
-| List Item with Right Icon		| ioniccsslistitem:iconleft				|
-| List Item with Right Thumbnail| ioniccsslistitem:thumbright			|
-| List Item with Left Thumbnail	| ioniccsslistitem:thumbleft				|
 
 <h2 name="csscards">Card Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| Card			           		| ioniccsscard    	 	 				|
-| Card List						| ioniccsscard:list						|
+| Card			           		| ioniccsscard    	 	 				    |
+| Card List						| ioniccsscard:list						    |
 | Card Divider					| ioniccsscard:divider  					|
-| Card Showcase					| ioniccsscard:showcase			  		|
+| Card Showcase					| ioniccsscard:showcase			  		    |
 | Cards with Images				| ioniccsscard:image						|
+
+<h2 name="csscheckbox">Checkbox Snippets</h2>
+
+| Component             			| Snippet Code            					|
+|-----------------------------------| :----------------------------------------:|
+| Checkbox Default Theme     		| ioniccsscheckbox    	 	 			    |
+| Checkbox with Theme				| ioniccsscheckbox:themecolor				|
+
 
 <h2 name="cssforms">Form Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| Floating Form Element        	| ioniccssformfloating 	 				|
-| Stacked Form Element			| ioniccssformstacked					|
-| Inset	Form					| ioniccssforminset	  					|
+| Floating Form Element        	| ioniccssformfloating 	 				    |
+| Stacked Form Element			| ioniccssformstacked					    |
+| Inset	Form					| ioniccssforminset	  					    |
 | Placeholder Form Element		| ioniccssformplacehoder			  		|
 | Header Form Elements			| ioniccssformheader						|
 | Inline Form Elements			| ioniccssforminline				 		|
-| Icon based Form Elements		| ioniccssformicon						|
+| Icon based Form Elements		| ioniccssformicon						    |
+
+
+<h2 name="cssheader">Header & Footer Bar</h2>
+
+| Component             	| Snippet Code            		|
+|---------------------------| :----------------------------:|
+| Header Bar	           	| ioniccssheader     	 	 	|
+| Header Bar Theme			| ioniccssheader:themecolor	    |
+| Sub Header Bar			| ioniccsssubheader	  		    |
+| Footer Bar				| ioniccssfooter  	  		    |
+| Footer Bar Theme			| ioniccssfooter:themecolor   	|
+
+<h2 name="csslist">List Snippets</h2>
+
+| Component             		| Snippet Code            					|
+|-------------------------------| :----------------------------------------:|
+| List			           		| ioniccsslist    	 	 				    |
+| List Inset					| ioniccsslist:inset						|
+| List Item						| ioniccsslist:item	  					    |
+| List Divider					| ioniccsslist:divider			  		    |
+| List Item with Avatar			| ioniccsslistitem:avatar				    |
+| List Item with Left Button	| ioniccsslistitem:buttonleft	 		    |
+| List Item with Right Button	| ioniccsslistitem:buttonright			    |
+| List Item with Left Icon		| ioniccsslistitem:iconright				|
+| List Item with Right Icon		| ioniccsslistitem:iconleft				    |
+| List Item with Right Thumbnail| ioniccsslistitem:thumbright			    |
+| List Item with Left Thumbnail	| ioniccsslistitem:thumbleft				|
 
 <h2 name="csstoggle">Toggle Snippets</h2>
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
 | Toggle Default Theme     		| ioniccsstoggle    	 	 				|
-| Toggle with Theme				| ioniccsstoggle:themecolor				|
+| Toggle with Theme				| ioniccsstoggle:themecolor				    |
 
-##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
-
-<h2 name="csscheckbox">Checkbox Snippets</h2>
-
-| Component             			| Snippet Code            					|
-|-----------------------------------| :----------------------------------------:|
-| Checkbox Default Theme     		| ioniccsscheckbox    	 	 			|
-| Checkbox with Theme				| ioniccsscheckbox:themecolor				|
-
-##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 <h2 name="cssradio">Radio Buttons Snippets</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
-| Radio Buttons			     		| ioniccssradio	    	 	 			|
+| Radio Buttons			     		| ioniccssradio	    	 	 			    |
 
 <h2 name="cssrange">Range Snippets</h2>
 
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
-| Range Default Theme     			| ioniccssrange	    	 	 			|
-| Range with Theme					| ioniccssrange:themecolor				|
+| Range Default Theme     			| ioniccssrange	    	 	 			    |
+| Range with Theme					| ioniccssrange:themecolor				    |
 
-##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 <h2 name="cssselect">Select Snippets</h2>
 
@@ -243,16 +255,15 @@ Example : ioniccssfooter:calm for calm theme footer.
 
 | Component             		| Snippet Code            					|
 |-------------------------------| :----------------------------------------:|
-| Tabs		        			| ioniccsstabs     	 	 				|
+| Tabs		        			| ioniccsstabs     	 	 				    |
 | Tabs with Theme				| ioniccsstabs:themecolor					|
-| Tabs with Icon				| ioniccsstabsicon	  					|
-| Tabs with Icon & Theme		| ioniccsstabsicon:themecolor 	  		|
-| Tabs with Top Icon			| ioniccsstabsicontop					|
-| Tabs with Top Icon & Theme	| ioniccsstabsicontop:themecolor 		|
-| Tabs with Left Icon			| ioniccsstabsiconleft					|
-| Tabs with Left Icon & Theme	| ioniccsstabsiconleft:themecolor		|
+| Tabs with Icon				| ioniccsstabsicon	  					    |
+| Tabs with Icon & Theme		| ioniccsstabsicon:themecolor 	  		    |
+| Tabs with Top Icon			| ioniccsstabsicontop					    |
+| Tabs with Top Icon & Theme	| ioniccsstabsicontop:themecolor 		    |
+| Tabs with Left Icon			| ioniccsstabsiconleft					    |
+| Tabs with Left Icon & Theme	| ioniccsstabsiconleft:themecolor		    |
 
-##### You can use any themecolor like light,stable,positive,calm,balanced,energized,assertive,royal,dark, in place of ##themecolor in above table.
 
 ## JS Code Snippets for Ionic
 ### Theme Snippets will work only in JS File
@@ -269,6 +280,36 @@ Example : ioniccssfooter:calm for calm theme footer.
 |-----------------------------------| :----------------------------------------:|
 | $ionicBackdrop 	     			| ionicjsbackdrop	    	 	 			|
 
+<h2 name="jspopup">Broadcasts</h2>
+
+Sometimes you need to broadcast some events to Ionic complete some actions, in `ionicbroadcast-*` you can find all the events you need.
+
+| Snippet Code                     |
+|:--------------------------------:|
+| ionicbroadcast-infinite-scroll   |
+| ionicbroadcast-refresh-complete  |
+
+<h2 name="jsmodal">Modal JS Snippet</h2>
+
+| Component             			| Snippet Code            					|
+|-----------------------------------| :----------------------------------------:|
+| $ionicModal	     				| ionicjsmodal  	    	 	 			|
+
+<h2 name="jsplatform">Platform JS Snippet</h2>
+
+| Component             			| Snippet Code            					|
+|-----------------------------------| :----------------------------------------:|
+| android	     				    | ionicjsplatformandroid  	 	 			|
+| current	     				    | ionicjsplatformcurrent  	 	 			|
+| device info	   				    | ionicjsplatformdeviceinfo	 	 			|
+| exit	     	     			    | ionicjsplatformexit    	 	 			|
+| ios	     		    		    | ionicjsplatformios    	 	 			|
+| ipad	     			    	    | ionicjsplatformipad    	 	 			|
+| ready	     				        | ionicjsplatformready   	 	 			|
+| version	     				    | ionicjsplatformversion  	 	 			|
+| web	     				        | ionicjsplatformweb    	 	 			|
+| windows phone    				    | ionicjsplatformwinphone  	 	 			|
+
 <h2 name="jspopover">Popover JS Snippet</h2>
 
 | Component             			| Snippet Code            					|
@@ -280,752 +321,745 @@ Example : ioniccssfooter:calm for calm theme footer.
 | Component             			| Snippet Code            					|
 |-----------------------------------| :----------------------------------------:|
 | Alert $ionicPopup 	     		| ionicjspopup:alert    	 	 			|
-| Confirm $ionicPopup 	     		| ionicjspopup:confirm    	 	 		|
-| Prompt $ionicPopup 	     		| ionicjspopup:prompt  	 	 			|
+| Confirm $ionicPopup 	     		| ionicjspopup:confirm    	 	 	     	|
+| Prompt $ionicPopup 	     		| ionicjspopup:prompt  	 	 			    |
 
-<h2 name="jspopup">Broadcasts</h2>
-Sometimes you need to broadcast some events to Ionic complete some actions, in `ionicbroadcast-*` you can find all the events you need.
-
-| Snippet Code                     |
-|:--------------------------------:|
-| ionicbroadcast-infinite-scroll  |
-| ionicbroadcast-refresh-complete |
 
 <h2 name="icons">Icons</h2>
 When using the iconicons it is hard to keep track of the name to use.  There are two sets of icon snippets.  One is just the name so that you can use it anywhere and the other is the html for it.
 
 | Icons                              | Snippet Code                            |
-|-----------------------------------| :----------------------------------------:|
-| alert                              | alert                                   |
-| alert-circled                      | alertcircled                            |
-| android-add                        | androidadd                              |
-| android-add-circle                 | androidaddcircle                        |
-| android-alarm-clock                | androidalarmclock                       |
-| android-alert                      | androidalert                            |
-| android-apps                       | androidapps                             |
-| android-archive                    | androidarchive                          |
-| android-arrow-back                 | androidarrowback                        |
-| android-arrow-down                 | androidarrowdown                        |
-| android-arrow-dropdown             | androidarrowdropdown                    |
-| android-arrow-dropdown-circle      | androidarrowdropdowncircle              |
-| android-arrow-dropleft             | androidarrowdropleft                    |
-| android-arrow-dropleft-circle      | androidarrowdropleftcircle              |
-| android-arrow-dropright            | androidarrowdropright                   |
-| android-arrow-dropright-circle     | androidarrowdroprightcircle             |
-| android-arrow-dropup               | androidarrowdropup                      |
-| android-arrow-dropup-circle        | androidarrowdropupcircle                |
-| android-arrow-forward              | androidarrowforward                     |
-| android-arrow-up                   | androidarrowup                          |
-| android-attach                     | androidattach                           |
-| android-bar                        | androidbar                              |
-| android-bicycle                    | androidbicycle                          |
-| android-boat                       | androidboat                             |
-| android-bookmark                   | androidbookmark                         |
-| android-bulb                       | androidbulb                             |
-| android-bus                        | androidbus                              |
-| android-calendar                   | androidcalendar                         |
-| android-call                       | androidcall                             |
-| android-camera                     | androidcamera                           |
-| android-cancel                     | androidcancel                           |
-| android-car                        | androidcar                              |
-| android-cart                       | androidcart                             |
-| android-chat                       | androidchat                             |
-| android-checkbox                   | androidcheckbox                         |
-| android-checkbox-blank             | androidcheckboxblank                    |
-| android-checkbox-outline           | androidcheckboxoutline                  |
-| android-checkbox-outline-blank     | androidcheckboxoutlineblank             |
-| android-checkmark-circle           | androidcheckmarkcircle                  |
-| android-clipboard                  | androidclipboard                        |
-| android-close                      | androidclose                            |
-| android-cloud                      | androidcloud                            |
-| android-cloud-circle               | androidcloudcircle                      |
-| android-cloud-done                 | androidclouddone                        |
-| android-cloud-outline              | androidcloudoutline                     |
-| android-color-palette              | androidcolorpalette                     |
-| android-compass                    | androidcompass                          |
-| android-contact                    | androidcontact                          |
-| android-contacts                   | androidcontacts                         |
-| android-contract                   | androidcontract                         |
-| android-create                     | androidcreate                           |
-| android-delete                     | androiddelete                           |
-| android-desktop                    | androiddesktop                          |
-| android-document                   | androiddocument                         |
-| android-done                       | androiddone                             |
-| android-done-all                   | androiddoneall                          |
-| android-download                   | androiddownload                         |
-| android-drafts                     | androiddrafts                           |
-| android-exit                       | androidexit                             |
-| android-expand                     | androidexpand                           |
-| android-favorite                   | androidfavorite                         |
-| android-favorite-outline           | androidfavoriteoutline                  |
-| android-film                       | androidfilm                             |
-| android-folder                     | androidfolder                           |
-| android-folder-open                | androidfolderopen                       |
-| android-funnel                     | androidfunnel                           |
-| android-globe                      | androidglobe                            |
-| android-hand                       | androidhand                             |
-| android-hangout                    | androidhangout                          |
-| android-happy                      | androidhappy                            |
-| android-home                       | androidhome                             |
-| android-image                      | androidimage                            |
-| android-laptop                     | androidlaptop                           |
-| android-list                       | androidlist                             |
-| android-locate                     | androidlocate                           |
-| android-lock                       | androidlock                             |
-| android-mail                       | androidmail                             |
-| android-map                        | androidmap                              |
-| android-menu                       | androidmenu                             |
-| android-microphone                 | androidmicrophone                       |
-| android-microphone-off             | androidmicrophoneoff                    |
-| android-more-horizontal            | androidmorehorizontal                   |
-| android-more-vertical              | androidmorevertical                     |
-| android-navigate                   | androidnavigate                         |
-| android-notifications              | androidnotifications                    |
-| android-notifications-none         | androidnotificationsnone                |
-| android-notifications-off          | androidnotificationsoff                 |
-| android-open                       | androidopen                             |
-| android-options                    | androidoptions                          |
-| android-people                     | androidpeople                           |
-| android-person                     | androidperson                           |
-| android-person-add                 | androidpersonadd                        |
-| android-phone-landscape            | androidphonelandscape                   |
-| android-phone-portrait             | androidphoneportrait                    |
-| android-pin                        | androidpin                              |
-| android-plane                      | androidplane                            |
-| android-playstore                  | androidplaystore                        |
-| android-print                      | androidprint                            |
-| android-radio-button-off           | androidradiobuttonoff                   |
-| android-radio-button-on            | androidradiobuttonon                    |
-| android-refresh                    | androidrefresh                          |
-| android-remove                     | androidremove                           |
-| android-remove-circle              | androidremovecircle                     |
-| android-restaurant                 | androidrestaurant                       |
-| android-sad                        | androidsad                              |
-| android-search                     | androidsearch                           |
-| android-send                       | androidsend                             |
-| android-settings                   | androidsettings                         |
-| android-share                      | androidshare                            |
-| android-share-alt                  | androidsharealt                         |
-| android-star                       | androidstar                             |
-| android-star-half                  | androidstarhalf                         |
-| android-star-outline               | androidstaroutline                      |
-| android-stopwatch                  | androidstopwatch                        |
-| android-subway                     | androidsubway                           |
-| android-sunny                      | androidsunny                            |
-| android-sync                       | androidsync                             |
-| android-textsms                    | androidtextsms                          |
-| android-time                       | androidtime                             |
-| android-train                      | androidtrain                            |
-| android-unlock                     | androidunlock                           |
-| android-upload                     | androidupload                           |
-| android-volume-down                | androidvolumedown                       |
-| android-volume-mute                | androidvolumemute                       |
-| android-volume-off                 | androidvolumeoff                        |
-| android-volume-up                  | androidvolumeup                         |
-| android-walk                       | androidwalk                             |
-| android-warning                    | androidwarning                          |
-| android-watch                      | androidwatch                            |
-| android-wifi                       | androidwifi                             |
-| aperture                           | aperture                                |
-| archive                            | archive                                 |
-| arrow-down-a                       | arrowdowna                              |
-| arrow-down-b                       | arrowdownb                              |
-| arrow-down-c                       | arrowdownc                              |
-| arrow-expand                       | arrowexpand                             |
-| arrow-graph-down-left              | arrowgraphdownleft                      |
-| arrow-graph-down-right             | arrowgraphdownright                     |
-| arrow-graph-up-left                | arrowgraphupleft                        |
-| arrow-graph-up-right               | arrowgraphupright                       |
-| arrow-left-a                       | arrowlefta                              |
-| arrow-left-b                       | arrowleftb                              |
-| arrow-left-c                       | arrowleftc                              |
-| arrow-move                         | arrowmove                               |
-| arrow-resize                       | arrowresize                             |
-| arrow-return-left                  | arrowreturnleft                         |
-| arrow-return-right                 | arrowreturnright                        |
-| arrow-right-a                      | arrowrighta                             |
-| arrow-right-b                      | arrowrightb                             |
-| arrow-right-c                      | arrowrightc                             |
-| arrow-shrink                       | arrowshrink                             |
-| arrow-swap                         | arrowswap                               |
-| arrow-up-a                         | arrowupa                                |
-| arrow-up-b                         | arrowupb                                |
-| arrow-up-c                         | arrowupc                                |
-| asterisk                           | asterisk                                |
-| at                                 | at                                      |
-| backspace                          | backspace                               |
-| backspace-outline                  | backspaceoutline                        |
-| bag                                | bag                                     |
-| battery-charging                   | batterycharging                         |
-| battery-empty                      | batteryempty                            |
-| battery-full                       | batteryfull                             |
-| battery-half                       | batteryhalf                             |
-| battery-low                        | batterylow                              |
-| beaker                             | beaker                                  |
-| beer                               | beer                                    |
-| bluetooth                          | bluetooth                               |
-| bonfire                            | bonfire                                 |
-| bookmark                           | bookmark                                |
-| bowtie                             | bowtie                                  |
-| briefcase                          | briefcase                               |
-| bug                                | bug                                     |
-| calculator                         | calculator                              |
-| calendar                           | calendar                                |
-| camera                             | camera                                  |
-| card                               | card                                    |
-| cash                               | cash                                    |
-| chatbox                            | chatbox                                 |
-| chatbox-working                    | chatboxworking                          |
-| chatboxes                          | chatboxes                               |
-| chatbubble                         | chatbubble                              |
-| chatbubble-working                 | chatbubbleworking                       |
-| chatbubbles                        | chatbubbles                             |
-| checkmark                          | checkmark                               |
-| checkmark-circled                  | checkmarkcircled                        |
-| checkmark-round                    | checkmarkround                          |
-| chevron-down                       | chevrondown                             |
-| chevron-left                       | chevronleft                             |
-| chevron-right                      | chevronright                            |
-| chevron-up                         | chevronup                               |
-| clipboard                          | clipboard                               |
-| clock                              | clock                                   |
-| close                              | close                                   |
-| close-circled                      | closecircled                            |
-| close-round                        | closeround                              |
-| closed-captioning                  | closedcaptioning                        |
-| cloud                              | cloud                                   |
-| code                               | code                                    |
-| code-download                      | codedownload                            |
-| code-working                       | codeworking                             |
-| coffee                             | coffee                                  |
-| compass                            | compass                                 |
-| compose                            | compose                                 |
-| connection-bars                    | connectionbars                          |
-| contrast                           | contrast                                |
-| crop                               | crop                                    |
-| cube                               | cube                                    |
-| disc                               | disc                                    |
-| document                           | document                                |
-| document-text                      | documenttext                            |
-| drag                               | drag                                    |
-| earth                              | earth                                   |
-| easel                              | easel                                   |
-| edit                               | edit                                    |
-| egg                                | egg                                     |
-| eject                              | eject                                   |
-| email                              | email                                   |
-| email-unread                       | emailunread                             |
-| erlenmeyer-flask                   | erlenmeyerflask                         |
-| erlenmeyer-flask-bubbles           | erlenmeyerflaskbubbles                  |
-| eye                                | eye                                     |
-| eye-disabled                       | eyedisabled                             |
-| female                             | female                                  |
-| filing                             | filing                                  |
-| film-marker                        | filmmarker                              |
-| fireball                           | fireball                                |
-| flag                               | flag                                    |
-| flame                              | flame                                   |
-| flash                              | flash                                   |
-| flash-off                          | flashoff                                |
-| folder                             | folder                                  |
-| fork                               | fork                                    |
-| fork-repo                          | forkrepo                                |
-| forward                            | forward                                 |
-| funnel                             | funnel                                  |
-| gear-a                             | geara                                   |
-| gear-b                             | gearb                                   |
-| grid                               | grid                                    |
-| hammer                             | hammer                                  |
-| happy                              | happy                                   |
-| happy-outline                      | happyoutline                            |
-| headphone                          | headphone                               |
-| heart                              | heart                                   |
-| heart-broken                       | heartbroken                             |
-| help                               | help                                    |
-| help-buoy                          | helpbuoy                                |
-| help-circled                       | helpcircled                             |
-| home                               | home                                    |
-| icecream                           | icecream                                |
-| image                              | image                                   |
-| images                             | images                                  |
-| information                        | information                             |
-| information-circled                | informationcircled                      |
-| ionic                              | ionic                                   |
-| ios-alarm                          | iosalarm                                |
-| ios-alarm-outline                  | iosalarmoutline                         |
-| ios-albums                         | iosalbums                               |
-| ios-albums-outline                 | iosalbumsoutline                        |
-| ios-americanfootball               | iosamericanfootball                     |
-| ios-americanfootball-outline       | iosamericanfootballoutline              |
-| ios-analytics                      | iosanalytics                            |
-| ios-analytics-outline              | iosanalyticsoutline                     |
-| ios-arrow-back                     | iosarrowback                            |
-| ios-arrow-down                     | iosarrowdown                            |
-| ios-arrow-forward                  | iosarrowforward                         |
-| ios-arrow-left                     | iosarrowleft                            |
-| ios-arrow-right                    | iosarrowright                           |
-| ios-arrow-thin-down                | iosarrowthindown                        |
-| ios-arrow-thin-left                | iosarrowthinleft                        |
-| ios-arrow-thin-right               | iosarrowthinright                       |
-| ios-arrow-thin-up                  | iosarrowthinup                          |
-| ios-arrow-up                       | iosarrowup                              |
-| ios-at                             | iosat                                   |
-| ios-at-outline                     | iosatoutline                            |
-| ios-barcode                        | iosbarcode                              |
-| ios-barcode-outline                | iosbarcodeoutline                       |
-| ios-baseball                       | iosbaseball                             |
-| ios-baseball-outline               | iosbaseballoutline                      |
-| ios-basketball                     | iosbasketball                           |
-| ios-basketball-outline             | iosbasketballoutline                    |
-| ios-bell                           | iosbell                                 |
-| ios-bell-outline                   | iosbelloutline                          |
-| ios-body                           | iosbody                                 |
-| ios-body-outline                   | iosbodyoutline                          |
-| ios-bolt                           | iosbolt                                 |
-| ios-bolt-outline                   | iosboltoutline                          |
-| ios-book                           | iosbook                                 |
-| ios-book-outline                   | iosbookoutline                          |
-| ios-bookmarks                      | iosbookmarks                            |
-| ios-bookmarks-outline              | iosbookmarksoutline                     |
-| ios-box                            | iosbox                                  |
-| ios-box-outline                    | iosboxoutline                           |
-| ios-briefcase                      | iosbriefcase                            |
-| ios-briefcase-outline              | iosbriefcaseoutline                     |
-| ios-browsers                       | iosbrowsers                             |
-| ios-browsers-outline               | iosbrowsersoutline                      |
-| ios-calculator                     | ioscalculator                           |
-| ios-calculator-outline             | ioscalculatoroutline                    |
-| ios-calendar                       | ioscalendar                             |
-| ios-calendar-outline               | ioscalendaroutline                      |
-| ios-camera                         | ioscamera                               |
-| ios-camera-outline                 | ioscameraoutline                        |
-| ios-cart                           | ioscart                                 |
-| ios-cart-outline                   | ioscartoutline                          |
-| ios-chatboxes                      | ioschatboxes                            |
-| ios-chatboxes-outline              | ioschatboxesoutline                     |
-| ios-chatbubble                     | ioschatbubble                           |
-| ios-chatbubble-outline             | ioschatbubbleoutline                    |
-| ios-checkmark                      | ioscheckmark                            |
-| ios-checkmark-empty                | ioscheckmarkempty                       |
-| ios-checkmark-outline              | ioscheckmarkoutline                     |
-| ios-circle-filled                  | ioscirclefilled                         |
-| ios-circle-outline                 | ioscircleoutline                        |
-| ios-clock                          | iosclock                                |
-| ios-clock-outline                  | iosclockoutline                         |
-| ios-close                          | iosclose                                |
-| ios-close-empty                    | ioscloseempty                           |
-| ios-close-outline                  | ioscloseoutline                         |
-| ios-cloud                          | ioscloud                                |
-| ios-cloud-download                 | iosclouddownload                        |
-| ios-cloud-download-outline         | iosclouddownloadoutline                 |
-| ios-cloud-outline                  | ioscloudoutline                         |
-| ios-cloud-upload                   | ioscloudupload                          |
-| ios-cloud-upload-outline           | iosclouduploadoutline                   |
-| ios-cloudy                         | ioscloudy                               |
-| ios-cloudy-night                   | ioscloudynight                          |
-| ios-cloudy-night-outline           | ioscloudynightoutline                   |
-| ios-cloudy-outline                 | ioscloudyoutline                        |
-| ios-cog                            | ioscog                                  |
-| ios-cog-outline                    | ioscogoutline                           |
-| ios-color-filter                   | ioscolorfilter                          |
-| ios-color-filter-outline           | ioscolorfilteroutline                   |
-| ios-color-wand                     | ioscolorwand                            |
-| ios-color-wand-outline             | ioscolorwandoutline                     |
-| ios-compose                        | ioscompose                              |
-| ios-compose-outline                | ioscomposeoutline                       |
-| ios-contact                        | ioscontact                              |
-| ios-contact-outline                | ioscontactoutline                       |
-| ios-copy                           | ioscopy                                 |
-| ios-copy-outline                   | ioscopyoutline                          |
-| ios-crop                           | ioscrop                                 |
-| ios-crop-strong                    | ioscropstrong                           |
-| ios-download                       | iosdownload                             |
-| ios-download-outline               | iosdownloadoutline                      |
-| ios-drag                           | iosdrag                                 |
-| ios-email                          | iosemail                                |
-| ios-email-outline                  | iosemailoutline                         |
-| ios-eye                            | ioseye                                  |
-| ios-eye-outline                    | ioseyeoutline                           |
-| ios-fastforward                    | iosfastforward                          |
-| ios-fastforward-outline            | iosfastforwardoutline                   |
-| ios-filing                         | iosfiling                               |
-| ios-filing-outline                 | iosfilingoutline                        |
-| ios-film                           | iosfilm                                 |
-| ios-film-outline                   | iosfilmoutline                          |
-| ios-flag                           | iosflag                                 |
-| ios-flag-outline                   | iosflagoutline                          |
-| ios-flame                          | iosflame                                |
-| ios-flame-outline                  | iosflameoutline                         |
-| ios-flask                          | iosflask                                |
-| ios-flask-outline                  | iosflaskoutline                         |
-| ios-flower                         | iosflower                               |
-| ios-flower-outline                 | iosfloweroutline                        |
-| ios-folder                         | iosfolder                               |
-| ios-folder-outline                 | iosfolderoutline                        |
-| ios-football                       | iosfootball                             |
-| ios-football-outline               | iosfootballoutline                      |
-| ios-game-controller-a              | iosgamecontrollera                      |
-| ios-game-controller-a-outline      | iosgamecontrolleraoutline               |
-| ios-game-controller-b              | iosgamecontrollerb                      |
-| ios-game-controller-b-outline      | iosgamecontrollerboutline               |
-| ios-gear                           | iosgear                                 |
-| ios-gear-outline                   | iosgearoutline                          |
-| ios-glasses                        | iosglasses                              |
-| ios-glasses-outline                | iosglassesoutline                       |
-| ios-grid-view                      | iosgridview                             |
-| ios-grid-view-outline              | iosgridviewoutline                      |
-| ios-heart                          | iosheart                                |
-| ios-heart-outline                  | iosheartoutline                         |
-| ios-help                           | ioshelp                                 |
-| ios-help-empty                     | ioshelpempty                            |
-| ios-help-outline                   | ioshelpoutline                          |
-| ios-home                           | ioshome                                 |
-| ios-home-outline                   | ioshomeoutline                          |
-| ios-infinite                       | iosinfinite                             |
-| ios-infinite-outline               | iosinfiniteoutline                      |
-| ios-information                    | iosinformation                          |
-| ios-information-empty              | iosinformationempty                     |
-| ios-information-outline            | iosinformationoutline                   |
-| ios-ionic-outline                  | iosionicoutline                         |
-| ios-keypad                         | ioskeypad                               |
-| ios-keypad-outline                 | ioskeypadoutline                        |
-| ios-lightbulb                      | ioslightbulb                            |
-| ios-lightbulb-outline              | ioslightbulboutline                     |
-| ios-list                           | ioslist                                 |
-| ios-list-outline                   | ioslistoutline                          |
-| ios-location                       | ioslocation                             |
-| ios-location-outline               | ioslocationoutline                      |
-| ios-locked                         | ioslocked                               |
-| ios-locked-outline                 | ioslockedoutline                        |
-| ios-loop                           | iosloop                                 |
-| ios-loop-strong                    | iosloopstrong                           |
-| ios-medical                        | iosmedical                              |
-| ios-medical-outline                | iosmedicaloutline                       |
-| ios-medkit                         | iosmedkit                               |
-| ios-medkit-outline                 | iosmedkitoutline                        |
-| ios-mic                            | iosmic                                  |
-| ios-mic-off                        | iosmicoff                               |
-| ios-mic-outline                    | iosmicoutline                           |
-| ios-minus                          | iosminus                                |
-| ios-minus-empty                    | iosminusempty                           |
-| ios-minus-outline                  | iosminusoutline                         |
-| ios-monitor                        | iosmonitor                              |
-| ios-monitor-outline                | iosmonitoroutline                       |
-| ios-moon                           | iosmoon                                 |
-| ios-moon-outline                   | iosmoonoutline                          |
-| ios-more                           | iosmore                                 |
-| ios-more-outline                   | iosmoreoutline                          |
-| ios-musical-note                   | iosmusicalnote                          |
-| ios-musical-notes                  | iosmusicalnotes                         |
-| ios-navigate                       | iosnavigate                             |
-| ios-navigate-outline               | iosnavigateoutline                      |
-| ios-nutrition                      | iosnutrition                            |
-| ios-nutrition-outline              | iosnutritionoutline                     |
-| ios-paper                          | iospaper                                |
-| ios-paper-outline                  | iospaperoutline                         |
-| ios-paperplane                     | iospaperplane                           |
-| ios-paperplane-outline             | iospaperplaneoutline                    |
-| ios-partlysunny                    | iospartlysunny                          |
-| ios-partlysunny-outline            | iospartlysunnyoutline                   |
-| ios-pause                          | iospause                                |
-| ios-pause-outline                  | iospauseoutline                         |
-| ios-paw                            | iospaw                                  |
-| ios-paw-outline                    | iospawoutline                           |
-| ios-people                         | iospeople                               |
-| ios-people-outline                 | iospeopleoutline                        |
-| ios-person                         | iosperson                               |
-| ios-person-outline                 | iospersonoutline                        |
-| ios-personadd                      | iospersonadd                            |
-| ios-personadd-outline              | iospersonaddoutline                     |
-| ios-photos                         | iosphotos                               |
-| ios-photos-outline                 | iosphotosoutline                        |
-| ios-pie                            | iospie                                  |
-| ios-pie-outline                    | iospieoutline                           |
-| ios-pint                           | iospint                                 |
-| ios-pint-outline                   | iospintoutline                          |
-| ios-play                           | iosplay                                 |
-| ios-play-outline                   | iosplayoutline                          |
-| ios-plus                           | iosplus                                 |
-| ios-plus-empty                     | iosplusempty                            |
-| ios-plus-outline                   | iosplusoutline                          |
-| ios-pricetag                       | iospricetag                             |
-| ios-pricetag-outline               | iospricetagoutline                      |
-| ios-pricetags                      | iospricetags                            |
-| ios-pricetags-outline              | iospricetagsoutline                     |
-| ios-printer                        | iosprinter                              |
-| ios-printer-outline                | iosprinteroutline                       |
-| ios-pulse                          | iospulse                                |
-| ios-pulse-strong                   | iospulsestrong                          |
-| ios-rainy                          | iosrainy                                |
-| ios-rainy-outline                  | iosrainyoutline                         |
-| ios-recording                      | iosrecording                            |
-| ios-recording-outline              | iosrecordingoutline                     |
-| ios-redo                           | iosredo                                 |
-| ios-redo-outline                   | iosredooutline                          |
-| ios-refresh                        | iosrefresh                              |
-| ios-refresh-empty                  | iosrefreshempty                         |
-| ios-refresh-outline                | iosrefreshoutline                       |
-| ios-reload                         | iosreload                               |
-| ios-reverse-camera                 | iosreversecamera                        |
-| ios-reverse-camera-outline         | iosreversecameraoutline                 |
-| ios-rewind                         | iosrewind                               |
-| ios-rewind-outline                 | iosrewindoutline                        |
-| ios-rose                           | iosrose                                 |
-| ios-rose-outline                   | iosroseoutline                          |
-| ios-search                         | iossearch                               |
-| ios-search-strong                  | iossearchstrong                         |
-| ios-settings                       | iossettings                             |
-| ios-settings-strong                | iossettingsstrong                       |
-| ios-shuffle                        | iosshuffle                              |
-| ios-shuffle-strong                 | iosshufflestrong                        |
-| ios-skipbackward                   | iosskipbackward                         |
-| ios-skipbackward-outline           | iosskipbackwardoutline                  |
-| ios-skipforward                    | iosskipforward                          |
-| ios-skipforward-outline            | iosskipforwardoutline                   |
-| ios-snowy                          | iossnowy                                |
-| ios-speedometer                    | iosspeedometer                          |
-| ios-speedometer-outline            | iosspeedometeroutline                   |
-| ios-star                           | iosstar                                 |
-| ios-star-half                      | iosstarhalf                             |
-| ios-star-outline                   | iosstaroutline                          |
-| ios-stopwatch                      | iosstopwatch                            |
-| ios-stopwatch-outline              | iosstopwatchoutline                     |
-| ios-sunny                          | iossunny                                |
-| ios-sunny-outline                  | iossunnyoutline                         |
-| ios-telephone                      | iostelephone                            |
-| ios-telephone-outline              | iostelephoneoutline                     |
-| ios-tennisball                     | iostennisball                           |
-| ios-tennisball-outline             | iostennisballoutline                    |
-| ios-thunderstorm                   | iosthunderstorm                         |
-| ios-thunderstorm-outline           | iosthunderstormoutline                  |
-| ios-time                           | iostime                                 |
-| ios-time-outline                   | iostimeoutline                          |
-| ios-timer                          | iostimer                                |
-| ios-timer-outline                  | iostimeroutline                         |
-| ios-toggle                         | iostoggle                               |
-| ios-toggle-outline                 | iostoggleoutline                        |
-| ios-trash                          | iostrash                                |
-| ios-trash-outline                  | iostrashoutline                         |
-| ios-undo                           | iosundo                                 |
-| ios-undo-outline                   | iosundooutline                          |
-| ios-unlocked                       | iosunlocked                             |
-| ios-unlocked-outline               | iosunlockedoutline                      |
-| ios-upload                         | iosupload                               |
-| ios-upload-outline                 | iosuploadoutline                        |
-| ios-videocam                       | iosvideocam                             |
-| ios-videocam-outline               | iosvideocamoutline                      |
-| ios-volume-high                    | iosvolumehigh                           |
-| ios-volume-low                     | iosvolumelow                            |
-| ios-wineglass                      | ioswineglass                            |
-| ios-wineglass-outline              | ioswineglassoutline                     |
-| ios-world                          | iosworld                                |
-| ios-world-outline                  | iosworldoutline                         |
-| ipad                               | ipad                                    |
-| iphone                             | iphone                                  |
-| ipod                               | ipod                                    |
-| jet                                | jet                                     |
-| key                                | key                                     |
-| knife                              | knife                                   |
-| laptop                             | laptop                                  |
-| leaf                               | leaf                                    |
-| levels                             | levels                                  |
-| lightbulb                          | lightbulb                               |
-| link                               | link                                    |
-| load-a                             | loada                                   |
-| load-b                             | loadb                                   |
-| load-c                             | loadc                                   |
-| load-d                             | loadd                                   |
-| location                           | location                                |
-| lock-combination                   | lockcombination                         |
-| locked                             | locked                                  |
-| log-in                             | login                                   |
-| log-out                            | logout                                  |
-| loop                               | loop                                    |
-| magnet                             | magnet                                  |
-| male                               | male                                    |
-| man                                | man                                     |
-| map                                | map                                     |
-| medkit                             | medkit                                  |
-| merge                              | merge                                   |
-| mic-a                              | mica                                    |
-| mic-b                              | micb                                    |
-| mic-c                              | micc                                    |
-| minus                              | minus                                   |
-| minus-circled                      | minuscircled                            |
-| minus-round                        | minusround                              |
-| model-s                            | models                                  |
-| monitor                            | monitor                                 |
-| more                               | more                                    |
-| mouse                              | mouse                                   |
-| music-note                         | musicnote                               |
-| navicon                            | navicon                                 |
-| navicon-round                      | naviconround                            |
-| navigate                           | navigate                                |
-| network                            | network                                 |
-| no-smoking                         | nosmoking                               |
-| nuclear                            | nuclear                                 |
-| outlet                             | outlet                                  |
-| paintbrush                         | paintbrush                              |
-| paintbucket                        | paintbucket                             |
-| paper-airplane                     | paperairplane                           |
-| paperclip                          | paperclip                               |
-| pause                              | pause                                   |
-| person                             | person                                  |
-| person-add                         | personadd                               |
-| person-stalker                     | personstalker                           |
-| pie-graph                          | piegraph                                |
-| pin                                | pin                                     |
-| pinpoint                           | pinpoint                                |
-| pizza                              | pizza                                   |
-| plane                              | plane                                   |
-| planet                             | planet                                  |
-| play                               | play                                    |
-| playstation                        | playstation                             |
-| plus                               | plus                                    |
-| plus-circled                       | pluscircled                             |
-| plus-round                         | plusround                               |
-| podium                             | podium                                  |
-| pound                              | pound                                   |
-| power                              | power                                   |
-| pricetag                           | pricetag                                |
-| pricetags                          | pricetags                               |
-| printer                            | printer                                 |
-| pull-request                       | pullrequest                             |
-| qr-scanner                         | qrscanner                               |
-| quote                              | quote                                   |
-| radio-waves                        | radiowaves                              |
-| record                             | record                                  |
-| refresh                            | refresh                                 |
-| reply                              | reply                                   |
-| reply-all                          | replyall                                |
-| ribbon-a                           | ribbona                                 |
-| ribbon-b                           | ribbonb                                 |
-| sad                                | sad                                     |
-| sad-outline                        | sadoutline                              |
-| scissors                           | scissors                                |
-| search                             | search                                  |
-| settings                           | settings                                |
-| share                              | share                                   |
-| shuffle                            | shuffle                                 |
-| skip-backward                      | skipbackward                            |
-| skip-forward                       | skipforward                             |
-| social-android                     | socialandroid                           |
-| social-android-outline             | socialandroidoutline                    |
-| social-angular                     | socialangular                           |
-| social-angular-outline             | socialangularoutline                    |
-| social-apple                       | socialapple                             |
-| social-apple-outline               | socialappleoutline                      |
-| social-bitcoin                     | socialbitcoin                           |
-| social-bitcoin-outline             | socialbitcoinoutline                    |
-| social-buffer                      | socialbuffer                            |
-| social-buffer-outline              | socialbufferoutline                     |
-| social-chrome                      | socialchrome                            |
-| social-chrome-outline              | socialchromeoutline                     |
-| social-codepen                     | socialcodepen                           |
-| social-codepen-outline             | socialcodepenoutline                    |
-| social-css3                        | socialcss3                              |
-| social-css3-outline                | socialcss3outline                       |
-| social-designernews                | socialdesignernews                      |
-| social-designernews-outline        | socialdesignernewsoutline               |
-| social-dribbble                    | socialdribbble                          |
-| social-dribbble-outline            | socialdribbbleoutline                   |
-| social-dropbox                     | socialdropbox                           |
-| social-dropbox-outline             | socialdropboxoutline                    |
-| social-euro                        | socialeuro                              |
-| social-euro-outline                | socialeurooutline                       |
-| social-facebook                    | socialfacebook                          |
-| social-facebook-outline            | socialfacebookoutline                   |
-| social-foursquare                  | socialfoursquare                        |
-| social-foursquare-outline          | socialfoursquareoutline                 |
-| social-freebsd-devil               | socialfreebsddevil                      |
-| social-github                      | socialgithub                            |
-| social-github-outline              | socialgithuboutline                     |
-| social-google                      | socialgoogle                            |
-| social-google-outline              | socialgoogleoutline                     |
-| social-googleplus                  | socialgoogleplus                        |
-| social-googleplus-outline          | socialgoogleplusoutline                 |
-| social-hackernews                  | socialhackernews                        |
-| social-hackernews-outline          | socialhackernewsoutline                 |
-| social-html5                       | socialhtml5                             |
-| social-html5-outline               | socialhtml5outline                      |
-| social-instagram                   | socialinstagram                         |
-| social-instagram-outline           | socialinstagramoutline                  |
-| social-javascript                  | socialjavascript                        |
-| social-javascript-outline          | socialjavascriptoutline                 |
-| social-linkedin                    | sociallinkedin                          |
-| social-linkedin-outline            | sociallinkedinoutline                   |
-| social-markdown                    | socialmarkdown                          |
-| social-nodejs                      | socialnodejs                            |
-| social-octocat                     | socialoctocat                           |
-| social-pinterest                   | socialpinterest                         |
-| social-pinterest-outline           | socialpinterestoutline                  |
-| social-python                      | socialpython                            |
-| social-reddit                      | socialreddit                            |
-| social-reddit-outline              | socialredditoutline                     |
-| social-rss                         | socialrss                               |
-| social-rss-outline                 | socialrssoutline                        |
-| social-sass                        | socialsass                              |
-| social-skype                       | socialskype                             |
-| social-skype-outline               | socialskypeoutline                      |
-| social-snapchat                    | socialsnapchat                          |
-| social-snapchat-outline            | socialsnapchatoutline                   |
-| social-tumblr                      | socialtumblr                            |
-| social-tumblr-outline              | socialtumblroutline                     |
-| social-tux                         | socialtux                               |
-| social-twitch                      | socialtwitch                            |
-| social-twitch-outline              | socialtwitchoutline                     |
-| social-twitter                     | socialtwitter                           |
-| social-twitter-outline             | socialtwitteroutline                    |
-| social-usd                         | socialusd                               |
-| social-usd-outline                 | socialusdoutline                        |
-| social-vimeo                       | socialvimeo                             |
-| social-vimeo-outline               | socialvimeooutline                      |
-| social-whatsapp                    | socialwhatsapp                          |
-| social-whatsapp-outline            | socialwhatsappoutline                   |
-| social-windows                     | socialwindows                           |
-| social-windows-outline             | socialwindowsoutline                    |
-| social-wordpress                   | socialwordpress                         |
-| social-wordpress-outline           | socialwordpressoutline                  |
-| social-yahoo                       | socialyahoo                             |
-| social-yahoo-outline               | socialyahoooutline                      |
-| social-yen                         | socialyen                               |
-| social-yen-outline                 | socialyenoutline                        |
-| social-youtube                     | socialyoutube                           |
-| social-youtube-outline             | socialyoutubeoutline                    |
-| soup-can                           | soupcan                                 |
-| soup-can-outline                   | soupcanoutline                          |
-| speakerphone                       | speakerphone                            |
-| speedometer                        | speedometer                             |
-| spoon                              | spoon                                   |
-| star                               | star                                    |
-| stats-bars                         | statsbars                               |
-| steam                              | steam                                   |
-| stop                               | stop                                    |
-| thermometer                        | thermometer                             |
-| thumbsdown                         | thumbsdown                              |
-| thumbsup                           | thumbsup                                |
-| toggle                             | toggle                                  |
-| toggle-filled                      | togglefilled                            |
-| transgender                        | transgender                             |
-| trash-a                            | trasha                                  |
-| trash-b                            | trashb                                  |
-| trophy                             | trophy                                  |
-| tshirt                             | tshirt                                  |
-| tshirt-outline                     | tshirtoutline                           |
-| umbrella                           | umbrella                                |
-| university                         | university                              |
-| unlocked                           | unlocked                                |
-| upload                             | upload                                  |
-| usb                                | usb                                     |
-| videocamera                        | videocamera                             |
-| volume-high                        | volumehigh                              |
-| volume-low                         | volumelow                               |
-| volume-medium                      | volumemedium                            |
-| volume-mute                        | volumemute                              |
-| wand                               | wand                                    |
-| waterdrop                          | waterdrop                               |
-| wifi                               | wifi                                    |
-| wineglass                          | wineglass                               |
-| woman                              | woman                                   |
-| wrench                             | wrench                                  |
-| xbox                               | xbox                                    |
+|------------------------------------| :--------------------------------------:|
+| alert                              | ionicIconalert                          |
+| alert-circled                      | ionicIconalertcircled                   |
+| android-add                        | ionicIconandroidadd                     |
+| android-add-circle                 | ionicIconandroidaddcircle               |
+| android-alarm-clock                | ionicIconandroidalarmclock              |
+| android-alert                      | ionicIconandroidalert                   |
+| android-apps                       | ionicIconandroidapps                    |
+| android-archive                    | ionicIconandroidarchive                 |
+| android-arrow-back                 | ionicIconandroidarrowback               |
+| android-arrow-down                 | ionicIconandroidarrowdown               |
+| android-arrow-dropdown             | ionicIconandroidarrowdropdown           |
+| android-arrow-dropdown-circle      | ionicIconandroidarrowdropdowncircle     |
+| android-arrow-dropleft             | ionicIconandroidarrowdropleft           |
+| android-arrow-dropleft-circle      | ionicIconandroidarrowdropleftcircle     |
+| android-arrow-dropright            | ionicIconandroidarrowdropright          |
+| android-arrow-dropright-circle     | ionicIconandroidarrowdroprightcircle    |
+| android-arrow-dropup               | ionicIconandroidarrowdropup             |
+| android-arrow-dropup-circle        | ionicIconandroidarrowdropupcircle       |
+| android-arrow-forward              | ionicIconandroidarrowforward            |
+| android-arrow-up                   | ionicIconandroidarrowup                 |
+| android-attach                     | ionicIconandroidattach                  |
+| android-bar                        | ionicIconandroidbar                     |
+| android-bicycle                    | ionicIconandroidbicycle                 |
+| android-boat                       | ionicIconandroidboat                    |
+| android-bookmark                   | ionicIconandroidbookmark                |
+| android-bulb                       | ionicIconandroidbulb                    |
+| android-bus                        | ionicIconandroidbus                     |
+| android-calendar                   | ionicIconandroidcalendar                |
+| android-call                       | ionicIconandroidcall                    |
+| android-camera                     | ionicIconandroidcamera                  |
+| android-cancel                     | ionicIconandroidcancel                  |
+| android-car                        | ionicIconandroidcar                     |
+| android-cart                       | ionicIconandroidcart                    |
+| android-chat                       | ionicIconandroidchat                    |
+| android-checkbox                   | ionicIconandroidcheckbox                |
+| android-checkbox-blank             | ionicIconandroidcheckboxblank           |
+| android-checkbox-outline           | ionicIconandroidcheckboxoutline         |
+| android-checkbox-outline-blank     | ionicIconandroidcheckboxoutlineblank    |
+| android-checkmark-circle           | ionicIconandroidcheckmarkcircle         |
+| android-clipboard                  | ionicIconandroidclipboard               |
+| android-close                      | ionicIconandroidclose                   |
+| android-cloud                      | ionicIconandroidcloud                   |
+| android-cloud-circle               | ionicIconandroidcloudcircle             |
+| android-cloud-done                 | ionicIconandroidclouddone               |
+| android-cloud-outline              | ionicIconandroidcloudoutline            |
+| android-color-palette              | ionicIconandroidcolorpalette            |
+| android-compass                    | ionicIconandroidcompass                 |
+| android-contact                    | ionicIconandroidcontact                 |
+| android-contacts                   | ionicIconandroidcontacts                |
+| android-contract                   | ionicIconandroidcontract                |
+| android-create                     | ionicIconandroidcreate                  |
+| android-delete                     | ionicIconandroiddelete                  |
+| android-desktop                    | ionicIconandroiddesktop                 |
+| android-document                   | ionicIconandroiddocument                |
+| android-done                       | ionicIconandroiddone                    |
+| android-done-all                   | ionicIconandroiddoneall                 |
+| android-download                   | ionicIconandroiddownload                |
+| android-drafts                     | ionicIconandroiddrafts                  |
+| android-exit                       | ionicIconandroidexit                    |
+| android-expand                     | ionicIconandroidexpand                  |
+| android-favorite                   | ionicIconandroidfavorite                |
+| android-favorite-outline           | ionicIconandroidfavoriteoutline         |
+| android-film                       | ionicIconandroidfilm                    |
+| android-folder                     | ionicIconandroidfolder                  |
+| android-folder-open                | ionicIconandroidfolderopen              |
+| android-funnel                     | ionicIconandroidfunnel                  |
+| android-globe                      | ionicIconandroidglobe                   |
+| android-hand                       | ionicIconandroidhand                    |
+| android-hangout                    | ionicIconandroidhangout                 |
+| android-happy                      | ionicIconandroidhappy                   |
+| android-home                       | ionicIconandroidhome                    |
+| android-image                      | ionicIconandroidimage                   |
+| android-laptop                     | ionicIconandroidlaptop                  |
+| android-list                       | ionicIconandroidlist                    |
+| android-locate                     | ionicIconandroidlocate                  |
+| android-lock                       | ionicIconandroidlock                    |
+| android-mail                       | ionicIconandroidmail                    |
+| android-map                        | ionicIconandroidmap                     |
+| android-menu                       | ionicIconandroidmenu                    |
+| android-microphone                 | ionicIconandroidmicrophone              |
+| android-microphone-off             | ionicIconandroidmicrophoneoff           |
+| android-more-horizontal            | ionicIconandroidmorehorizontal          |
+| android-more-vertical              | ionicIconandroidmorevertical            |
+| android-navigate                   | ionicIconandroidnavigate                |
+| android-notifications              | ionicIconandroidnotifications           |
+| android-notifications-none         | ionicIconandroidnotificationsnone       |
+| android-notifications-off          | ionicIconandroidnotificationsoff        |
+| android-open                       | ionicIconandroidopen                    |
+| android-options                    | ionicIconandroidoptions                 |
+| android-people                     | ionicIconandroidpeople                  |
+| android-person                     | ionicIconandroidperson                  |
+| android-person-add                 | ionicIconandroidpersonadd               |
+| android-phone-landscape            | ionicIconandroidphonelandscape          |
+| android-phone-portrait             | ionicIconandroidphoneportrait           |
+| android-pin                        | ionicIconandroidpin                     |
+| android-plane                      | ionicIconandroidplane                   |
+| android-playstore                  | ionicIconandroidplaystore               |
+| android-print                      | ionicIconandroidprint                   |
+| android-radio-button-off           | ionicIconandroidradiobuttonoff          |
+| android-radio-button-on            | ionicIconandroidradiobuttonon           |
+| android-refresh                    | ionicIconandroidrefresh                 |
+| android-remove                     | ionicIconandroidremove                  |
+| android-remove-circle              | ionicIconandroidremovecircle            |
+| android-restaurant                 | ionicIconandroidrestaurant              |
+| android-sad                        | ionicIconandroidsad                     |
+| android-search                     | ionicIconandroidsearch                  |
+| android-send                       | ionicIconandroidsend                    |
+| android-settings                   | ionicIconandroidsettings                |
+| android-share                      | ionicIconandroidshare                   |
+| android-share-alt                  | ionicIconandroidsharealt                |
+| android-star                       | ionicIconandroidstar                    |
+| android-star-half                  | ionicIconandroidstarhalf                |
+| android-star-outline               | ionicIconandroidstaroutline             |
+| android-stopwatch                  | ionicIconandroidstopwatch               |
+| android-subway                     | ionicIconandroidsubway                  |
+| android-sunny                      | ionicIconandroidsunny                   |
+| android-sync                       | ionicIconandroidsync                    |
+| android-textsms                    | ionicIconandroidtextsms                 |
+| android-time                       | ionicIconandroidtime                    |
+| android-train                      | ionicIconandroidtrain                   |
+| android-unlock                     | ionicIconandroidunlock                  |
+| android-upload                     | ionicIconandroidupload                  |
+| android-volume-down                | ionicIconandroidvolumedown              |
+| android-volume-mute                | ionicIconandroidvolumemute              |
+| android-volume-off                 | ionicIconandroidvolumeoff               |
+| android-volume-up                  | ionicIconandroidvolumeup                |
+| android-walk                       | ionicIconandroidwalk                    |
+| android-warning                    | ionicIconandroidwarning                 |
+| android-watch                      | ionicIconandroidwatch                   |
+| android-wifi                       | ionicIconandroidwifi                    |
+| aperture                           | ionicIconaperture                       |
+| archive                            | ionicIconarchive                        |
+| arrow-down-a                       | ionicIconarrowdowna                     |
+| arrow-down-b                       | ionicIconarrowdownb                     |
+| arrow-down-c                       | ionicIconarrowdownc                     |
+| arrow-expand                       | ionicIconarrowexpand                    |
+| arrow-graph-down-left              | ionicIconarrowgraphdownleft             |
+| arrow-graph-down-right             | ionicIconarrowgraphdownright            |
+| arrow-graph-up-left                | ionicIconarrowgraphupleft               |
+| arrow-graph-up-right               | ionicIconarrowgraphupright              |
+| arrow-left-a                       | ionicIconarrowlefta                     |
+| arrow-left-b                       | ionicIconarrowleftb                     |
+| arrow-left-c                       | ionicIconarrowleftc                     |
+| arrow-move                         | ionicIconarrowmove                      |
+| arrow-resize                       | ionicIconarrowresize                    |
+| arrow-return-left                  | ionicIconarrowreturnleft                |
+| arrow-return-right                 | ionicIconarrowreturnright               |
+| arrow-right-a                      | ionicIconarrowrighta                    |
+| arrow-right-b                      | ionicIconarrowrightb                    |
+| arrow-right-c                      | ionicIconarrowrightc                    |
+| arrow-shrink                       | ionicIconarrowshrink                    |
+| arrow-swap                         | ionicIconarrowswap                      |
+| arrow-up-a                         | ionicIconarrowupa                       |
+| arrow-up-b                         | ionicIconarrowupb                       |
+| arrow-up-c                         | ionicIconarrowupc                       |
+| asterisk                           | ionicIconasterisk                       |
+| at                                 | ionicIconat                             |
+| backspace                          | ionicIconbackspace                      |
+| backspace-outline                  | ionicIconbackspaceoutline               |
+| bag                                | ionicIconbag                            |
+| battery-charging                   | ionicIconbatterycharging                |
+| battery-empty                      | ionicIconbatteryempty                   |
+| battery-full                       | ionicIconbatteryfull                    |
+| battery-half                       | ionicIconbatteryhalf                    |
+| battery-low                        | ionicIconbatterylow                     |
+| beaker                             | ionicIconbeaker                         |
+| beer                               | ionicIconbeer                           |
+| bluetooth                          | ionicIconbluetooth                      |
+| bonfire                            | ionicIconbonfire                        |
+| bookmark                           | ionicIconbookmark                       |
+| bowtie                             | ionicIconbowtie                         |
+| briefcase                          | ionicIconbriefcase                      |
+| bug                                | ionicIconbug                            |
+| calculator                         | ionicIconcalculator                     |
+| calendar                           | ionicIconcalendar                       |
+| camera                             | ionicIconcamera                         |
+| card                               | ionicIconcard                           |
+| cash                               | ionicIconcash                           |
+| chatbox                            | ionicIconchatbox                        |
+| chatbox-working                    | ionicIconchatboxworking                 |
+| chatboxes                          | ionicIconchatboxes                      |
+| chatbubble                         | ionicIconchatbubble                     |
+| chatbubble-working                 | ionicIconchatbubbleworking              |
+| chatbubbles                        | ionicIconchatbubbles                    |
+| checkmark                          | ionicIconcheckmark                      |
+| checkmark-circled                  | ionicIconcheckmarkcircled               |
+| checkmark-round                    | ionicIconcheckmarkround                 |
+| chevron-down                       | ionicIconchevrondown                    |
+| chevron-left                       | ionicIconchevronleft                    |
+| chevron-right                      | ionicIconchevronright                   |
+| chevron-up                         | ionicIconchevronup                      |
+| clipboard                          | ionicIconclipboard                      |
+| clock                              | ionicIconclock                          |
+| close                              | ionicIconclose                          |
+| close-circled                      | ionicIconclosecircled                   |
+| close-round                        | ionicIconcloseround                     |
+| closed-captioning                  | ionicIconclosedcaptioning               |
+| cloud                              | ionicIconcloud                          |
+| code                               | ionicIconcode                           |
+| code-download                      | ionicIconcodedownload                   |
+| code-working                       | ionicIconcodeworking                    |
+| coffee                             | ionicIconcoffee                         |
+| compass                            | ionicIconcompass                        |
+| compose                            | ionicIconcompose                        |
+| connection-bars                    | ionicIconconnectionbars                 |
+| contrast                           | ionicIconcontrast                       |
+| crop                               | ionicIconcrop                           |
+| cube                               | ionicIconcube                           |
+| disc                               | ionicIcondisc                           |
+| document                           | ionicIcondocument                       |
+| document-text                      | ionicIcondocumenttext                   |
+| drag                               | ionicIcondrag                           |
+| earth                              | ionicIconearth                          |
+| easel                              | ionicIconeasel                          |
+| edit                               | ionicIconedit                           |
+| egg                                | ionicIconegg                            |
+| eject                              | ionicIconeject                          |
+| email                              | ionicIconemail                          |
+| email-unread                       | ionicIconemailunread                    |
+| erlenmeyer-flask                   | ionicIconerlenmeyerflask                |
+| erlenmeyer-flask-bubbles           | ionicIconerlenmeyerflaskbubbles         |
+| eye                                | ionicIconeye                            |
+| eye-disabled                       | ionicIconeyedisabled                    |
+| female                             | ionicIconfemale                         |
+| filing                             | ionicIconfiling                         |
+| film-marker                        | ionicIconfilmmarker                     |
+| fireball                           | ionicIconfireball                       |
+| flag                               | ionicIconflag                           |
+| flame                              | ionicIconflame                          |
+| flash                              | ionicIconflash                          |
+| flash-off                          | ionicIconflashoff                       |
+| folder                             | ionicIconfolder                         |
+| fork                               | ionicIconfork                           |
+| fork-repo                          | ionicIconforkrepo                       |
+| forward                            | ionicIconforward                        |
+| funnel                             | ionicIconfunnel                         |
+| gear-a                             | ionicIcongeara                          |
+| gear-b                             | ionicIcongearb                          |
+| grid                               | ionicIcongrid                           |
+| hammer                             | ionicIconhammer                         |
+| happy                              | ionicIconhappy                          |
+| happy-outline                      | ionicIconhappyoutline                   |
+| headphone                          | ionicIconheadphone                      |
+| heart                              | ionicIconheart                          |
+| heart-broken                       | ionicIconheartbroken                    |
+| help                               | ionicIconhelp                           |
+| help-buoy                          | ionicIconhelpbuoy                       |
+| help-circled                       | ionicIconhelpcircled                    |
+| home                               | ionicIconhome                           |
+| icecream                           | ionicIconicecream                       |
+| image                              | ionicIconimage                          |
+| images                             | ionicIconimages                         |
+| information                        | ionicIconinformation                    |
+| information-circled                | ionicIconinformationcircled             |
+| ionic                              | ionicIconionic                          |
+| ios-alarm                          | ionicIconiosalarm                       |
+| ios-alarm-outline                  | ionicIconiosalarmoutline                |
+| ios-albums                         | ionicIconiosalbums                      |
+| ios-albums-outline                 | ionicIconiosalbumsoutline               |
+| ios-americanfootball               | ionicIconiosamericanfootball            |
+| ios-americanfootball-outline       | ionicIconiosamericanfootballoutline     |
+| ios-analytics                      | ionicIconiosanalytics                   |
+| ios-analytics-outline              | ionicIconiosanalyticsoutline            |
+| ios-arrow-back                     | ionicIconiosarrowback                   |
+| ios-arrow-down                     | ionicIconiosarrowdown                   |
+| ios-arrow-forward                  | ionicIconiosarrowforward                |
+| ios-arrow-left                     | ionicIconiosarrowleft                   |
+| ios-arrow-right                    | ionicIconiosarrowright                  |
+| ios-arrow-thin-down                | ionicIconiosarrowthindown               |
+| ios-arrow-thin-left                | ionicIconiosarrowthinleft               |
+| ios-arrow-thin-right               | ionicIconiosarrowthinright              |
+| ios-arrow-thin-up                  | ionicIconiosarrowthinup                 |
+| ios-arrow-up                       | ionicIconiosarrowup                     |
+| ios-at                             | ionicIconiosat                          |
+| ios-at-outline                     | ionicIconiosatoutline                   |
+| ios-barcode                        | ionicIconiosbarcode                     |
+| ios-barcode-outline                | ionicIconiosbarcodeoutline              |
+| ios-baseball                       | ionicIconiosbaseball                    |
+| ios-baseball-outline               | ionicIconiosbaseballoutline             |
+| ios-basketball                     | ionicIconiosbasketball                  |
+| ios-basketball-outline             | ionicIconiosbasketballoutline           |
+| ios-bell                           | ionicIconiosbell                        |
+| ios-bell-outline                   | ionicIconiosbelloutline                 |
+| ios-body                           | ionicIconiosbody                        |
+| ios-body-outline                   | ionicIconiosbodyoutline                 |
+| ios-bolt                           | ionicIconiosbolt                        |
+| ios-bolt-outline                   | ionicIconiosboltoutline                 |
+| ios-book                           | ionicIconiosbook                        |
+| ios-book-outline                   | ionicIconiosbookoutline                 |
+| ios-bookmarks                      | ionicIconiosbookmarks                   |
+| ios-bookmarks-outline              | ionicIconiosbookmarksoutline            |
+| ios-box                            | ionicIconiosbox                         |
+| ios-box-outline                    | ionicIconiosboxoutline                  |
+| ios-briefcase                      | ionicIconiosbriefcase                   |
+| ios-briefcase-outline              | ionicIconiosbriefcaseoutline            |
+| ios-browsers                       | ionicIconiosbrowsers                    |
+| ios-browsers-outline               | ionicIconiosbrowsersoutline             |
+| ios-calculator                     | ionicIconioscalculator                  |
+| ios-calculator-outline             | ionicIconioscalculatoroutline           |
+| ios-calendar                       | ionicIconioscalendar                    |
+| ios-calendar-outline               | ionicIconioscalendaroutline             |
+| ios-camera                         | ionicIconioscamera                      |
+| ios-camera-outline                 | ionicIconioscameraoutline               |
+| ios-cart                           | ionicIconioscart                        |
+| ios-cart-outline                   | ionicIconioscartoutline                 |
+| ios-chatboxes                      | ionicIconioschatboxes                   |
+| ios-chatboxes-outline              | ionicIconioschatboxesoutline            |
+| ios-chatbubble                     | ionicIconioschatbubble                  |
+| ios-chatbubble-outline             | ionicIconioschatbubbleoutline           |
+| ios-checkmark                      | ionicIconioscheckmark                   |
+| ios-checkmark-empty                | ionicIconioscheckmarkempty              |
+| ios-checkmark-outline              | ionicIconioscheckmarkoutline            |
+| ios-circle-filled                  | ionicIconioscirclefilled                |
+| ios-circle-outline                 | ionicIconioscircleoutline               |
+| ios-clock                          | ionicIconiosclock                       |
+| ios-clock-outline                  | ionicIconiosclockoutline                |
+| ios-close                          | ionicIconiosclose                       |
+| ios-close-empty                    | ionicIconioscloseempty                  |
+| ios-close-outline                  | ionicIconioscloseoutline                |
+| ios-cloud                          | ionicIconioscloud                       |
+| ios-cloud-download                 | ionicIconiosclouddownload               |
+| ios-cloud-download-outline         | ionicIconiosclouddownloadoutline        |
+| ios-cloud-outline                  | ionicIconioscloudoutline                |
+| ios-cloud-upload                   | ionicIconioscloudupload                 |
+| ios-cloud-upload-outline           | ionicIconiosclouduploadoutline          |
+| ios-cloudy                         | ionicIconioscloudy                      |
+| ios-cloudy-night                   | ionicIconioscloudynight                 |
+| ios-cloudy-night-outline           | ionicIconioscloudynightoutline          |
+| ios-cloudy-outline                 | ionicIconioscloudyoutline               |
+| ios-cog                            | ionicIconioscog                         |
+| ios-cog-outline                    | ionicIconioscogoutline                  |
+| ios-color-filter                   | ionicIconioscolorfilter                 |
+| ios-color-filter-outline           | ionicIconioscolorfilteroutline          |
+| ios-color-wand                     | ionicIconioscolorwand                   |
+| ios-color-wand-outline             | ionicIconioscolorwandoutline            |
+| ios-compose                        | ionicIconioscompose                     |
+| ios-compose-outline                | ionicIconioscomposeoutline              |
+| ios-contact                        | ionicIconioscontact                     |
+| ios-contact-outline                | ionicIconioscontactoutline              |
+| ios-copy                           | ionicIconioscopy                        |
+| ios-copy-outline                   | ionicIconioscopyoutline                 |
+| ios-crop                           | ionicIconioscrop                        |
+| ios-crop-strong                    | ionicIconioscropstrong                  |
+| ios-download                       | ionicIconiosdownload                    |
+| ios-download-outline               | ionicIconiosdownloadoutline             |
+| ios-drag                           | ionicIconiosdrag                        |
+| ios-email                          | ionicIconiosemail                       |
+| ios-email-outline                  | ionicIconiosemailoutline                |
+| ios-eye                            | ionicIconioseye                         |
+| ios-eye-outline                    | ionicIconioseyeoutline                  |
+| ios-fastforward                    | ionicIconiosfastforward                 |
+| ios-fastforward-outline            | ionicIconiosfastforwardoutline          |
+| ios-filing                         | ionicIconiosfiling                      |
+| ios-filing-outline                 | ionicIconiosfilingoutline               |
+| ios-film                           | ionicIconiosfilm                        |
+| ios-film-outline                   | ionicIconiosfilmoutline                 |
+| ios-flag                           | ionicIconiosflag                        |
+| ios-flag-outline                   | ionicIconiosflagoutline                 |
+| ios-flame                          | ionicIconiosflame                       |
+| ios-flame-outline                  | ionicIconiosflameoutline                |
+| ios-flask                          | ionicIconiosflask                       |
+| ios-flask-outline                  | ionicIconiosflaskoutline                |
+| ios-flower                         | ionicIconiosflower                      |
+| ios-flower-outline                 | ionicIconiosfloweroutline               |
+| ios-folder                         | ionicIconiosfolder                      |
+| ios-folder-outline                 | ionicIconiosfolderoutline               |
+| ios-football                       | ionicIconiosfootball                    |
+| ios-football-outline               | ionicIconiosfootballoutline             |
+| ios-game-controller-a              | ionicIconiosgamecontrollera             |
+| ios-game-controller-a-outline      | ionicIconiosgamecontrolleraoutline      |
+| ios-game-controller-b              | ionicIconiosgamecontrollerb             |
+| ios-game-controller-b-outline      | ionicIconiosgamecontrollerboutline      |
+| ios-gear                           | ionicIconiosgear                        |
+| ios-gear-outline                   | ionicIconiosgearoutline                 |
+| ios-glasses                        | ionicIconiosglasses                     |
+| ios-glasses-outline                | ionicIconiosglassesoutline              |
+| ios-grid-view                      | ionicIconiosgridview                    |
+| ios-grid-view-outline              | ionicIconiosgridviewoutline             |
+| ios-heart                          | ionicIconiosheart                       |
+| ios-heart-outline                  | ionicIconiosheartoutline                |
+| ios-help                           | ionicIconioshelp                        |
+| ios-help-empty                     | ionicIconioshelpempty                   |
+| ios-help-outline                   | ionicIconioshelpoutline                 |
+| ios-home                           | ionicIconioshome                        |
+| ios-home-outline                   | ionicIconioshomeoutline                 |
+| ios-infinite                       | ionicIconiosinfinite                    |
+| ios-infinite-outline               | ionicIconiosinfiniteoutline             |
+| ios-information                    | ionicIconiosinformation                 |
+| ios-information-empty              | ionicIconiosinformationempty            |
+| ios-information-outline            | ionicIconiosinformationoutline          |
+| ios-ionic-outline                  | ionicIconiosionicoutline                |
+| ios-keypad                         | ionicIconioskeypad                      |
+| ios-keypad-outline                 | ionicIconioskeypadoutline               |
+| ios-lightbulb                      | ionicIconioslightbulb                   |
+| ios-lightbulb-outline              | ionicIconioslightbulboutline            |
+| ios-list                           | ionicIconioslist                        |
+| ios-list-outline                   | ionicIconioslistoutline                 |
+| ios-location                       | ionicIconioslocation                    |
+| ios-location-outline               | ionicIconioslocationoutline             |
+| ios-locked                         | ionicIconioslocked                      |
+| ios-locked-outline                 | ionicIconioslockedoutline               |
+| ios-loop                           | ionicIconiosloop                        |
+| ios-loop-strong                    | ionicIconiosloopstrong                  |
+| ios-medical                        | ionicIconiosmedical                     |
+| ios-medical-outline                | ionicIconiosmedicaloutline              |
+| ios-medkit                         | ionicIconiosmedkit                      |
+| ios-medkit-outline                 | ionicIconiosmedkitoutline               |
+| ios-mic                            | ionicIconiosmic                         |
+| ios-mic-off                        | ionicIconiosmicoff                      |
+| ios-mic-outline                    | ionicIconiosmicoutline                  |
+| ios-minus                          | ionicIconiosminus                       |
+| ios-minus-empty                    | ionicIconiosminusempty                  |
+| ios-minus-outline                  | ionicIconiosminusoutline                |
+| ios-monitor                        | ionicIconiosmonitor                     |
+| ios-monitor-outline                | ionicIconiosmonitoroutline              |
+| ios-moon                           | ionicIconiosmoon                        |
+| ios-moon-outline                   | ionicIconiosmoonoutline                 |
+| ios-more                           | ionicIconiosmore                        |
+| ios-more-outline                   | ionicIconiosmoreoutline                 |
+| ios-musical-note                   | ionicIconiosmusicalnote                 |
+| ios-musical-notes                  | ionicIconiosmusicalnotes                |
+| ios-navigate                       | ionicIconiosnavigate                    |
+| ios-navigate-outline               | ionicIconiosnavigateoutline             |
+| ios-nutrition                      | ionicIconiosnutrition                   |
+| ios-nutrition-outline              | ionicIconiosnutritionoutline            |
+| ios-paper                          | ionicIconiospaper                       |
+| ios-paper-outline                  | ionicIconiospaperoutline                |
+| ios-paperplane                     | ionicIconiospaperplane                  |
+| ios-paperplane-outline             | ionicIconiospaperplaneoutline           |
+| ios-partlysunny                    | ionicIconiospartlysunny                 |
+| ios-partlysunny-outline            | ionicIconiospartlysunnyoutline          |
+| ios-pause                          | ionicIconiospause                       |
+| ios-pause-outline                  | ionicIconiospauseoutline                |
+| ios-paw                            | ionicIconiospaw                         |
+| ios-paw-outline                    | ionicIconiospawoutline                  |
+| ios-people                         | ionicIconiospeople                      |
+| ios-people-outline                 | ionicIconiospeopleoutline               |
+| ios-person                         | ionicIconiosperson                      |
+| ios-person-outline                 | ionicIconiospersonoutline               |
+| ios-personadd                      | ionicIconiospersonadd                   |
+| ios-personadd-outline              | ionicIconiospersonaddoutline            |
+| ios-photos                         | ionicIconiosphotos                      |
+| ios-photos-outline                 | ionicIconiosphotosoutline               |
+| ios-pie                            | ionicIconiospie                         |
+| ios-pie-outline                    | ionicIconiospieoutline                  |
+| ios-pint                           | ionicIconiospint                        |
+| ios-pint-outline                   | ionicIconiospintoutline                 |
+| ios-play                           | ionicIconiosplay                        |
+| ios-play-outline                   | ionicIconiosplayoutline                 |
+| ios-plus                           | ionicIconiosplus                        |
+| ios-plus-empty                     | ionicIconiosplusempty                   |
+| ios-plus-outline                   | ionicIconiosplusoutline                 |
+| ios-pricetag                       | ionicIconiospricetag                    |
+| ios-pricetag-outline               | ionicIconiospricetagoutline             |
+| ios-pricetags                      | ionicIconiospricetags                   |
+| ios-pricetags-outline              | ionicIconiospricetagsoutline            |
+| ios-printer                        | ionicIconiosprinter                     |
+| ios-printer-outline                | ionicIconiosprinteroutline              |
+| ios-pulse                          | ionicIconiospulse                       |
+| ios-pulse-strong                   | ionicIconiospulsestrong                 |
+| ios-rainy                          | ionicIconiosrainy                       |
+| ios-rainy-outline                  | ionicIconiosrainyoutline                |
+| ios-recording                      | ionicIconiosrecording                   |
+| ios-recording-outline              | ionicIconiosrecordingoutline            |
+| ios-redo                           | ionicIconiosredo                        |
+| ios-redo-outline                   | ionicIconiosredooutline                 |
+| ios-refresh                        | ionicIconiosrefresh                     |
+| ios-refresh-empty                  | ionicIconiosrefreshempty                |
+| ios-refresh-outline                | ionicIconiosrefreshoutline              |
+| ios-reload                         | ionicIconiosreload                      |
+| ios-reverse-camera                 | ionicIconiosreversecamera               |
+| ios-reverse-camera-outline         | ionicIconiosreversecameraoutline        |
+| ios-rewind                         | ionicIconiosrewind                      |
+| ios-rewind-outline                 | ionicIconiosrewindoutline               |
+| ios-rose                           | ionicIconiosrose                        |
+| ios-rose-outline                   | ionicIconiosroseoutline                 |
+| ios-search                         | ionicIconiossearch                      |
+| ios-search-strong                  | ionicIconiossearchstrong                |
+| ios-settings                       | ionicIconiossettings                    |
+| ios-settings-strong                | ionicIconiossettingsstrong              |
+| ios-shuffle                        | ionicIconiosshuffle                     |
+| ios-shuffle-strong                 | ionicIconiosshufflestrong               |
+| ios-skipbackward                   | ionicIconiosskipbackward                |
+| ios-skipbackward-outline           | ionicIconiosskipbackwardoutline         |
+| ios-skipforward                    | ionicIconiosskipforward                 |
+| ios-skipforward-outline            | ionicIconiosskipforwardoutline          |
+| ios-snowy                          | ionicIconiossnowy                       |
+| ios-speedometer                    | ionicIconiosspeedometer                 |
+| ios-speedometer-outline            | ionicIconiosspeedometeroutline          |
+| ios-star                           | ionicIconiosstar                        |
+| ios-star-half                      | ionicIconiosstarhalf                    |
+| ios-star-outline                   | ionicIconiosstaroutline                 |
+| ios-stopwatch                      | ionicIconiosstopwatch                   |
+| ios-stopwatch-outline              | ionicIconiosstopwatchoutline            |
+| ios-sunny                          | ionicIconiossunny                       |
+| ios-sunny-outline                  | ionicIconiossunnyoutline                |
+| ios-telephone                      | ionicIconiostelephone                   |
+| ios-telephone-outline              | ionicIconiostelephoneoutline            |
+| ios-tennisball                     | ionicIconiostennisball                  |
+| ios-tennisball-outline             | ionicIconiostennisballoutline           |
+| ios-thunderstorm                   | ionicIconiosthunderstorm                |
+| ios-thunderstorm-outline           | ionicIconiosthunderstormoutline         |
+| ios-time                           | ionicIconiostime                        |
+| ios-time-outline                   | ionicIconiostimeoutline                 |
+| ios-timer                          | ionicIconiostimer                       |
+| ios-timer-outline                  | ionicIconiostimeroutline                |
+| ios-toggle                         | ionicIconiostoggle                      |
+| ios-toggle-outline                 | ionicIconiostoggleoutline               |
+| ios-trash                          | ionicIconiostrash                       |
+| ios-trash-outline                  | ionicIconiostrashoutline                |
+| ios-undo                           | ionicIconiosundo                        |
+| ios-undo-outline                   | ionicIconiosundooutline                 |
+| ios-unlocked                       | ionicIconiosunlocked                    |
+| ios-unlocked-outline               | ionicIconiosunlockedoutline             |
+| ios-upload                         | ionicIconiosupload                      |
+| ios-upload-outline                 | ionicIconiosuploadoutline               |
+| ios-videocam                       | ionicIconiosvideocam                    |
+| ios-videocam-outline               | ionicIconiosvideocamoutline             |
+| ios-volume-high                    | ionicIconiosvolumehigh                  |
+| ios-volume-low                     | ionicIconiosvolumelow                   |
+| ios-wineglass                      | ionicIconioswineglass                   |
+| ios-wineglass-outline              | ionicIconioswineglassoutline            |
+| ios-world                          | ionicIconiosworld                       |
+| ios-world-outline                  | ionicIconiosworldoutline                |
+| ipad                               | ionicIconipad                           |
+| iphone                             | ionicIconiphone                         |
+| ipod                               | ionicIconipod                           |
+| jet                                | ionicIconjet                            |
+| key                                | ionicIconkey                            |
+| knife                              | ionicIconknife                          |
+| laptop                             | ionicIconlaptop                         |
+| leaf                               | ionicIconleaf                           |
+| levels                             | ionicIconlevels                         |
+| lightbulb                          | ionicIconlightbulb                      |
+| link                               | ionicIconlink                           |
+| load-a                             | ionicIconloada                          |
+| load-b                             | ionicIconloadb                          |
+| load-c                             | ionicIconloadc                          |
+| load-d                             | ionicIconloadd                          |
+| location                           | ionicIconlocation                       |
+| lock-combination                   | ionicIconlockcombination                |
+| locked                             | ionicIconlocked                         |
+| log-in                             | ionicIconlogin                          |
+| log-out                            | ionicIconlogout                         |
+| loop                               | ionicIconloop                           |
+| magnet                             | ionicIconmagnet                         |
+| male                               | ionicIconmale                           |
+| man                                | ionicIconman                            |
+| map                                | ionicIconmap                            |
+| medkit                             | ionicIconmedkit                         |
+| merge                              | ionicIconmerge                          |
+| mic-a                              | ionicIconmica                           |
+| mic-b                              | ionicIconmicb                           |
+| mic-c                              | ionicIconmicc                           |
+| minus                              | ionicIconminus                          |
+| minus-circled                      | ionicIconminuscircled                   |
+| minus-round                        | ionicIconminusround                     |
+| model-s                            | ionicIconmodels                         |
+| monitor                            | ionicIconmonitor                        |
+| more                               | ionicIconmore                           |
+| mouse                              | ionicIconmouse                          |
+| music-note                         | ionicIconmusicnote                      |
+| navicon                            | ionicIconnavicon                        |
+| navicon-round                      | ionicIconnaviconround                   |
+| navigate                           | ionicIconnavigate                       |
+| network                            | ionicIconnetwork                        |
+| no-smoking                         | ionicIconnosmoking                      |
+| nuclear                            | ionicIconnuclear                        |
+| outlet                             | ionicIconoutlet                         |
+| paintbrush                         | ionicIconpaintbrush                     |
+| paintbucket                        | ionicIconpaintbucket                    |
+| paper-airplane                     | ionicIconpaperairplane                  |
+| paperclip                          | ionicIconpaperclip                      |
+| pause                              | ionicIconpause                          |
+| person                             | ionicIconperson                         |
+| person-add                         | ionicIconpersonadd                      |
+| person-stalker                     | ionicIconpersonstalker                  |
+| pie-graph                          | ionicIconpiegraph                       |
+| pin                                | ionicIconpin                            |
+| pinpoint                           | ionicIconpinpoint                       |
+| pizza                              | ionicIconpizza                          |
+| plane                              | ionicIconplane                          |
+| planet                             | ionicIconplanet                         |
+| play                               | ionicIconplay                           |
+| playstation                        | ionicIconplaystation                    |
+| plus                               | ionicIconplus                           |
+| plus-circled                       | ionicIconpluscircled                    |
+| plus-round                         | ionicIconplusround                      |
+| podium                             | ionicIconpodium                         |
+| pound                              | ionicIconpound                          |
+| power                              | ionicIconpower                          |
+| pricetag                           | ionicIconpricetag                       |
+| pricetags                          | ionicIconpricetags                      |
+| printer                            | ionicIconprinter                        |
+| pull-request                       | ionicIconpullrequest                    |
+| qr-scanner                         | ionicIconqrscanner                      |
+| quote                              | ionicIconquote                          |
+| radio-waves                        | ionicIconradiowaves                     |
+| record                             | ionicIconrecord                         |
+| refresh                            | ionicIconrefresh                        |
+| reply                              | ionicIconreply                          |
+| reply-all                          | ionicIconreplyall                       |
+| ribbon-a                           | ionicIconribbona                        |
+| ribbon-b                           | ionicIconribbonb                        |
+| sad                                | ionicIconsad                            |
+| sad-outline                        | ionicIconsadoutline                     |
+| scissors                           | ionicIconscissors                       |
+| search                             | ionicIconsearch                         |
+| settings                           | ionicIconsettings                       |
+| share                              | ionicIconshare                          |
+| shuffle                            | ionicIconshuffle                        |
+| skip-backward                      | ionicIconskipbackward                   |
+| skip-forward                       | ionicIconskipforward                    |
+| social-android                     | ionicIconsocialandroid                  |
+| social-android-outline             | ionicIconsocialandroidoutline           |
+| social-angular                     | ionicIconsocialangular                  |
+| social-angular-outline             | ionicIconsocialangularoutline           |
+| social-apple                       | ionicIconsocialapple                    |
+| social-apple-outline               | ionicIconsocialappleoutline             |
+| social-bitcoin                     | ionicIconsocialbitcoin                  |
+| social-bitcoin-outline             | ionicIconsocialbitcoinoutline           |
+| social-buffer                      | ionicIconsocialbuffer                   |
+| social-buffer-outline              | ionicIconsocialbufferoutline            |
+| social-chrome                      | ionicIconsocialchrome                   |
+| social-chrome-outline              | ionicIconsocialchromeoutline            |
+| social-codepen                     | ionicIconsocialcodepen                  |
+| social-codepen-outline             | ionicIconsocialcodepenoutline           |
+| social-css3                        | ionicIconsocialcss3                     |
+| social-css3-outline                | ionicIconsocialcss3outline              |
+| social-designernews                | ionicIconsocialdesignernews             |
+| social-designernews-outline        | ionicIconsocialdesignernewsoutline      |
+| social-dribbble                    | ionicIconsocialdribbble                 |
+| social-dribbble-outline            | ionicIconsocialdribbbleoutline          |
+| social-dropbox                     | ionicIconsocialdropbox                  |
+| social-dropbox-outline             | ionicIconsocialdropboxoutline           |
+| social-euro                        | ionicIconsocialeuro                     |
+| social-euro-outline                | ionicIconsocialeurooutline              |
+| social-facebook                    | ionicIconsocialfacebook                 |
+| social-facebook-outline            | ionicIconsocialfacebookoutline          |
+| social-foursquare                  | ionicIconsocialfoursquare               |
+| social-foursquare-outline          | ionicIconsocialfoursquareoutline        |
+| social-freebsd-devil               | ionicIconsocialfreebsddevil             |
+| social-github                      | ionicIconsocialgithub                   |
+| social-github-outline              | ionicIconsocialgithuboutline            |
+| social-google                      | ionicIconsocialgoogle                   |
+| social-google-outline              | ionicIconsocialgoogleoutline            |
+| social-googleplus                  | ionicIconsocialgoogleplus               |
+| social-googleplus-outline          | ionicIconsocialgoogleplusoutline        |
+| social-hackernews                  | ionicIconsocialhackernews               |
+| social-hackernews-outline          | ionicIconsocialhackernewsoutline        |
+| social-html5                       | ionicIconsocialhtml5                    |
+| social-html5-outline               | ionicIconsocialhtml5outline             |
+| social-instagram                   | ionicIconsocialinstagram                |
+| social-instagram-outline           | ionicIconsocialinstagramoutline         |
+| social-javascript                  | ionicIconsocialjavascript               |
+| social-javascript-outline          | ionicIconsocialjavascriptoutline        |
+| social-linkedin                    | ionicIconsociallinkedin                 |
+| social-linkedin-outline            | ionicIconsociallinkedinoutline          |
+| social-markdown                    | ionicIconsocialmarkdown                 |
+| social-nodejs                      | ionicIconsocialnodejs                   |
+| social-octocat                     | ionicIconsocialoctocat                  |
+| social-pinterest                   | ionicIconsocialpinterest                |
+| social-pinterest-outline           | ionicIconsocialpinterestoutline         |
+| social-python                      | ionicIconsocialpython                   |
+| social-reddit                      | ionicIconsocialreddit                   |
+| social-reddit-outline              | ionicIconsocialredditoutline            |
+| social-rss                         | ionicIconsocialrss                      |
+| social-rss-outline                 | ionicIconsocialrssoutline               |
+| social-sass                        | ionicIconsocialsass                     |
+| social-skype                       | ionicIconsocialskype                    |
+| social-skype-outline               | ionicIconsocialskypeoutline             |
+| social-snapchat                    | ionicIconsocialsnapchat                 |
+| social-snapchat-outline            | ionicIconsocialsnapchatoutline          |
+| social-tumblr                      | ionicIconsocialtumblr                   |
+| social-tumblr-outline              | ionicIconsocialtumblroutline            |
+| social-tux                         | ionicIconsocialtux                      |
+| social-twitch                      | ionicIconsocialtwitch                   |
+| social-twitch-outline              | ionicIconsocialtwitchoutline            |
+| social-twitter                     | ionicIconsocialtwitter                  |
+| social-twitter-outline             | ionicIconsocialtwitteroutline           |
+| social-usd                         | ionicIconsocialusd                      |
+| social-usd-outline                 | ionicIconsocialusdoutline               |
+| social-vimeo                       | ionicIconsocialvimeo                    |
+| social-vimeo-outline               | ionicIconsocialvimeooutline             |
+| social-whatsapp                    | ionicIconsocialwhatsapp                 |
+| social-whatsapp-outline            | ionicIconsocialwhatsappoutline          |
+| social-windows                     | ionicIconsocialwindows                  |
+| social-windows-outline             | ionicIconsocialwindowsoutline           |
+| social-wordpress                   | ionicIconsocialwordpress                |
+| social-wordpress-outline           | ionicIconsocialwordpressoutline         |
+| social-yahoo                       | ionicIconsocialyahoo                    |
+| social-yahoo-outline               | ionicIconsocialyahoooutline             |
+| social-yen                         | ionicIconsocialyen                      |
+| social-yen-outline                 | ionicIconsocialyenoutline               |
+| social-youtube                     | ionicIconsocialyoutube                  |
+| social-youtube-outline             | ionicIconsocialyoutubeoutline           |
+| soup-can                           | ionicIconsoupcan                        |
+| soup-can-outline                   | ionicIconsoupcanoutline                 |
+| speakerphone                       | ionicIconspeakerphone                   |
+| speedometer                        | ionicIconspeedometer                    |
+| spoon                              | ionicIconspoon                          |
+| star                               | ionicIconstar                           |
+| stats-bars                         | ionicIconstatsbars                      |
+| steam                              | ionicIconsteam                          |
+| stop                               | ionicIconstop                           |
+| thermometer                        | ionicIconthermometer                    |
+| thumbsdown                         | ionicIconthumbsdown                     |
+| thumbsup                           | ionicIconthumbsup                       |
+| toggle                             | ionicIcontoggle                         |
+| toggle-filled                      | ionicIcontogglefilled                   |
+| transgender                        | ionicIcontransgender                    |
+| trash-a                            | ionicIcontrasha                         |
+| trash-b                            | ionicIcontrashb                         |
+| trophy                             | ionicIcontrophy                         |
+| tshirt                             | ionicIcontshirt                         |
+| tshirt-outline                     | ionicIcontshirtoutline                  |
+| umbrella                           | ionicIconumbrella                       |
+| university                         | ionicIconuniversity                     |
+| unlocked                           | ionicIconunlocked                       |
+| upload                             | ionicIconupload                         |
+| usb                                | ionicIconusb                            |
+| videocamera                        | ionicIconvideocamera                    |
+| volume-high                        | ionicIconvolumehigh                     |
+| volume-low                         | ionicIconvolumelow                      |
+| volume-medium                      | ionicIconvolumemedium                   |
+| volume-mute                        | ionicIconvolumemute                     |
+| wand                               | ionicIconwand                           |
+| waterdrop                          | ionicIconwaterdrop                      |
+| wifi                               | ionicIconwifi                           |
+| wineglass                          | ionicIconwineglass                      |
+| woman                              | ionicIconwoman                          |
+| wrench                             | ionicIconwrench                         |
+| xbox                               | ionicIconxbox                           |
