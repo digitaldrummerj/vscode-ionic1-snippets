@@ -1,1 +1,6 @@
-test/
+test/**
+.vscode/**
+*.vsix
+docs.md
+vsc-extension-quickstart.md
+.gitignore
