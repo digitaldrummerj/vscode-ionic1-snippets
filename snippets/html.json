@@ -1,1128 +1,1128 @@
 {
-	"ioniccssbuttonblock:assertive": {
-		"prefix": "ioniccssbuttonblock:assertive",
+	"i1_cssbuttonblock_assertive": {
+		"prefix": "i1_cssbuttonblock_assertive",
 		"body": "\n<button class=\"button button-assertive button-block\">\n  ${1:button-assertive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:balanced": {
-		"prefix": "ioniccssbuttonblock:balanced",
+	"i1_cssbuttonblock_balanced": {
+		"prefix": "i1_cssbuttonblock_balanced",
 		"body": "\n<button class=\"button button-balanced button-block\">\n  ${1:button-balanced}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:calm": {
-		"prefix": "ioniccssbuttonblock:calm",
+	"i1_cssbuttonblock_calm": {
+		"prefix": "i1_cssbuttonblock_calm",
 		"body": "\n<button class=\"button button-calm button-block\">\n  ${1:button-calm}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:dark": {
-		"prefix": "ioniccssbuttonblock:dark",
+	"i1_cssbuttonblock_dark": {
+		"prefix": "i1_cssbuttonblock_dark",
 		"body": "\n<button class=\"button button-dark button-block\">\n  ${1:button-dark}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:energized": {
-		"prefix": "ioniccssbuttonblock:energized",
+	"i1_cssbuttonblock_energized": {
+		"prefix": "i1_cssbuttonblock_energized",
 		"body": "\n<button class=\"button button-energized button-block\">\n  ${1:button-energized}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:light": {
-		"prefix": "ioniccssbuttonblock:light",
+	"i1_cssbuttonblock_light": {
+		"prefix": "i1_cssbuttonblock_light",
 		"body": "\n<button class=\"button button-light button-block\">\n  ${1:button-light}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:positive": {
-		"prefix": "ioniccssbuttonblock:positive",
+	"i1_cssbuttonblock_positive": {
+		"prefix": "i1_cssbuttonblock_positive",
 		"body": "\n<button class=\"button button-positive button-block\">\n  ${1:button-positive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:royal": {
-		"prefix": "ioniccssbuttonblock:royal",
+	"i1_cssbuttonblock_royal": {
+		"prefix": "i1_cssbuttonblock_royal",
 		"body": "\n<button class=\"button button-royal button-block\">\n  ${1:button-royal}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock:stable": {
-		"prefix": "ioniccssbuttonblock:stable",
+	"i1_cssbuttonblock_stable": {
+		"prefix": "i1_cssbuttonblock_stable",
 		"body": "\n<button class=\"button button-stable button-block\">\n  ${1:button-stable}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonblock": {
-		"prefix": "ioniccssbuttonblock",
+	"i1_cssbuttonblock": {
+		"prefix": "i1_cssbuttonblock",
 		"body": "\n<button class=\"button button-block\">\n  ${1:Default}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:assertive": {
-		"prefix": "ioniccssbuttonclear:assertive",
+	"i1_cssbuttonclear_assertive": {
+		"prefix": "i1_cssbuttonclear_assertive",
 		"body": "\n<button class=\"button button-assertive button-clear\">\n  ${1:button-assertive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:balanced": {
-		"prefix": "ioniccssbuttonclear:balanced",
+	"i1_cssbuttonclear_balanced": {
+		"prefix": "i1_cssbuttonclear_balanced",
 		"body": "\n<button class=\"button button-balanced button-clear\">\n  ${1:button-balanced}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:calm": {
-		"prefix": "ioniccssbuttonclear:calm",
+	"i1_cssbuttonclear_calm": {
+		"prefix": "i1_cssbuttonclear_calm",
 		"body": "\n<button class=\"button button-calm button-clear\">\n  ${1:button-calm}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:dark": {
-		"prefix": "ioniccssbuttonclear:dark",
+	"i1_cssbuttonclear_dark": {
+		"prefix": "i1_cssbuttonclear_dark",
 		"body": "\n<button class=\"button button-dark button-clear\">\n  ${1:button-dark}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:energized": {
-		"prefix": "ioniccssbuttonclear:energized",
+	"i1_cssbuttonclear_energized": {
+		"prefix": "i1_cssbuttonclear_energized",
 		"body": "\n<button class=\"button button-energized button-clear\">\n  ${1:button-energized}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:light": {
-		"prefix": "ioniccssbuttonclear:light",
+	"i1_cssbuttonclear_light": {
+		"prefix": "i1_cssbuttonclear_light",
 		"body": "\n<button class=\"button button-light button-clear\">\n  ${1:button-light}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:positive": {
-		"prefix": "ioniccssbuttonclear:positive",
+	"i1_cssbuttonclear_positive": {
+		"prefix": "i1_cssbuttonclear_positive",
 		"body": "\n<button class=\"button button-positive button-clear\">\n  ${1:button-positive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:royal": {
-		"prefix": "ioniccssbuttonclear:royal",
+	"i1_cssbuttonclear_royal": {
+		"prefix": "i1_cssbuttonclear_royal",
 		"body": "\n<button class=\"button button-royal button-clear\">\n  ${1:button-royal}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear:stable": {
-		"prefix": "ioniccssbuttonclear:stable",
+	"i1_cssbuttonclear_stable": {
+		"prefix": "i1_cssbuttonclear_stable",
 		"body": "\n<button class=\"button button-stable button-clear\">\n  ${1:button-stable}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonclear": {
-		"prefix": "ioniccssbuttonclear",
+	"i1_cssbuttonclear": {
+		"prefix": "i1_cssbuttonclear",
 		"body": "\n<button class=\"button button-clear\">\n  ${1:Default}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:assertive": {
-		"prefix": "ioniccssbutton:assertive",
+	"i1_cssbutton_assertive": {
+		"prefix": "i1_cssbutton_assertive",
 		"body": "\n<button class=\"button button-assertive\">\n  ${1:button-assertive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:balanced": {
-		"prefix": "ioniccssbutton:balanced",
+	"i1_cssbutton_balanced": {
+		"prefix": "i1_cssbutton_balanced",
 		"body": "\n<button class=\"button button-balanced\">\n  ${1:button-balanced}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonbar": {
-		"prefix": "ioniccssbuttonbar",
+	"i1_cssbuttonbar": {
+		"prefix": "i1_cssbuttonbar",
 		"body": "\n<div class=\"button-bar\">\n  <a class=\"button\">${1:First}</a>\n  <a class=\"button\">${2:Second}</a>\n  <a class=\"button\">${3:Third}</a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:calm": {
-		"prefix": "ioniccssbutton:calm",
+	"i1_cssbutton_calm": {
+		"prefix": "i1_cssbutton_calm",
 		"body": "\n<button class=\"button button-calm\">\n  ${1:button-calm}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:dark": {
-		"prefix": "ioniccssbutton:dark",
+	"i1_cssbutton_dark": {
+		"prefix": "i1_cssbutton_dark",
 		"body": "\n<button class=\"button button-dark\">\n  ${1:button-dark}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:energized": {
-		"prefix": "ioniccssbutton:energized",
+	"i1_cssbutton_energized": {
+		"prefix": "i1_cssbutton_energized",
 		"body": "\n<button class=\"button button-energized\">\n  ${1:button-energized}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:light": {
-		"prefix": "ioniccssbutton:light",
+	"i1_cssbutton_light": {
+		"prefix": "i1_cssbutton_light",
 		"body": "\n<button class=\"button button-light\">\n  ${1:button-light}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:positive": {
-		"prefix": "ioniccssbutton:positive",
+	"i1_cssbutton_positive": {
+		"prefix": "i1_cssbutton_positive",
 		"body": "\n<button class=\"button button-positive\">\n  ${1:button-positive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:royal": {
-		"prefix": "ioniccssbutton:royal",
+	"i1_cssbutton_royal": {
+		"prefix": "i1_cssbutton_royal",
 		"body": "\n<button class=\"button button-royal\">\n  ${1:button-royal}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton:stable": {
-		"prefix": "ioniccssbutton:stable",
+	"i1_cssbutton_stable": {
+		"prefix": "i1_cssbutton_stable",
 		"body": "\n<button class=\"button button-stable\">\n  ${1:button-stable}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbutton": {
-		"prefix": "ioniccssbutton",
+	"i1_cssbutton": {
+		"prefix": "i1_cssbutton",
 		"body": "\n<button class=\"button\">\n  ${1:Default}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:assertive": {
-		"prefix": "ioniccssbuttonfull:assertive",
+	"i1_cssbuttonfull_assertive": {
+		"prefix": "i1_cssbuttonfull_assertive",
 		"body": "\n<button class=\"button button-assertive button-full\">\n  ${1:button-assertive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:balanced": {
-		"prefix": "ioniccssbuttonfull:balanced",
+	"i1_cssbuttonfull_balanced": {
+		"prefix": "i1_cssbuttonfull_balanced",
 		"body": "\n<button class=\"button button-balanced button-full\">\n  ${1:button-balanced}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:calm": {
-		"prefix": "ioniccssbuttonfull:calm",
+	"i1_cssbuttonfull_calm": {
+		"prefix": "i1_cssbuttonfull_calm",
 		"body": "\n<button class=\"button button-calm button-full\">\n  ${1:button-calm}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:dark": {
-		"prefix": "ioniccssbuttonfull:dark",
+	"i1_cssbuttonfull_dark": {
+		"prefix": "i1_cssbuttonfull_dark",
 		"body": "\n<button class=\"button button-dark button-full\">\n  ${1:button-dark}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:energized": {
-		"prefix": "ioniccssbuttonfull:energized",
+	"i1_cssbuttonfull_energized": {
+		"prefix": "i1_cssbuttonfull_energized",
 		"body": "\n<button class=\"button button-energized button-full\">\n  ${1:button-energized}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:light": {
-		"prefix": "ioniccssbuttonfull:light",
+	"i1_cssbuttonfull_light": {
+		"prefix": "i1_cssbuttonfull_light",
 		"body": "\n<button class=\"button button-light button-full\">\n  ${1:button-light}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:positive": {
-		"prefix": "ioniccssbuttonfull:positive",
+	"i1_cssbuttonfull_positive": {
+		"prefix": "i1_cssbuttonfull_positive",
 		"body": "\n<button class=\"button button-positive button-full\">\n  ${1:button-positive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:royal": {
-		"prefix": "ioniccssbuttonfull:royal",
+	"i1_cssbuttonfull_royal": {
+		"prefix": "i1_cssbuttonfull_royal",
 		"body": "\n<button class=\"button button-royal button-full\">\n  ${1:button-royal}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull:stable": {
-		"prefix": "ioniccssbuttonfull:stable",
+	"i1_cssbuttonfull_stable": {
+		"prefix": "i1_cssbuttonfull_stable",
 		"body": "\n<button class=\"button button-stable button-full\">\n  ${1:button-stable}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonfull": {
-		"prefix": "ioniccssbuttonfull",
+	"i1_cssbuttonfull": {
+		"prefix": "i1_cssbuttonfull",
 		"body": "\n<button class=\"button button-full\">\n  ${1:Default}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:assertive": {
-		"prefix": "ioniccssbuttonlarge:assertive",
+	"i1_cssbuttonlarge_assertive": {
+		"prefix": "i1_cssbuttonlarge_assertive",
 		"body": "\n<button class=\"button button-assertive button-large\">\n  ${1:button-assertive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:balanced": {
-		"prefix": "ioniccssbuttonlarge:balanced",
+	"i1_cssbuttonlarge_balanced": {
+		"prefix": "i1_cssbuttonlarge_balanced",
 		"body": "\n<button class=\"button button-balanced button-large\">\n  ${1:button-balanced}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:calm": {
-		"prefix": "ioniccssbuttonlarge:calm",
+	"i1_cssbuttonlarge_calm": {
+		"prefix": "i1_cssbuttonlarge_calm",
 		"body": "\n<button class=\"button button-calm button-large\">\n  ${1:button-calm}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:dark": {
-		"prefix": "ioniccssbuttonlarge:dark",
+	"i1_cssbuttonlarge_dark": {
+		"prefix": "i1_cssbuttonlarge_dark",
 		"body": "\n<button class=\"button button-dark button-large\">\n  ${1:button-dark}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:energized": {
-		"prefix": "ioniccssbuttonlarge:energized",
+	"i1_cssbuttonlarge_energized": {
+		"prefix": "i1_cssbuttonlarge_energized",
 		"body": "\n<button class=\"button button-energized button-large\">\n  ${1:button-energized}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:light": {
-		"prefix": "ioniccssbuttonlarge:light",
+	"i1_cssbuttonlarge_light": {
+		"prefix": "i1_cssbuttonlarge_light",
 		"body": "\n<button class=\"button button-light button-large\">\n  ${1:button-light}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:positive": {
-		"prefix": "ioniccssbuttonlarge:positive",
+	"i1_cssbuttonlarge_positive": {
+		"prefix": "i1_cssbuttonlarge_positive",
 		"body": "\n<button class=\"button button-positive button-large\">\n  ${1:button-positive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:royal": {
-		"prefix": "ioniccssbuttonlarge:royal",
+	"i1_cssbuttonlarge_royal": {
+		"prefix": "i1_cssbuttonlarge_royal",
 		"body": "\n<button class=\"button button-royal button-large\">\n  ${1:button-royal}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge:stable": {
-		"prefix": "ioniccssbuttonlarge:stable",
+	"i1_cssbuttonlarge_stable": {
+		"prefix": "i1_cssbuttonlarge_stable",
 		"body": "\n<button class=\"button button-stable button-large\">\n  ${1:button-stable}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonlarge": {
-		"prefix": "ioniccssbuttonlarge",
+	"i1_cssbuttonlarge": {
+		"prefix": "i1_cssbuttonlarge",
 		"body": "\n<button class=\"button button-large\">\n    ${1:Default}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:assertive": {
-		"prefix": "ioniccssbuttonoutline:assertive",
+	"i1_cssbuttonoutline_assertive": {
+		"prefix": "i1_cssbuttonoutline_assertive",
 		"body": "\n<button class=\"button button-assertive button-outline\">\n  ${1:button-assertive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:balanced": {
-		"prefix": "ioniccssbuttonoutline:balanced",
+	"i1_cssbuttonoutline_balanced": {
+		"prefix": "i1_cssbuttonoutline_balanced",
 		"body": "\n<button class=\"button button-balanced button-outline\">\n  ${1:button-balanced}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:calm": {
-		"prefix": "ioniccssbuttonoutline:calm",
+	"i1_cssbuttonoutline_calm": {
+		"prefix": "i1_cssbuttonoutline_calm",
 		"body": "\n<button class=\"button button-calm button-outline\">\n  ${1:button-calm}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:dark": {
-		"prefix": "ioniccssbuttonoutline:dark",
+	"i1_cssbuttonoutline_dark": {
+		"prefix": "i1_cssbuttonoutline_dark",
 		"body": "\n<button class=\"button button-dark button-outline\">\n  ${1:button-dark}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:energized": {
-		"prefix": "ioniccssbuttonoutline:energized",
+	"i1_cssbuttonoutline_energized": {
+		"prefix": "i1_cssbuttonoutline_energized",
 		"body": "\n<button class=\"button button-energized button-outline\">\n  ${1:button-energized}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:light": {
-		"prefix": "ioniccssbuttonoutline:light",
+	"i1_cssbuttonoutline_light": {
+		"prefix": "i1_cssbuttonoutline_light",
 		"body": "\n<button class=\"button button-light button-outline\">\n  ${1:button-light}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:positive": {
-		"prefix": "ioniccssbuttonoutline:positive",
+	"i1_cssbuttonoutline_positive": {
+		"prefix": "i1_cssbuttonoutline_positive",
 		"body": "\n<button class=\"button button-positive button-outline\">\n  ${1:button-positive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:royal": {
-		"prefix": "ioniccssbuttonoutline:royal",
+	"i1_cssbuttonoutline_royal": {
+		"prefix": "i1_cssbuttonoutline_royal",
 		"body": "\n<button class=\"button button-royal button-outline\">\n  ${1:button-royal}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline:stable": {
-		"prefix": "ioniccssbuttonoutline:stable",
+	"i1_cssbuttonoutline_stable": {
+		"prefix": "i1_cssbuttonoutline_stable",
 		"body": "\n<button class=\"button button-stable button-outline\">\n  ${1:button-stable}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonoutline": {
-		"prefix": "ioniccssbuttonoutline",
+	"i1_cssbuttonoutline": {
+		"prefix": "i1_cssbuttonoutline",
 		"body": "\n<button class=\"button button-outline\">\n  ${1:Default}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:assertive": {
-		"prefix": "ioniccssbuttonsmall:assertive",
+	"i1_cssbuttonsmall_assertive": {
+		"prefix": "i1_cssbuttonsmall_assertive",
 		"body": "\n<button class=\"button button-assertive button-small\">\n  ${1:button-assertive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:balanced": {
-		"prefix": "ioniccssbuttonsmall:balanced",
+	"i1_cssbuttonsmall_balanced": {
+		"prefix": "i1_cssbuttonsmall_balanced",
 		"body": "\n<button class=\"button button-balanced button-small\">\n  ${1:button-balanced}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:calm": {
-		"prefix": "ioniccssbuttonsmall:calm",
+	"i1_cssbuttonsmall_calm": {
+		"prefix": "i1_cssbuttonsmall_calm",
 		"body": "\n<button class=\"button button-calm button-small\">\n  ${1:button-calm}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:dark": {
-		"prefix": "ioniccssbuttonsmall:dark",
+	"i1_cssbuttonsmall_dark": {
+		"prefix": "i1_cssbuttonsmall_dark",
 		"body": "\n<button class=\"button button-dark button-small\">\n  ${1:button-dark}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:energized": {
-		"prefix": "ioniccssbuttonsmall:energized",
+	"i1_cssbuttonsmall_energized": {
+		"prefix": "i1_cssbuttonsmall_energized",
 		"body": "\n<button class=\"button button-energized button-small\">\n  ${1:button-energized}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:light": {
-		"prefix": "ioniccssbuttonsmall:light",
+	"i1_cssbuttonsmall_light": {
+		"prefix": "i1_cssbuttonsmall_light",
 		"body": "\n<button class=\"button button-light button-small\">\n  ${1:button-light}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:positive": {
-		"prefix": "ioniccssbuttonsmall:positive",
+	"i1_cssbuttonsmall_positive": {
+		"prefix": "i1_cssbuttonsmall_positive",
 		"body": "\n<button class=\"button button-positive button-small\">\n  ${1:button-positive}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:royal": {
-		"prefix": "ioniccssbuttonsmall:royal",
+	"i1_cssbuttonsmall_royal": {
+		"prefix": "i1_cssbuttonsmall_royal",
 		"body": "\n<button class=\"button button-royal button-small\">\n  ${1:button-royal}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall:stable": {
-		"prefix": "ioniccssbuttonsmall:stable",
+	"i1_cssbuttonsmall_stable": {
+		"prefix": "i1_cssbuttonsmall_stable",
 		"body": "\n<button class=\"button button-stable button-small\">\n  ${1:button-stable}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssbuttonsmall": {
-		"prefix": "ioniccssbuttonsmall",
+	"i1_cssbuttonsmall": {
+		"prefix": "i1_cssbuttonsmall",
 		"body": "\n<button class=\"button button-small\">\n  ${1:Default}\n</button>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscard:divider": {
-		"prefix": "ioniccsscard:divider",
+	"i1_csscard_divider": {
+		"prefix": "i1_csscard_divider",
 		"body": "\n<div class=\"item item-divider\">\n    I'm a Header in a Card!\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscard:image": {
-		"prefix": "ioniccsscard:image",
+	"i1_csscard_image": {
+		"prefix": "i1_csscard_image",
 		"body": "\n<div class=\"list card\">\n  <div class=\"item item-avatar\">\n    <img src=\"${1:avatar}.jpg\">\n    <h2>${2:Pretty Hate Machine}</h2>\n    <p>${3:Nine Inch Nails}</p>\n  </div>\n\n  <div class=\"item item-image\">\n    <img src=\"${4:cover}.jpg\">\n  </div>\n\n  <a class=\"item item-icon-left assertive\" href=\"${5:#}\">\n    <i class=\"icon ion-music-note\"></i>\n    ${6:Start listening}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscard:list": {
-		"prefix": "ioniccsscard:list",
+	"i1_csscard_list": {
+		"prefix": "i1_csscard_list",
 		"body": "\n<div class=\"list card\">\n  <a href=\"#\" class=\"item item-icon-left\">\n    <i class=\"icon ion-home\"></i>\n    ${1:First Item}\n  </a>\n\n  <a href=\"#\" class=\"item item-icon-left\">\n    <i class=\"icon ion-ios7-telephone\"></i>\n    ${2:Second Item}\n  </a>\n\n  <a href=\"#\" class=\"item item-icon-left\">\n    <i class=\"icon ion-wifi\"></i>\n    ${3:Third Item}\n  </a>\n\n  <a href=\"#\" class=\"item item-icon-left\">\n    <i class=\"icon ion-card\"></i>\n    ${4:Fourth Item}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscard:showcase": {
-		"prefix": "ioniccsscard:showcase",
+	"i1_csscard_showcase": {
+		"prefix": "i1_csscard_showcase",
 		"body": "\n<div class=\"list card\">\n  <div class=\"item item-avatar\">\n    <img src=\"${1:mcfly}.jpg\">\n    <h2>${2:Marty McFly}</h2>\n    <p>${3:November 05, 1955}</p>\n  </div>\n\n  <div class=\"item item-body\">\n    <img class=\"full-image\" src=\"${4:delorean}.jpg\">\n    <p>\n      ${5:This is a \"Facebook\" styled Card. The header is created from a Thumbnail List item,\n      the content is from a card-body consisting of an image and paragraph text. The footer\n      consists of tabs, icons aligned left, within the card-footer.}\n    </p>\n    <p>\n      <a href=\"${6:#}\" class=\"subdued\">${7:1 Like}</a>\n      <a href=\"${8:#}\" class=\"subdued\">${9:5 Comments}</a>\n    </p>\n  </div>\n\n  <div class=\"item tabs tabs-secondary tabs-icon-left\">\n    <a class=\"tab-item\" href=\"${10:#}\">\n      <i class=\"icon ion-thumbsup\"></i>\n      ${11:Like}\n    </a>\n    <a class=\"tab-item\" href=\"${12:#}\">\n      <i class=\"icon ion-chatbox\"></i>\n      ${13:Comment}\n    </a>\n    <a class=\"tab-item\" href=\"${14:#}\">\n      <i class=\"icon ion-share\"></i>\n      ${15:Share}\n    </a>\n  </div>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscard": {
-		"prefix": "ioniccsscard",
+	"i1_csscard": {
+		"prefix": "i1_csscard",
 		"body": "\n<div class=\"card\">\n  <div class=\"item item-text-wrap\">\n    ${1:This is a Card}\n  </div>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:assertive": {
-		"prefix": "ioniccsscheckbox:assertive",
+	"i1_csscheckbox_assertive": {
+		"prefix": "i1_csscheckbox_assertive",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-assertive\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:balanced": {
-		"prefix": "ioniccsscheckbox:balanced",
+	"i1_csscheckbox_balanced": {
+		"prefix": "i1_csscheckbox_balanced",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-balanced\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:calm": {
-		"prefix": "ioniccsscheckbox:calm",
+	"i1_csscheckbox_calm": {
+		"prefix": "i1_csscheckbox_calm",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-calm\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:royal": {
-		"prefix": "ioniccsscheckbox:royal",
+	"i1_csscheckbox_royal": {
+		"prefix": "i1_csscheckbox_royal",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-royal\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:energized": {
-		"prefix": "ioniccsscheckbox:energized",
+	"i1_csscheckbox_energized": {
+		"prefix": "i1_csscheckbox_energized",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-energized\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:light": {
-		"prefix": "ioniccsscheckbox:light",
+	"i1_csscheckbox_light": {
+		"prefix": "i1_csscheckbox_light",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-light\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:positive": {
-		"prefix": "ioniccsscheckbox:positive",
+	"i1_csscheckbox_positive": {
+		"prefix": "i1_csscheckbox_positive",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-positive\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:royal1": {
-		"prefix": "ioniccsscheckbox:royal",
+	"i1_csscheckbox_royal1": {
+		"prefix": "i1_csscheckbox_royal",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-royal\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox:stable": {
-		"prefix": "ioniccsscheckbox:stable",
+	"i1_csscheckbox_stable": {
+		"prefix": "i1_csscheckbox_stable",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox checkbox-stable\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsscheckbox": {
-		"prefix": "ioniccsscheckbox",
+	"i1_csscheckbox": {
+		"prefix": "i1_csscheckbox",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-checkbox\">\n    <label class=\"checkbox\">\n      <input type=\"checkbox\">\n    </label>\n    ${1:Checkbox Crazy}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:assertive": {
-		"prefix": "ioniccssfooter:assertive",
+	"i1_cssfooter_assertive": {
+		"prefix": "i1_cssfooter_assertive",
 		"body": "\n<div class=\"bar bar-footer bar-assertive\">\n  <h1 class=\"title\">${1:Footer-assertive}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:balanced": {
-		"prefix": "ioniccssfooter:balanced",
+	"i1_cssfooter_balanced": {
+		"prefix": "i1_cssfooter_balanced",
 		"body": "\n<div class=\"bar bar-footer bar-balanced\">\n  <h1 class=\"title\">${1:Footer-balanced}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:calm": {
-		"prefix": "ioniccssfooter:calm",
+	"i1_cssfooter_calm": {
+		"prefix": "i1_cssfooter_calm",
 		"body": "\n<div class=\"bar bar-footer bar-calm\">\n  <h1 class=\"title\">${1:Footer-calm}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:dark": {
-		"prefix": "ioniccssfooter:dark",
+	"i1_cssfooter_dark": {
+		"prefix": "i1_cssfooter_dark",
 		"body": "\n<div class=\"bar bar-footer bar-dark\">\n  <h1 class=\"title\">${1:Footer-dark}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:energized": {
-		"prefix": "ioniccssfooter:energized",
+	"i1_cssfooter_energized": {
+		"prefix": "i1_cssfooter_energized",
 		"body": "\n<div class=\"bar bar-footer bar-energized\">\n  <h1 class=\"title\">${1:Footer-energized}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:light": {
-		"prefix": "ioniccssheader:light",
+	"i1_cssheader_light": {
+		"prefix": "i1_cssheader_light",
 		"body": "\n<div class=\"bar bar-header bar-light\">\n  <h1 class=\"title\">${1:bar-light}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:positive": {
-		"prefix": "ioniccssfooter:positive",
+	"i1_cssfooter_positive": {
+		"prefix": "i1_cssfooter_positive",
 		"body": "\n<div class=\"bar bar-footer bar-positive\">\n  <h1 class=\"title\">${1:bar-positive}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:royal": {
-		"prefix": "ioniccssfooter:royal",
+	"i1_cssfooter_royal": {
+		"prefix": "i1_cssfooter_royal",
 		"body": "\n<div class=\"bar bar-footer bar-royal\">\n  <h1 class=\"title\">${1:Footer-royal}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter:stable": {
-		"prefix": "ioniccssfooter:stable",
+	"i1_cssfooter_stable": {
+		"prefix": "i1_cssfooter_stable",
 		"body": "\n<div class=\"bar bar-footer bar-stable\">\n  <h1 class=\"title\">${1:Footer-stable}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssfooter": {
-		"prefix": "ioniccssfooter",
+	"i1_cssfooter": {
+		"prefix": "i1_cssfooter",
 		"body": "\n<div class=\"bar bar-footer\">\n  <h1 class=\"title\">${1:Footer}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssformfloating": {
-		"prefix": "ioniccssformfloating",
+	"i1_cssformfloating": {
+		"prefix": "i1_cssformfloating",
 		"body": "\n<div class=\"list\">\n  <label class=\"item item-input item-floating-label\">\n    <span class=\"input-label\">${1:First Name}</span>\n    <input type=\"text\" placeholder=\"${2:First Name}\">\n  </label>\n  <label class=\"item item-input item-floating-label\">\n    <span class=\"input-label\">${3:Last Name}</span>\n    <input type=\"text\" placeholder=\"${4:Last Name}\">\n  </label>\n  <label class=\"item item-input item-floating-label\">\n    <span class=\"input-label\">${5:Email}</span>\n    <input type=\"text\" placeholder=\"${6:Email}\">\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssformheader": {
-		"prefix": "ioniccssformheader",
+	"i1_cssformheader": {
+		"prefix": "i1_cssformheader",
 		"body": "\n<div class=\"bar bar-header item-input-inset\">\n  <label class=\"item-input-wrapper\">\n    <i class=\"icon ion-ios7-search placeholder-icon\"></i>\n    <input type=\"search\" placeholder=\"${1:Search}\">\n  </label>\n  <button class=\"button button-clear\">\n    ${2:Cancel}\n  </button>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssformicon": {
-		"prefix": "ioniccssformicon",
+	"i1_cssformicon": {
+		"prefix": "i1_cssformicon",
 		"body": "\n<div class=\"list list-inset\">\n  <label class=\"item item-input\">\n    <i class=\"icon ion-search placeholder-icon\"></i>\n    <input type=\"text\" placeholder=\"${1:Search}\">\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssforminline": {
-		"prefix": "ioniccssforminline",
+	"i1_cssforminline": {
+		"prefix": "i1_cssforminline",
 		"body": "\n<div class=\"list\">\n  <label class=\"item item-input\">\n    <span class=\"input-label\">${1:Username}</span>\n    <input type=\"text\">\n  </label>\n  <label class=\"item item-input\">\n    <span class=\"input-label\">${2:Password}</span>\n    <input type=\"password\">\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssforminset": {
-		"prefix": "ioniccssforminset",
+	"i1_cssforminset": {
+		"prefix": "i1_cssforminset",
 		"body": "\n<div class=\"list list-inset\">\n  <label class=\"item item-input\">\n    <input type=\"text\" placeholder=\"${1:First Name}\">\n  </label>\n  <label class=\"item item-input\">\n    <input type=\"text\" placeholder=\"${2:Last Name}\">\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssformplaceholder": {
-		"prefix": "ioniccssformplaceholder",
+	"i1_cssformplaceholder": {
+		"prefix": "i1_cssformplaceholder",
 		"body": "\n<div class=\"list\">\n  <label class=\"item item-input\">\n    <input type=\"text\" placeholder=\"${1:First Name}\">\n  </label>\n  <label class=\"item item-input\">\n    <input type=\"text\" placeholder=\"${2:Last Name}\">\n  </label>\n  <label class=\"item item-input\">\n    <textarea placeholder=\"${3:Comments}\"></textarea>\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssformstacked": {
-		"prefix": "ioniccssformstacked",
+	"i1_cssformstacked": {
+		"prefix": "i1_cssformstacked",
 		"body": "\n<div class=\"list\">\n  <label class=\"item item-input item-stacked-label\">\n    <span class=\"input-label\">${1:First Name}</span>\n    <input type=\"text\" placeholder=\"${2:John}\">\n  </label>\n  <label class=\"item item-input item-stacked-label\">\n    <span class=\"input-label\">${3:Last Name}</span>\n    <input type=\"text\" placeholder=\"${4:Suhr}\">\n  </label>\n  <label class=\"item item-input item-stacked-label\">\n    <span class=\"input-label\">${5:Email}</span>\n    <input type=\"text\" placeholder=\"${6:john@suhr.com}\">\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:assertive": {
-		"prefix": "ioniccssheader:assertive",
+	"i1_cssheader_assertive": {
+		"prefix": "i1_cssheader_assertive",
 		"body": "\n<div class=\"bar bar-header bar-assertive\">\n  <h1 class=\"title\">${1:Header bar-assertive}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:balanced": {
-		"prefix": "ioniccssheader:balanced",
+	"i1_cssheader_balanced": {
+		"prefix": "i1_cssheader_balanced",
 		"body": "\n<div class=\"bar bar-header bar-balanced\">\n  <h1 class=\"title\">${1:bar-balanced}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:calm": {
-		"prefix": "ioniccssheader:calm",
+	"i1_cssheader_calm": {
+		"prefix": "i1_cssheader_calm",
 		"body": "\n<div class=\"bar bar-header bar-calm\">\n  <h1 class=\"title\">${1:bar-calm}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:dark": {
-		"prefix": "ioniccssheader:dark",
+	"i1_cssheader_dark": {
+		"prefix": "i1_cssheader_dark",
 		"body": "\n<div class=\"bar bar-header bar-dark\">\n  <h1 class=\"title\">${1:bar-dark}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:energized": {
-		"prefix": "ioniccssheader:energized",
+	"i1_cssheader_energized": {
+		"prefix": "i1_cssheader_energized",
 		"body": "\n<div class=\"bar bar-header bar-energized\">\n  <h1 class=\"title\">${1:bar-energized}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:light1": {
-		"prefix": "ioniccssheader:light",
+	"i1_cssheader_light1": {
+		"prefix": "i1_cssheader_light",
 		"body": "\n<div class=\"bar bar-header bar-light\">\n  <h1 class=\"title\">${1:bar-light}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:positive": {
-		"prefix": "ioniccssheader:positive",
+	"i1_cssheader_positive": {
+		"prefix": "i1_cssheader_positive",
 		"body": "\n<div class=\"bar bar-header bar-positive\">\n  <h1 class=\"title\">${1:bar-positive}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:royal": {
-		"prefix": "ioniccssheader:royal",
+	"i1_cssheader_royal": {
+		"prefix": "i1_cssheader_royal",
 		"body": "\n<div class=\"bar bar-header bar-royal\">\n  <h1 class=\"title\">${1:bar-royal}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader:stable": {
-		"prefix": "ioniccssheader:stable",
+	"i1_cssheader_stable": {
+		"prefix": "i1_cssheader_stable",
 		"body": "\n<div class=\"bar bar-header bar-stable\">\n  <h1 class=\"title\">${1:bar-stable}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssheader": {
-		"prefix": "ioniccssheader",
+	"i1_cssheader": {
+		"prefix": "i1_cssheader",
 		"body": "\n<div class=\"bar bar-header\">\n  <h1 class=\"title\">${1:Header}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsssubheader": {
-		"prefix": "ioniccsssubheader",
+	"i1_csssubheader": {
+		"prefix": "i1_csssubheader",
 		"body": "\n<div class=\"bar bar-subheader\">\n  <h1 class=\"title\">${1:Sub header}</h1>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslist:divider": {
-		"prefix": "ioniccsslist:divider",
+	"i1_csslist_divider": {
+		"prefix": "i1_csslist_divider",
 		"body": "\n<div class=\"item item-divider\">\n  ${1:Item Divider}\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslist:inset": {
-		"prefix": "ioniccsslist:inset",
+	"i1_csslist_inset": {
+		"prefix": "i1_csslist_inset",
 		"body": "\n<ul class=\"list list-inset\">\n  <li class=\"item\">\n    ${1:First Item}\n  </li>\n\n  <li class=\"item\">\n    ${2:Second Item}\n  </li>\n\n  <li class=\"item\">\n    ${3:Third Item}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem:avatar": {
-		"prefix": "ioniccsslistitem:avatar",
+	"i1_csslistitem_avatar": {
+		"prefix": "i1_csslistitem_avatar",
 		"body": "\n<a class=\"item item-avatar\" href=\"#\">\n  <img src=\"${1:#\"}>\n  <h2>Avatar</h2>\n  <p>I am Crazy, are you?.</p>\n</a>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem:buttonleft": {
-		"prefix": "ioniccsslistitem:buttonleft",
+	"i1_csslistitem_buttonleft": {
+		"prefix": "i1_csslistitem_buttonleft",
 		"body": "\n<div class=\"item item-button-left\">\n  Ionic\n  <button class=\"button button-stable\">\n    <i class=\"icon ion-${1:ionic}\"></i>\n  </button>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem:buttonright": {
-		"prefix": "ioniccsslistitem:buttonright",
+	"i1_csslistitem_buttonright": {
+		"prefix": "i1_csslistitem_buttonright",
 		"body": "\n<div class=\"item item-button-right\">\n  Ionic\n  <button class=\"button button-stable\">\n    <i class=\"icon ion-${1:ionic}\"></i>\n  </button>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem:iconleft": {
-		"prefix": "ioniccsslistitem:iconleft",
+	"i1_csslistitem_iconleft": {
+		"prefix": "i1_csslistitem_iconleft",
 		"body": "\n<a class=\"item item-icon-left\" href=\"${1:#}\">\n  <i class=\"icon ion-${2:ionic}\"></i>\n  Ionic\n</a>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem:iconright": {
-		"prefix": "ioniccsslistitem:iconright",
+	"i1_csslistitem_iconright": {
+		"prefix": "i1_csslistitem_iconright",
 		"body": "\n<a class=\"item item-icon-right\" href=\"${1:#}\">\n  <i class=\"icon ion-${2:ionic}\"></i>\n  Ionic\n</a>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem:thumbleft": {
-		"prefix": "ioniccsslistitem:thumbleft",
+	"i1_csslistitem_thumbleft": {
+		"prefix": "i1_csslistitem_thumbleft",
 		"body": "\n<a class=\"item item-thumbnail-left\" href=\"#\">\n  <img src=\"${1:#}\">\n  <h2>Thumbnail</h2>\n  <p>I am Crazy.</p>\n</a>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem:thumbright": {
-		"prefix": "ioniccsslistitem:thumbright",
+	"i1_csslistitem_thumbright": {
+		"prefix": "i1_csslistitem_thumbright",
 		"body": "\n<a class=\"item item-thumbnail-right\" href=\"#\">\n  <img src=\"${1:#}\">\n  <h2>Thumbnail</h2>\n  <p>I am Crazy.</p>\n</a>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslistitem": {
-		"prefix": "ioniccsslistitem",
+	"i1_csslistitem": {
+		"prefix": "i1_csslistitem",
 		"body": "\n<li class=\"item\">\n  ${1:Item}\n</li>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsslist": {
-		"prefix": "ioniccsslist",
+	"i1_csslist": {
+		"prefix": "i1_csslist",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item\">\n    ${1:First Item}\n  </li>\n\n  <li class=\"item\">\n    ${2:Second Item}\n  </li>\n\n  <li class=\"item\">\n    ${3:Third Item}\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssradio": {
-		"prefix": "ioniccssradio",
+	"i1_cssradio": {
+		"prefix": "i1_cssradio",
 		"body": "\n<div class=\"list\">\n  <label class=\"item item-radio\">\n    <input type=\"radio\" name=\"group\">\n    <div class=\"item-content\">\n      ${1:Radio Button}\n    </div>\n    <i class=\"radio-icon ion-checkmark\"></i>\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:assertive": {
-		"prefix": "ioniccssrange:assertive",
+	"i1_cssrange_assertive": {
+		"prefix": "i1_cssrange_assertive",
 		"body": "\n<div class=\"range range-assertive\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:balanced": {
-		"prefix": "ioniccssrange:balanced",
+	"i1_cssrange_balanced": {
+		"prefix": "i1_cssrange_balanced",
 		"body": "\n<div class=\"range range-balanced\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:calm": {
-		"prefix": "ioniccssrange:calm",
+	"i1_cssrange_calm": {
+		"prefix": "i1_cssrange_calm",
 		"body": "\n<div class=\"range range-calm\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:dark": {
-		"prefix": "ioniccssrange:dark",
+	"i1_cssrange_dark": {
+		"prefix": "i1_cssrange_dark",
 		"body": "\n<div class=\"range range-dark\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:energized": {
-		"prefix": "ioniccssrange:energized",
+	"i1_cssrange_energized": {
+		"prefix": "i1_cssrange_energized",
 		"body": "\n<div class=\"range range-energized\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:light": {
-		"prefix": "ioniccssrange:light",
+	"i1_cssrange_light": {
+		"prefix": "i1_cssrange_light",
 		"body": "\n<div class=\"range range-light\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:positive": {
-		"prefix": "ioniccssrange:positive",
+	"i1_cssrange_positive": {
+		"prefix": "i1_cssrange_positive",
 		"body": "\n<div class=\"range range-positive\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:royal": {
-		"prefix": "ioniccssrange:royal",
+	"i1_cssrange_royal": {
+		"prefix": "i1_cssrange_royal",
 		"body": "\n<div class=\"range range-royal\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange:stable": {
-		"prefix": "ioniccssrange:stable",
+	"i1_cssrange_stable": {
+		"prefix": "i1_cssrange_stable",
 		"body": "\n<div class=\"range range-stable\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssrange": {
-		"prefix": "ioniccssrange",
+	"i1_cssrange": {
+		"prefix": "i1_cssrange",
 		"body": "\n<div class=\"range\">\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\n  <input type=\"range\" name=\"${1:name}\">\n  <i class=\"icon ion-ionic\"></i>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccssselect": {
-		"prefix": "ioniccssselect",
+	"i1_cssselect": {
+		"prefix": "i1_cssselect",
 		"body": "\n<div class=\"list\">\n  <label class=\"item item-input item-select\">\n    <div class=\"input-label\">\n      ${1:Lightsaber}\n    </div>\n    <select>\n      <option>${2:Blue}</option>\n      <option selected>${3:Green}</option>\n      <option>${4:Red}</option>\n    </select>\n  </label>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:assertive": {
-		"prefix": "ioniccsstabs:assertive",
+	"i1_csstabs_assertive": {
+		"prefix": "i1_csstabs_assertive",
 		"body": "\n<div class=\"tabs tabs-assertive\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:balanced": {
-		"prefix": "ioniccsstabs:balanced",
+	"i1_csstabs_balanced": {
+		"prefix": "i1_csstabs_balanced",
 		"body": "\n<div class=\"tabs tabs-balanced\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:calm": {
-		"prefix": "ioniccsstabs:calm",
+	"i1_csstabs_calm": {
+		"prefix": "i1_csstabs_calm",
 		"body": "\n<div class=\"tabs tabs-calm\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:dark": {
-		"prefix": "ioniccsstabs:dark",
+	"i1_csstabs_dark": {
+		"prefix": "i1_csstabs_dark",
 		"body": "\n<div class=\"tabs tabs-dark\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:energized": {
-		"prefix": "ioniccsstabs:energized",
+	"i1_csstabs_energized": {
+		"prefix": "i1_csstabs_energized",
 		"body": "\n<div class=\"tabs tabs-energized\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:light": {
-		"prefix": "ioniccsstabs:light",
+	"i1_csstabs_light": {
+		"prefix": "i1_csstabs_light",
 		"body": "\n<div class=\"tabs tabs-light\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:positive": {
-		"prefix": "ioniccsstabs:positive",
+	"i1_csstabs_positive": {
+		"prefix": "i1_csstabs_positive",
 		"body": "\n<div class=\"tabs tabs-positive\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:royal": {
-		"prefix": "ioniccsstabs:royal",
+	"i1_csstabs_royal": {
+		"prefix": "i1_csstabs_royal",
 		"body": "\n<div class=\"tabs tabs-royal\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs:stable": {
-		"prefix": "ioniccsstabs:stable",
+	"i1_csstabs_stable": {
+		"prefix": "i1_csstabs_stable",
 		"body": "\n<div class=\"tabs tabs-stable\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabs": {
-		"prefix": "ioniccsstabs",
+	"i1_csstabs": {
+		"prefix": "i1_csstabs",
 		"body": "\n<div class=\"tabs\">\n  <a class=\"tab-item\">\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:assertive": {
-		"prefix": "ioniccsstabsicon:assertive",
+	"i1_csstabsicon_assertive": {
+		"prefix": "i1_csstabsicon_assertive",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-assertive\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:balanced": {
-		"prefix": "ioniccsstabsicon:balanced",
+	"i1_csstabsicon_balanced": {
+		"prefix": "i1_csstabsicon_balanced",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-balanced\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:calm": {
-		"prefix": "ioniccsstabsicon:calm",
+	"i1_csstabsicon_calm": {
+		"prefix": "i1_csstabsicon_calm",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-calm\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:dark": {
-		"prefix": "ioniccsstabsicon:dark",
+	"i1_csstabsicon_dark": {
+		"prefix": "i1_csstabsicon_dark",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-dark\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:energized": {
-		"prefix": "ioniccsstabsicontop:energized",
+	"i1_csstabsicontop_energized": {
+		"prefix": "i1_csstabsicontop_energized",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-energized\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:light": {
-		"prefix": "ioniccsstabsicon:light",
+	"i1_csstabsicon_light": {
+		"prefix": "i1_csstabsicon_light",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-light\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:positive": {
-		"prefix": "ioniccsstabsicon:positive",
+	"i1_csstabsicon_positive": {
+		"prefix": "i1_csstabsicon_positive",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-positive\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:royal": {
-		"prefix": "ioniccsstabsicon:royal",
+	"i1_csstabsicon_royal": {
+		"prefix": "i1_csstabsicon_royal",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-royal\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon:stable": {
-		"prefix": "ioniccsstabsicon:stable",
+	"i1_csstabsicon_stable": {
+		"prefix": "i1_csstabsicon_stable",
 		"body": "\n<div class=\"tabs tabs-icon-only tabs-stable\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicon": {
-		"prefix": "ioniccsstabsicon",
+	"i1_csstabsicon": {
+		"prefix": "i1_csstabsicon",
 		"body": "\n<div class=\"tabs tabs-icon-only\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${1:home}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${2:star}\"></i>\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-${3:gear-a}\"></i>\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:assertive": {
-		"prefix": "ioniccsstabsicontop:assertive",
+	"i1_csstabsicontop_assertive": {
+		"prefix": "i1_csstabsicontop_assertive",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-assertive\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:balanced": {
-		"prefix": "ioniccsstabsicontop:balanced",
+	"i1_csstabsicontop_balanced": {
+		"prefix": "i1_csstabsicontop_balanced",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-balanced\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:calm": {
-		"prefix": "ioniccsstabsicontop:calm",
+	"i1_csstabsicontop_calm": {
+		"prefix": "i1_csstabsicontop_calm",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-calm\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:dark": {
-		"prefix": "ioniccsstabsicontop:dark",
+	"i1_csstabsicontop_dark": {
+		"prefix": "i1_csstabsicontop_dark",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-dark\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:energized1": {
-		"prefix": "ioniccsstabsicontop:energized",
+	"i1_csstabsicontop_energized1": {
+		"prefix": "i1_csstabsicontop_energized",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-energized\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:light": {
-		"prefix": "ioniccsstabsicontop:light",
+	"i1_csstabsicontop_light": {
+		"prefix": "i1_csstabsicontop_light",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-light\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:positive": {
-		"prefix": "ioniccsstabsicontop:positive",
+	"i1_csstabsicontop_positive": {
+		"prefix": "i1_csstabsicontop_positive",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-positive\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:royal": {
-		"prefix": "ioniccsstabsicontop:royal",
+	"i1_csstabsicontop_royal": {
+		"prefix": "i1_csstabsicontop_royal",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-royal\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop:stable": {
-		"prefix": "ioniccsstabsicontop:stable",
+	"i1_csstabsicontop_stable": {
+		"prefix": "i1_csstabsicontop_stable",
 		"body": "\n<div class=\"tabs tabs-icon-top tabs-stable\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsicontop": {
-		"prefix": "ioniccsstabsicontop",
+	"i1_csstabsicontop": {
+		"prefix": "i1_csstabsicontop",
 		"body": "\n<div class=\"tabs tabs-icon-top\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:assertive": {
-		"prefix": "ioniccsstabsiconleft:assertive",
+	"i1_csstabsiconleft_assertive": {
+		"prefix": "i1_csstabsiconleft_assertive",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-assertive\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:balanced": {
-		"prefix": "ioniccsstabsiconleft:balanced",
+	"i1_csstabsiconleft_balanced": {
+		"prefix": "i1_csstabsiconleft_balanced",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-balanced\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:calm": {
-		"prefix": "ioniccsstabsiconleft:calm",
+	"i1_csstabsiconleft_calm": {
+		"prefix": "i1_csstabsiconleft_calm",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-calm\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:dark": {
-		"prefix": "ioniccsstabsiconleft:dark",
+	"i1_csstabsiconleft_dark": {
+		"prefix": "i1_csstabsiconleft_dark",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-dark\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:energized": {
-		"prefix": "ioniccsstabsiconleft:energized",
+	"i1_csstabsiconleft_energized": {
+		"prefix": "i1_csstabsiconleft_energized",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-energized\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:light": {
-		"prefix": "ioniccsstabsiconleft:light",
+	"i1_csstabsiconleft_light": {
+		"prefix": "i1_csstabsiconleft_light",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-light\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:positive": {
-		"prefix": "ioniccsstabsiconleft:positive",
+	"i1_csstabsiconleft_positive": {
+		"prefix": "i1_csstabsiconleft_positive",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-positive\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:royal": {
-		"prefix": "ioniccsstabsiconleft:royal",
+	"i1_csstabsiconleft_royal": {
+		"prefix": "i1_csstabsiconleft_royal",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-royal\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft:stable": {
-		"prefix": "ioniccsstabsiconleft:stable",
+	"i1_csstabsiconleft_stable": {
+		"prefix": "i1_csstabsiconleft_stable",
 		"body": "\n<div class=\"tabs tabs-icon-left tabs-stable\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstabsiconleft": {
-		"prefix": "ioniccsstabsiconleft",
+	"i1_csstabsiconleft": {
+		"prefix": "i1_csstabsiconleft",
 		"body": "\n<div class=\"tabs tabs-icon-left\">\n  <a class=\"tab-item\">\n    <i class=\"icon ion-home\"></i>\n    ${1:Home}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-star\"></i>\n    ${2:Favorites}\n  </a>\n  <a class=\"tab-item\">\n    <i class=\"icon ion-gear-a\"></i>\n    ${3:Settings}\n  </a>\n</div>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:assertive": {
-		"prefix": "ioniccsstoggle:assertive",
+	"i1_csstoggle_assertive": {
+		"prefix": "i1_csstoggle_assertive",
 		"body": "\n<label class=\"toggle toggle-assertive\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:balanced": {
-		"prefix": "ioniccsstoggle:balanced",
+	"i1_csstoggle_balanced": {
+		"prefix": "i1_csstoggle_balanced",
 		"body": "\n<label class=\"toggle toggle-balanced\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:calm": {
-		"prefix": "ioniccsstoggle:calm",
+	"i1_csstoggle_calm": {
+		"prefix": "i1_csstoggle_calm",
 		"body": "\n<label class=\"toggle toggle-calm\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:dark": {
-		"prefix": "ioniccsstoggle:dark",
+	"i1_csstoggle_dark": {
+		"prefix": "i1_csstoggle_dark",
 		"body": "\n<label class=\"toggle toggle-dark\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:energized": {
-		"prefix": "ioniccsstoggle:energized",
+	"i1_csstoggle_energized": {
+		"prefix": "i1_csstoggle_energized",
 		"body": "\n<label class=\"toggle toggle-energized\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:light": {
-		"prefix": "ioniccsstoggle:light",
+	"i1_csstoggle_light": {
+		"prefix": "i1_csstoggle_light",
 		"body": "\n<label class=\"toggle toggle-light\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstogglelist": {
-		"prefix": "ioniccsstogglelist",
+	"i1_csstogglelist": {
+		"prefix": "i1_csstogglelist",
 		"body": "\n<ul class=\"list\">\n  <li class=\"item item-toggle\">\n    ${1:Toggle Label}\n    <label class=\"toggle toggle-assertive\">\n     <input type=\"checkbox\">\n     <div class=\"track\">\n      <div class=\"handle\"></div>\n     </div>\n    </label>\n  </li>\n</ul>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:positive": {
-		"prefix": "ioniccsstoggle:positive",
+	"i1_csstoggle_positive": {
+		"prefix": "i1_csstoggle_positive",
 		"body": "\n<label class=\"toggle toggle-positive\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:royal": {
-		"prefix": "ioniccsstoggle:royal",
+	"i1_csstoggle_royal": {
+		"prefix": "i1_csstoggle_royal",
 		"body": "\n<label class=\"toggle toggle-royal\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle:stable": {
-		"prefix": "ioniccsstoggle:stable",
+	"i1_csstoggle_stable": {
+		"prefix": "i1_csstoggle_stable",
 		"body": "\n<label class=\"toggle toggle-stable\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"
 	},
-	"ioniccsstoggle": {
-		"prefix": "ioniccsstoggle",
+	"i1_csstoggle": {
+		"prefix": "i1_csstoggle",
 		"body": "\n<label class=\"toggle\">\n  <input type=\"checkbox\">\n  <div class=\"track\">\n    <div class=\"handle\"></div>\n  </div>\n</label>\n",
 		"description": "",
 		"scope": "text.html"

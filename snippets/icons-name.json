@@ -1,4398 +1,4398 @@
 {
-	"ionicIconalertcircled": {
-		"prefix": "ionicIconalertcircled",
+	"i1_Iconalertcircled": {
+		"prefix": "i1_Iconalertcircled",
 		"body": "\"ion-alert-circled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconalert": {
-		"prefix": "ionicIconalert",
+	"i1_Iconalert": {
+		"prefix": "i1_Iconalert",
 		"body": "\"ion-alert icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidaddcircle": {
-		"prefix": "ionicIconandroidaddcircle",
+	"i1_Iconandroidaddcircle": {
+		"prefix": "i1_Iconandroidaddcircle",
 		"body": "\"ion-android-add-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidadd": {
-		"prefix": "ionicIconandroidadd",
+	"i1_Iconandroidadd": {
+		"prefix": "i1_Iconandroidadd",
 		"body": "\"ion-android-add icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidalarmclock": {
-		"prefix": "ionicIconandroidalarmclock",
+	"i1_Iconandroidalarmclock": {
+		"prefix": "i1_Iconandroidalarmclock",
 		"body": "\"ion-android-alarm-clock icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidalert": {
-		"prefix": "ionicIconandroidalert",
+	"i1_Iconandroidalert": {
+		"prefix": "i1_Iconandroidalert",
 		"body": "\"ion-android-alert icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidapps": {
-		"prefix": "ionicIconandroidapps",
+	"i1_Iconandroidapps": {
+		"prefix": "i1_Iconandroidapps",
 		"body": "\"ion-android-apps icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarchive": {
-		"prefix": "ionicIconandroidarchive",
+	"i1_Iconandroidarchive": {
+		"prefix": "i1_Iconandroidarchive",
 		"body": "\"ion-android-archive icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowback": {
-		"prefix": "ionicIconandroidarrowback",
+	"i1_Iconandroidarrowback": {
+		"prefix": "i1_Iconandroidarrowback",
 		"body": "\"ion-android-arrow-back icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdown": {
-		"prefix": "ionicIconandroidarrowdown",
+	"i1_Iconandroidarrowdown": {
+		"prefix": "i1_Iconandroidarrowdown",
 		"body": "\"ion-android-arrow-down icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdropdowncircle": {
-		"prefix": "ionicIconandroidarrowdropdowncircle",
+	"i1_Iconandroidarrowdropdowncircle": {
+		"prefix": "i1_Iconandroidarrowdropdowncircle",
 		"body": "\"ion-android-arrow-dropdown-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdropdown": {
-		"prefix": "ionicIconandroidarrowdropdown",
+	"i1_Iconandroidarrowdropdown": {
+		"prefix": "i1_Iconandroidarrowdropdown",
 		"body": "\"ion-android-arrow-dropdown icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdropleftcircle": {
-		"prefix": "ionicIconandroidarrowdropleftcircle",
+	"i1_Iconandroidarrowdropleftcircle": {
+		"prefix": "i1_Iconandroidarrowdropleftcircle",
 		"body": "\"ion-android-arrow-dropleft-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdropleft": {
-		"prefix": "ionicIconandroidarrowdropleft",
+	"i1_Iconandroidarrowdropleft": {
+		"prefix": "i1_Iconandroidarrowdropleft",
 		"body": "\"ion-android-arrow-dropleft icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdroprightcircle": {
-		"prefix": "ionicIconandroidarrowdroprightcircle",
+	"i1_Iconandroidarrowdroprightcircle": {
+		"prefix": "i1_Iconandroidarrowdroprightcircle",
 		"body": "\"ion-android-arrow-dropright-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdropright": {
-		"prefix": "ionicIconandroidarrowdropright",
+	"i1_Iconandroidarrowdropright": {
+		"prefix": "i1_Iconandroidarrowdropright",
 		"body": "\"ion-android-arrow-dropright icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdropupcircle": {
-		"prefix": "ionicIconandroidarrowdropupcircle",
+	"i1_Iconandroidarrowdropupcircle": {
+		"prefix": "i1_Iconandroidarrowdropupcircle",
 		"body": "\"ion-android-arrow-dropup-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowdropup": {
-		"prefix": "ionicIconandroidarrowdropup",
+	"i1_Iconandroidarrowdropup": {
+		"prefix": "i1_Iconandroidarrowdropup",
 		"body": "\"ion-android-arrow-dropup icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowforward": {
-		"prefix": "ionicIconandroidarrowforward",
+	"i1_Iconandroidarrowforward": {
+		"prefix": "i1_Iconandroidarrowforward",
 		"body": "\"ion-android-arrow-forward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidarrowup": {
-		"prefix": "ionicIconandroidarrowup",
+	"i1_Iconandroidarrowup": {
+		"prefix": "i1_Iconandroidarrowup",
 		"body": "\"ion-android-arrow-up icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidattach": {
-		"prefix": "ionicIconandroidattach",
+	"i1_Iconandroidattach": {
+		"prefix": "i1_Iconandroidattach",
 		"body": "\"ion-android-attach icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidbar": {
-		"prefix": "ionicIconandroidbar",
+	"i1_Iconandroidbar": {
+		"prefix": "i1_Iconandroidbar",
 		"body": "\"ion-android-bar icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidbicycle": {
-		"prefix": "ionicIconandroidbicycle",
+	"i1_Iconandroidbicycle": {
+		"prefix": "i1_Iconandroidbicycle",
 		"body": "\"ion-android-bicycle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidboat": {
-		"prefix": "ionicIconandroidboat",
+	"i1_Iconandroidboat": {
+		"prefix": "i1_Iconandroidboat",
 		"body": "\"ion-android-boat icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidbookmark": {
-		"prefix": "ionicIconandroidbookmark",
+	"i1_Iconandroidbookmark": {
+		"prefix": "i1_Iconandroidbookmark",
 		"body": "\"ion-android-bookmark icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidbulb": {
-		"prefix": "ionicIconandroidbulb",
+	"i1_Iconandroidbulb": {
+		"prefix": "i1_Iconandroidbulb",
 		"body": "\"ion-android-bulb icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidbus": {
-		"prefix": "ionicIconandroidbus",
+	"i1_Iconandroidbus": {
+		"prefix": "i1_Iconandroidbus",
 		"body": "\"ion-android-bus icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcalendar": {
-		"prefix": "ionicIconandroidcalendar",
+	"i1_Iconandroidcalendar": {
+		"prefix": "i1_Iconandroidcalendar",
 		"body": "\"ion-android-calendar icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcall": {
-		"prefix": "ionicIconandroidcall",
+	"i1_Iconandroidcall": {
+		"prefix": "i1_Iconandroidcall",
 		"body": "\"ion-android-call icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcamera": {
-		"prefix": "ionicIconandroidcamera",
+	"i1_Iconandroidcamera": {
+		"prefix": "i1_Iconandroidcamera",
 		"body": "\"ion-android-camera icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcancel": {
-		"prefix": "ionicIconandroidcancel",
+	"i1_Iconandroidcancel": {
+		"prefix": "i1_Iconandroidcancel",
 		"body": "\"ion-android-cancel icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcar": {
-		"prefix": "ionicIconandroidcar",
+	"i1_Iconandroidcar": {
+		"prefix": "i1_Iconandroidcar",
 		"body": "\"ion-android-car icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcart": {
-		"prefix": "ionicIconandroidcart",
+	"i1_Iconandroidcart": {
+		"prefix": "i1_Iconandroidcart",
 		"body": "\"ion-android-cart icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidchat": {
-		"prefix": "ionicIconandroidchat",
+	"i1_Iconandroidchat": {
+		"prefix": "i1_Iconandroidchat",
 		"body": "\"ion-android-chat icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcheckboxblank": {
-		"prefix": "ionicIconandroidcheckboxblank",
+	"i1_Iconandroidcheckboxblank": {
+		"prefix": "i1_Iconandroidcheckboxblank",
 		"body": "\"ion-android-checkbox-blank icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcheckboxoutlineblank": {
-		"prefix": "ionicIconandroidcheckboxoutlineblank",
+	"i1_Iconandroidcheckboxoutlineblank": {
+		"prefix": "i1_Iconandroidcheckboxoutlineblank",
 		"body": "\"ion-android-checkbox-outline-blank icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcheckboxoutline": {
-		"prefix": "ionicIconandroidcheckboxoutline",
+	"i1_Iconandroidcheckboxoutline": {
+		"prefix": "i1_Iconandroidcheckboxoutline",
 		"body": "\"ion-android-checkbox-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcheckbox": {
-		"prefix": "ionicIconandroidcheckbox",
+	"i1_Iconandroidcheckbox": {
+		"prefix": "i1_Iconandroidcheckbox",
 		"body": "\"ion-android-checkbox icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcheckmarkcircle": {
-		"prefix": "ionicIconandroidcheckmarkcircle",
+	"i1_Iconandroidcheckmarkcircle": {
+		"prefix": "i1_Iconandroidcheckmarkcircle",
 		"body": "\"ion-android-checkmark-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidclipboard": {
-		"prefix": "ionicIconandroidclipboard",
+	"i1_Iconandroidclipboard": {
+		"prefix": "i1_Iconandroidclipboard",
 		"body": "\"ion-android-clipboard icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidclose": {
-		"prefix": "ionicIconandroidclose",
+	"i1_Iconandroidclose": {
+		"prefix": "i1_Iconandroidclose",
 		"body": "\"ion-android-close icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcloudcircle": {
-		"prefix": "ionicIconandroidcloudcircle",
+	"i1_Iconandroidcloudcircle": {
+		"prefix": "i1_Iconandroidcloudcircle",
 		"body": "\"ion-android-cloud-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidclouddone": {
-		"prefix": "ionicIconandroidclouddone",
+	"i1_Iconandroidclouddone": {
+		"prefix": "i1_Iconandroidclouddone",
 		"body": "\"ion-android-cloud-done icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcloudoutline": {
-		"prefix": "ionicIconandroidcloudoutline",
+	"i1_Iconandroidcloudoutline": {
+		"prefix": "i1_Iconandroidcloudoutline",
 		"body": "\"ion-android-cloud-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcloud": {
-		"prefix": "ionicIconandroidcloud",
+	"i1_Iconandroidcloud": {
+		"prefix": "i1_Iconandroidcloud",
 		"body": "\"ion-android-cloud icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcolorpalette": {
-		"prefix": "ionicIconandroidcolorpalette",
+	"i1_Iconandroidcolorpalette": {
+		"prefix": "i1_Iconandroidcolorpalette",
 		"body": "\"ion-android-color-palette icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcompass": {
-		"prefix": "ionicIconandroidcompass",
+	"i1_Iconandroidcompass": {
+		"prefix": "i1_Iconandroidcompass",
 		"body": "\"ion-android-compass icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcontact": {
-		"prefix": "ionicIconandroidcontact",
+	"i1_Iconandroidcontact": {
+		"prefix": "i1_Iconandroidcontact",
 		"body": "\"ion-android-contact icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcontacts": {
-		"prefix": "ionicIconandroidcontacts",
+	"i1_Iconandroidcontacts": {
+		"prefix": "i1_Iconandroidcontacts",
 		"body": "\"ion-android-contacts icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcontract": {
-		"prefix": "ionicIconandroidcontract",
+	"i1_Iconandroidcontract": {
+		"prefix": "i1_Iconandroidcontract",
 		"body": "\"ion-android-contract icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidcreate": {
-		"prefix": "ionicIconandroidcreate",
+	"i1_Iconandroidcreate": {
+		"prefix": "i1_Iconandroidcreate",
 		"body": "\"ion-android-create icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroiddelete": {
-		"prefix": "ionicIconandroiddelete",
+	"i1_Iconandroiddelete": {
+		"prefix": "i1_Iconandroiddelete",
 		"body": "\"ion-android-delete icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroiddesktop": {
-		"prefix": "ionicIconandroiddesktop",
+	"i1_Iconandroiddesktop": {
+		"prefix": "i1_Iconandroiddesktop",
 		"body": "\"ion-android-desktop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroiddocument": {
-		"prefix": "ionicIconandroiddocument",
+	"i1_Iconandroiddocument": {
+		"prefix": "i1_Iconandroiddocument",
 		"body": "\"ion-android-document icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroiddoneall": {
-		"prefix": "ionicIconandroiddoneall",
+	"i1_Iconandroiddoneall": {
+		"prefix": "i1_Iconandroiddoneall",
 		"body": "\"ion-android-done-all icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroiddone": {
-		"prefix": "ionicIconandroiddone",
+	"i1_Iconandroiddone": {
+		"prefix": "i1_Iconandroiddone",
 		"body": "\"ion-android-done icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroiddownload": {
-		"prefix": "ionicIconandroiddownload",
+	"i1_Iconandroiddownload": {
+		"prefix": "i1_Iconandroiddownload",
 		"body": "\"ion-android-download icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroiddrafts": {
-		"prefix": "ionicIconandroiddrafts",
+	"i1_Iconandroiddrafts": {
+		"prefix": "i1_Iconandroiddrafts",
 		"body": "\"ion-android-drafts icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidexit": {
-		"prefix": "ionicIconandroidexit",
+	"i1_Iconandroidexit": {
+		"prefix": "i1_Iconandroidexit",
 		"body": "\"ion-android-exit icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidexpand": {
-		"prefix": "ionicIconandroidexpand",
+	"i1_Iconandroidexpand": {
+		"prefix": "i1_Iconandroidexpand",
 		"body": "\"ion-android-expand icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidfavoriteoutline": {
-		"prefix": "ionicIconandroidfavoriteoutline",
+	"i1_Iconandroidfavoriteoutline": {
+		"prefix": "i1_Iconandroidfavoriteoutline",
 		"body": "\"ion-android-favorite-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidfavorite": {
-		"prefix": "ionicIconandroidfavorite",
+	"i1_Iconandroidfavorite": {
+		"prefix": "i1_Iconandroidfavorite",
 		"body": "\"ion-android-favorite icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidfilm": {
-		"prefix": "ionicIconandroidfilm",
+	"i1_Iconandroidfilm": {
+		"prefix": "i1_Iconandroidfilm",
 		"body": "\"ion-android-film icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidfolderopen": {
-		"prefix": "ionicIconandroidfolderopen",
+	"i1_Iconandroidfolderopen": {
+		"prefix": "i1_Iconandroidfolderopen",
 		"body": "\"ion-android-folder-open icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidfolder": {
-		"prefix": "ionicIconandroidfolder",
+	"i1_Iconandroidfolder": {
+		"prefix": "i1_Iconandroidfolder",
 		"body": "\"ion-android-folder icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidfunnel": {
-		"prefix": "ionicIconandroidfunnel",
+	"i1_Iconandroidfunnel": {
+		"prefix": "i1_Iconandroidfunnel",
 		"body": "\"ion-android-funnel icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidglobe": {
-		"prefix": "ionicIconandroidglobe",
+	"i1_Iconandroidglobe": {
+		"prefix": "i1_Iconandroidglobe",
 		"body": "\"ion-android-globe icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidhand": {
-		"prefix": "ionicIconandroidhand",
+	"i1_Iconandroidhand": {
+		"prefix": "i1_Iconandroidhand",
 		"body": "\"ion-android-hand icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidhangout": {
-		"prefix": "ionicIconandroidhangout",
+	"i1_Iconandroidhangout": {
+		"prefix": "i1_Iconandroidhangout",
 		"body": "\"ion-android-hangout icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidhappy": {
-		"prefix": "ionicIconandroidhappy",
+	"i1_Iconandroidhappy": {
+		"prefix": "i1_Iconandroidhappy",
 		"body": "\"ion-android-happy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidhome": {
-		"prefix": "ionicIconandroidhome",
+	"i1_Iconandroidhome": {
+		"prefix": "i1_Iconandroidhome",
 		"body": "\"ion-android-home icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidimage": {
-		"prefix": "ionicIconandroidimage",
+	"i1_Iconandroidimage": {
+		"prefix": "i1_Iconandroidimage",
 		"body": "\"ion-android-image icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidlaptop": {
-		"prefix": "ionicIconandroidlaptop",
+	"i1_Iconandroidlaptop": {
+		"prefix": "i1_Iconandroidlaptop",
 		"body": "\"ion-android-laptop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidlist": {
-		"prefix": "ionicIconandroidlist",
+	"i1_Iconandroidlist": {
+		"prefix": "i1_Iconandroidlist",
 		"body": "\"ion-android-list icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidlocate": {
-		"prefix": "ionicIconandroidlocate",
+	"i1_Iconandroidlocate": {
+		"prefix": "i1_Iconandroidlocate",
 		"body": "\"ion-android-locate icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidlock": {
-		"prefix": "ionicIconandroidlock",
+	"i1_Iconandroidlock": {
+		"prefix": "i1_Iconandroidlock",
 		"body": "\"ion-android-lock icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidmail": {
-		"prefix": "ionicIconandroidmail",
+	"i1_Iconandroidmail": {
+		"prefix": "i1_Iconandroidmail",
 		"body": "\"ion-android-mail icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidmap": {
-		"prefix": "ionicIconandroidmap",
+	"i1_Iconandroidmap": {
+		"prefix": "i1_Iconandroidmap",
 		"body": "\"ion-android-map icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidmenu": {
-		"prefix": "ionicIconandroidmenu",
+	"i1_Iconandroidmenu": {
+		"prefix": "i1_Iconandroidmenu",
 		"body": "\"ion-android-menu icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidmicrophoneoff": {
-		"prefix": "ionicIconandroidmicrophoneoff",
+	"i1_Iconandroidmicrophoneoff": {
+		"prefix": "i1_Iconandroidmicrophoneoff",
 		"body": "\"ion-android-microphone-off icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidmicrophone": {
-		"prefix": "ionicIconandroidmicrophone",
+	"i1_Iconandroidmicrophone": {
+		"prefix": "i1_Iconandroidmicrophone",
 		"body": "\"ion-android-microphone icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidmorehorizontal": {
-		"prefix": "ionicIconandroidmorehorizontal",
+	"i1_Iconandroidmorehorizontal": {
+		"prefix": "i1_Iconandroidmorehorizontal",
 		"body": "\"ion-android-more-horizontal icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidmorevertical": {
-		"prefix": "ionicIconandroidmorevertical",
+	"i1_Iconandroidmorevertical": {
+		"prefix": "i1_Iconandroidmorevertical",
 		"body": "\"ion-android-more-vertical icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidnavigate": {
-		"prefix": "ionicIconandroidnavigate",
+	"i1_Iconandroidnavigate": {
+		"prefix": "i1_Iconandroidnavigate",
 		"body": "\"ion-android-navigate icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidnotificationsnone": {
-		"prefix": "ionicIconandroidnotificationsnone",
+	"i1_Iconandroidnotificationsnone": {
+		"prefix": "i1_Iconandroidnotificationsnone",
 		"body": "\"ion-android-notifications-none icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidnotificationsoff": {
-		"prefix": "ionicIconandroidnotificationsoff",
+	"i1_Iconandroidnotificationsoff": {
+		"prefix": "i1_Iconandroidnotificationsoff",
 		"body": "\"ion-android-notifications-off icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidnotifications": {
-		"prefix": "ionicIconandroidnotifications",
+	"i1_Iconandroidnotifications": {
+		"prefix": "i1_Iconandroidnotifications",
 		"body": "\"ion-android-notifications icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidopen": {
-		"prefix": "ionicIconandroidopen",
+	"i1_Iconandroidopen": {
+		"prefix": "i1_Iconandroidopen",
 		"body": "\"ion-android-open icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidoptions": {
-		"prefix": "ionicIconandroidoptions",
+	"i1_Iconandroidoptions": {
+		"prefix": "i1_Iconandroidoptions",
 		"body": "\"ion-android-options icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidpeople": {
-		"prefix": "ionicIconandroidpeople",
+	"i1_Iconandroidpeople": {
+		"prefix": "i1_Iconandroidpeople",
 		"body": "\"ion-android-people icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidpersonadd": {
-		"prefix": "ionicIconandroidpersonadd",
+	"i1_Iconandroidpersonadd": {
+		"prefix": "i1_Iconandroidpersonadd",
 		"body": "\"ion-android-person-add icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidperson": {
-		"prefix": "ionicIconandroidperson",
+	"i1_Iconandroidperson": {
+		"prefix": "i1_Iconandroidperson",
 		"body": "\"ion-android-person icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidphonelandscape": {
-		"prefix": "ionicIconandroidphonelandscape",
+	"i1_Iconandroidphonelandscape": {
+		"prefix": "i1_Iconandroidphonelandscape",
 		"body": "\"ion-android-phone-landscape icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidphoneportrait": {
-		"prefix": "ionicIconandroidphoneportrait",
+	"i1_Iconandroidphoneportrait": {
+		"prefix": "i1_Iconandroidphoneportrait",
 		"body": "\"ion-android-phone-portrait icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidpin": {
-		"prefix": "ionicIconandroidpin",
+	"i1_Iconandroidpin": {
+		"prefix": "i1_Iconandroidpin",
 		"body": "\"ion-android-pin icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidplane": {
-		"prefix": "ionicIconandroidplane",
+	"i1_Iconandroidplane": {
+		"prefix": "i1_Iconandroidplane",
 		"body": "\"ion-android-plane icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidplaystore": {
-		"prefix": "ionicIconandroidplaystore",
+	"i1_Iconandroidplaystore": {
+		"prefix": "i1_Iconandroidplaystore",
 		"body": "\"ion-android-playstore icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidprint": {
-		"prefix": "ionicIconandroidprint",
+	"i1_Iconandroidprint": {
+		"prefix": "i1_Iconandroidprint",
 		"body": "\"ion-android-print icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidradiobuttonoff": {
-		"prefix": "ionicIconandroidradiobuttonoff",
+	"i1_Iconandroidradiobuttonoff": {
+		"prefix": "i1_Iconandroidradiobuttonoff",
 		"body": "\"ion-android-radio-button-off icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidradiobuttonon": {
-		"prefix": "ionicIconandroidradiobuttonon",
+	"i1_Iconandroidradiobuttonon": {
+		"prefix": "i1_Iconandroidradiobuttonon",
 		"body": "\"ion-android-radio-button-on icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidrefresh": {
-		"prefix": "ionicIconandroidrefresh",
+	"i1_Iconandroidrefresh": {
+		"prefix": "i1_Iconandroidrefresh",
 		"body": "\"ion-android-refresh icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidremovecircle": {
-		"prefix": "ionicIconandroidremovecircle",
+	"i1_Iconandroidremovecircle": {
+		"prefix": "i1_Iconandroidremovecircle",
 		"body": "\"ion-android-remove-circle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidremove": {
-		"prefix": "ionicIconandroidremove",
+	"i1_Iconandroidremove": {
+		"prefix": "i1_Iconandroidremove",
 		"body": "\"ion-android-remove icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidrestaurant": {
-		"prefix": "ionicIconandroidrestaurant",
+	"i1_Iconandroidrestaurant": {
+		"prefix": "i1_Iconandroidrestaurant",
 		"body": "\"ion-android-restaurant icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsad": {
-		"prefix": "ionicIconandroidsad",
+	"i1_Iconandroidsad": {
+		"prefix": "i1_Iconandroidsad",
 		"body": "\"ion-android-sad icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsearch": {
-		"prefix": "ionicIconandroidsearch",
+	"i1_Iconandroidsearch": {
+		"prefix": "i1_Iconandroidsearch",
 		"body": "\"ion-android-search icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsend": {
-		"prefix": "ionicIconandroidsend",
+	"i1_Iconandroidsend": {
+		"prefix": "i1_Iconandroidsend",
 		"body": "\"ion-android-send icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsettings": {
-		"prefix": "ionicIconandroidsettings",
+	"i1_Iconandroidsettings": {
+		"prefix": "i1_Iconandroidsettings",
 		"body": "\"ion-android-settings icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsharealt": {
-		"prefix": "ionicIconandroidsharealt",
+	"i1_Iconandroidsharealt": {
+		"prefix": "i1_Iconandroidsharealt",
 		"body": "\"ion-android-share-alt icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidshare": {
-		"prefix": "ionicIconandroidshare",
+	"i1_Iconandroidshare": {
+		"prefix": "i1_Iconandroidshare",
 		"body": "\"ion-android-share icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidstarhalf": {
-		"prefix": "ionicIconandroidstarhalf",
+	"i1_Iconandroidstarhalf": {
+		"prefix": "i1_Iconandroidstarhalf",
 		"body": "\"ion-android-star-half icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidstaroutline": {
-		"prefix": "ionicIconandroidstaroutline",
+	"i1_Iconandroidstaroutline": {
+		"prefix": "i1_Iconandroidstaroutline",
 		"body": "\"ion-android-star-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidstar": {
-		"prefix": "ionicIconandroidstar",
+	"i1_Iconandroidstar": {
+		"prefix": "i1_Iconandroidstar",
 		"body": "\"ion-android-star icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidstopwatch": {
-		"prefix": "ionicIconandroidstopwatch",
+	"i1_Iconandroidstopwatch": {
+		"prefix": "i1_Iconandroidstopwatch",
 		"body": "\"ion-android-stopwatch icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsubway": {
-		"prefix": "ionicIconandroidsubway",
+	"i1_Iconandroidsubway": {
+		"prefix": "i1_Iconandroidsubway",
 		"body": "\"ion-android-subway icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsunny": {
-		"prefix": "ionicIconandroidsunny",
+	"i1_Iconandroidsunny": {
+		"prefix": "i1_Iconandroidsunny",
 		"body": "\"ion-android-sunny icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidsync": {
-		"prefix": "ionicIconandroidsync",
+	"i1_Iconandroidsync": {
+		"prefix": "i1_Iconandroidsync",
 		"body": "\"ion-android-sync icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidtextsms": {
-		"prefix": "ionicIconandroidtextsms",
+	"i1_Iconandroidtextsms": {
+		"prefix": "i1_Iconandroidtextsms",
 		"body": "\"ion-android-textsms icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidtime": {
-		"prefix": "ionicIconandroidtime",
+	"i1_Iconandroidtime": {
+		"prefix": "i1_Iconandroidtime",
 		"body": "\"ion-android-time icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidtrain": {
-		"prefix": "ionicIconandroidtrain",
+	"i1_Iconandroidtrain": {
+		"prefix": "i1_Iconandroidtrain",
 		"body": "\"ion-android-train icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidunlock": {
-		"prefix": "ionicIconandroidunlock",
+	"i1_Iconandroidunlock": {
+		"prefix": "i1_Iconandroidunlock",
 		"body": "\"ion-android-unlock icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidupload": {
-		"prefix": "ionicIconandroidupload",
+	"i1_Iconandroidupload": {
+		"prefix": "i1_Iconandroidupload",
 		"body": "\"ion-android-upload icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidvolumedown": {
-		"prefix": "ionicIconandroidvolumedown",
+	"i1_Iconandroidvolumedown": {
+		"prefix": "i1_Iconandroidvolumedown",
 		"body": "\"ion-android-volume-down icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidvolumemute": {
-		"prefix": "ionicIconandroidvolumemute",
+	"i1_Iconandroidvolumemute": {
+		"prefix": "i1_Iconandroidvolumemute",
 		"body": "\"ion-android-volume-mute icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidvolumeoff": {
-		"prefix": "ionicIconandroidvolumeoff",
+	"i1_Iconandroidvolumeoff": {
+		"prefix": "i1_Iconandroidvolumeoff",
 		"body": "\"ion-android-volume-off icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidvolumeup": {
-		"prefix": "ionicIconandroidvolumeup",
+	"i1_Iconandroidvolumeup": {
+		"prefix": "i1_Iconandroidvolumeup",
 		"body": "\"ion-android-volume-up icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidwalk": {
-		"prefix": "ionicIconandroidwalk",
+	"i1_Iconandroidwalk": {
+		"prefix": "i1_Iconandroidwalk",
 		"body": "\"ion-android-walk icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidwarning": {
-		"prefix": "ionicIconandroidwarning",
+	"i1_Iconandroidwarning": {
+		"prefix": "i1_Iconandroidwarning",
 		"body": "\"ion-android-warning icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidwatch": {
-		"prefix": "ionicIconandroidwatch",
+	"i1_Iconandroidwatch": {
+		"prefix": "i1_Iconandroidwatch",
 		"body": "\"ion-android-watch icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconandroidwifi": {
-		"prefix": "ionicIconandroidwifi",
+	"i1_Iconandroidwifi": {
+		"prefix": "i1_Iconandroidwifi",
 		"body": "\"ion-android-wifi icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconaperture": {
-		"prefix": "ionicIconaperture",
+	"i1_Iconaperture": {
+		"prefix": "i1_Iconaperture",
 		"body": "\"ion-aperture icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarchive": {
-		"prefix": "ionicIconarchive",
+	"i1_Iconarchive": {
+		"prefix": "i1_Iconarchive",
 		"body": "\"ion-archive icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowdowna": {
-		"prefix": "ionicIconarrowdowna",
+	"i1_Iconarrowdowna": {
+		"prefix": "i1_Iconarrowdowna",
 		"body": "\"ion-arrow-down-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowdownb": {
-		"prefix": "ionicIconarrowdownb",
+	"i1_Iconarrowdownb": {
+		"prefix": "i1_Iconarrowdownb",
 		"body": "\"ion-arrow-down-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowdownc": {
-		"prefix": "ionicIconarrowdownc",
+	"i1_Iconarrowdownc": {
+		"prefix": "i1_Iconarrowdownc",
 		"body": "\"ion-arrow-down-c icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowexpand": {
-		"prefix": "ionicIconarrowexpand",
+	"i1_Iconarrowexpand": {
+		"prefix": "i1_Iconarrowexpand",
 		"body": "\"ion-arrow-expand icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowgraphdownleft": {
-		"prefix": "ionicIconarrowgraphdownleft",
+	"i1_Iconarrowgraphdownleft": {
+		"prefix": "i1_Iconarrowgraphdownleft",
 		"body": "\"ion-arrow-graph-down-left icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowgraphdownright": {
-		"prefix": "ionicIconarrowgraphdownright",
+	"i1_Iconarrowgraphdownright": {
+		"prefix": "i1_Iconarrowgraphdownright",
 		"body": "\"ion-arrow-graph-down-right icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowgraphupleft": {
-		"prefix": "ionicIconarrowgraphupleft",
+	"i1_Iconarrowgraphupleft": {
+		"prefix": "i1_Iconarrowgraphupleft",
 		"body": "\"ion-arrow-graph-up-left icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowgraphupright": {
-		"prefix": "ionicIconarrowgraphupright",
+	"i1_Iconarrowgraphupright": {
+		"prefix": "i1_Iconarrowgraphupright",
 		"body": "\"ion-arrow-graph-up-right icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowlefta": {
-		"prefix": "ionicIconarrowlefta",
+	"i1_Iconarrowlefta": {
+		"prefix": "i1_Iconarrowlefta",
 		"body": "\"ion-arrow-left-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowleftb": {
-		"prefix": "ionicIconarrowleftb",
+	"i1_Iconarrowleftb": {
+		"prefix": "i1_Iconarrowleftb",
 		"body": "\"ion-arrow-left-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowleftc": {
-		"prefix": "ionicIconarrowleftc",
+	"i1_Iconarrowleftc": {
+		"prefix": "i1_Iconarrowleftc",
 		"body": "\"ion-arrow-left-c icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowmove": {
-		"prefix": "ionicIconarrowmove",
+	"i1_Iconarrowmove": {
+		"prefix": "i1_Iconarrowmove",
 		"body": "\"ion-arrow-move icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowresize": {
-		"prefix": "ionicIconarrowresize",
+	"i1_Iconarrowresize": {
+		"prefix": "i1_Iconarrowresize",
 		"body": "\"ion-arrow-resize icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowreturnleft": {
-		"prefix": "ionicIconarrowreturnleft",
+	"i1_Iconarrowreturnleft": {
+		"prefix": "i1_Iconarrowreturnleft",
 		"body": "\"ion-arrow-return-left icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowreturnright": {
-		"prefix": "ionicIconarrowreturnright",
+	"i1_Iconarrowreturnright": {
+		"prefix": "i1_Iconarrowreturnright",
 		"body": "\"ion-arrow-return-right icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowrighta": {
-		"prefix": "ionicIconarrowrighta",
+	"i1_Iconarrowrighta": {
+		"prefix": "i1_Iconarrowrighta",
 		"body": "\"ion-arrow-right-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowrightb": {
-		"prefix": "ionicIconarrowrightb",
+	"i1_Iconarrowrightb": {
+		"prefix": "i1_Iconarrowrightb",
 		"body": "\"ion-arrow-right-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowrightc": {
-		"prefix": "ionicIconarrowrightc",
+	"i1_Iconarrowrightc": {
+		"prefix": "i1_Iconarrowrightc",
 		"body": "\"ion-arrow-right-c icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowshrink": {
-		"prefix": "ionicIconarrowshrink",
+	"i1_Iconarrowshrink": {
+		"prefix": "i1_Iconarrowshrink",
 		"body": "\"ion-arrow-shrink icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowswap": {
-		"prefix": "ionicIconarrowswap",
+	"i1_Iconarrowswap": {
+		"prefix": "i1_Iconarrowswap",
 		"body": "\"ion-arrow-swap icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowupa": {
-		"prefix": "ionicIconarrowupa",
+	"i1_Iconarrowupa": {
+		"prefix": "i1_Iconarrowupa",
 		"body": "\"ion-arrow-up-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowupb": {
-		"prefix": "ionicIconarrowupb",
+	"i1_Iconarrowupb": {
+		"prefix": "i1_Iconarrowupb",
 		"body": "\"ion-arrow-up-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconarrowupc": {
-		"prefix": "ionicIconarrowupc",
+	"i1_Iconarrowupc": {
+		"prefix": "i1_Iconarrowupc",
 		"body": "\"ion-arrow-up-c icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconasterisk": {
-		"prefix": "ionicIconasterisk",
+	"i1_Iconasterisk": {
+		"prefix": "i1_Iconasterisk",
 		"body": "\"ion-asterisk icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconat": {
-		"prefix": "ionicIconat",
+	"i1_Iconat": {
+		"prefix": "i1_Iconat",
 		"body": "\"ion-at icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbackspaceoutline": {
-		"prefix": "ionicIconbackspaceoutline",
+	"i1_Iconbackspaceoutline": {
+		"prefix": "i1_Iconbackspaceoutline",
 		"body": "\"ion-backspace-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbackspace": {
-		"prefix": "ionicIconbackspace",
+	"i1_Iconbackspace": {
+		"prefix": "i1_Iconbackspace",
 		"body": "\"ion-backspace icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbag": {
-		"prefix": "ionicIconbag",
+	"i1_Iconbag": {
+		"prefix": "i1_Iconbag",
 		"body": "\"ion-bag icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbatterycharging": {
-		"prefix": "ionicIconbatterycharging",
+	"i1_Iconbatterycharging": {
+		"prefix": "i1_Iconbatterycharging",
 		"body": "\"ion-battery-charging icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbatteryempty": {
-		"prefix": "ionicIconbatteryempty",
+	"i1_Iconbatteryempty": {
+		"prefix": "i1_Iconbatteryempty",
 		"body": "\"ion-battery-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbatteryfull": {
-		"prefix": "ionicIconbatteryfull",
+	"i1_Iconbatteryfull": {
+		"prefix": "i1_Iconbatteryfull",
 		"body": "\"ion-battery-full icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbatteryhalf": {
-		"prefix": "ionicIconbatteryhalf",
+	"i1_Iconbatteryhalf": {
+		"prefix": "i1_Iconbatteryhalf",
 		"body": "\"ion-battery-half icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbatterylow": {
-		"prefix": "ionicIconbatterylow",
+	"i1_Iconbatterylow": {
+		"prefix": "i1_Iconbatterylow",
 		"body": "\"ion-battery-low icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbeaker": {
-		"prefix": "ionicIconbeaker",
+	"i1_Iconbeaker": {
+		"prefix": "i1_Iconbeaker",
 		"body": "\"ion-beaker icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbeer": {
-		"prefix": "ionicIconbeer",
+	"i1_Iconbeer": {
+		"prefix": "i1_Iconbeer",
 		"body": "\"ion-beer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbluetooth": {
-		"prefix": "ionicIconbluetooth",
+	"i1_Iconbluetooth": {
+		"prefix": "i1_Iconbluetooth",
 		"body": "\"ion-bluetooth icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbonfire": {
-		"prefix": "ionicIconbonfire",
+	"i1_Iconbonfire": {
+		"prefix": "i1_Iconbonfire",
 		"body": "\"ion-bonfire icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbookmark": {
-		"prefix": "ionicIconbookmark",
+	"i1_Iconbookmark": {
+		"prefix": "i1_Iconbookmark",
 		"body": "\"ion-bookmark icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbowtie": {
-		"prefix": "ionicIconbowtie",
+	"i1_Iconbowtie": {
+		"prefix": "i1_Iconbowtie",
 		"body": "\"ion-bowtie icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbriefcase": {
-		"prefix": "ionicIconbriefcase",
+	"i1_Iconbriefcase": {
+		"prefix": "i1_Iconbriefcase",
 		"body": "\"ion-briefcase icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconbug": {
-		"prefix": "ionicIconbug",
+	"i1_Iconbug": {
+		"prefix": "i1_Iconbug",
 		"body": "\"ion-bug icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcalculator": {
-		"prefix": "ionicIconcalculator",
+	"i1_Iconcalculator": {
+		"prefix": "i1_Iconcalculator",
 		"body": "\"ion-calculator icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcalendar": {
-		"prefix": "ionicIconcalendar",
+	"i1_Iconcalendar": {
+		"prefix": "i1_Iconcalendar",
 		"body": "\"ion-calendar icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcamera": {
-		"prefix": "ionicIconcamera",
+	"i1_Iconcamera": {
+		"prefix": "i1_Iconcamera",
 		"body": "\"ion-camera icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcard": {
-		"prefix": "ionicIconcard",
+	"i1_Iconcard": {
+		"prefix": "i1_Iconcard",
 		"body": "\"ion-card icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcash": {
-		"prefix": "ionicIconcash",
+	"i1_Iconcash": {
+		"prefix": "i1_Iconcash",
 		"body": "\"ion-cash icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchatboxworking": {
-		"prefix": "ionicIconchatboxworking",
+	"i1_Iconchatboxworking": {
+		"prefix": "i1_Iconchatboxworking",
 		"body": "\"ion-chatbox-working icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchatbox": {
-		"prefix": "ionicIconchatbox",
+	"i1_Iconchatbox": {
+		"prefix": "i1_Iconchatbox",
 		"body": "\"ion-chatbox icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchatboxes": {
-		"prefix": "ionicIconchatboxes",
+	"i1_Iconchatboxes": {
+		"prefix": "i1_Iconchatboxes",
 		"body": "\"ion-chatboxes icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchatbubbleworking": {
-		"prefix": "ionicIconchatbubbleworking",
+	"i1_Iconchatbubbleworking": {
+		"prefix": "i1_Iconchatbubbleworking",
 		"body": "\"ion-chatbubble-working icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchatbubble": {
-		"prefix": "ionicIconchatbubble",
+	"i1_Iconchatbubble": {
+		"prefix": "i1_Iconchatbubble",
 		"body": "\"ion-chatbubble icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchatbubbles": {
-		"prefix": "ionicIconchatbubbles",
+	"i1_Iconchatbubbles": {
+		"prefix": "i1_Iconchatbubbles",
 		"body": "\"ion-chatbubbles icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcheckmarkcircled": {
-		"prefix": "ionicIconcheckmarkcircled",
+	"i1_Iconcheckmarkcircled": {
+		"prefix": "i1_Iconcheckmarkcircled",
 		"body": "\"ion-checkmark-circled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcheckmarkround": {
-		"prefix": "ionicIconcheckmarkround",
+	"i1_Iconcheckmarkround": {
+		"prefix": "i1_Iconcheckmarkround",
 		"body": "\"ion-checkmark-round icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcheckmark": {
-		"prefix": "ionicIconcheckmark",
+	"i1_Iconcheckmark": {
+		"prefix": "i1_Iconcheckmark",
 		"body": "\"ion-checkmark icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchevrondown": {
-		"prefix": "ionicIconchevrondown",
+	"i1_Iconchevrondown": {
+		"prefix": "i1_Iconchevrondown",
 		"body": "\"ion-chevron-down icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchevronleft": {
-		"prefix": "ionicIconchevronleft",
+	"i1_Iconchevronleft": {
+		"prefix": "i1_Iconchevronleft",
 		"body": "\"ion-chevron-left icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchevronright": {
-		"prefix": "ionicIconchevronright",
+	"i1_Iconchevronright": {
+		"prefix": "i1_Iconchevronright",
 		"body": "\"ion-chevron-right icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconchevronup": {
-		"prefix": "ionicIconchevronup",
+	"i1_Iconchevronup": {
+		"prefix": "i1_Iconchevronup",
 		"body": "\"ion-chevron-up icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconclipboard": {
-		"prefix": "ionicIconclipboard",
+	"i1_Iconclipboard": {
+		"prefix": "i1_Iconclipboard",
 		"body": "\"ion-clipboard icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconclock": {
-		"prefix": "ionicIconclock",
+	"i1_Iconclock": {
+		"prefix": "i1_Iconclock",
 		"body": "\"ion-clock icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconclosecircled": {
-		"prefix": "ionicIconclosecircled",
+	"i1_Iconclosecircled": {
+		"prefix": "i1_Iconclosecircled",
 		"body": "\"ion-close-circled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcloseround": {
-		"prefix": "ionicIconcloseround",
+	"i1_Iconcloseround": {
+		"prefix": "i1_Iconcloseround",
 		"body": "\"ion-close-round icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconclose": {
-		"prefix": "ionicIconclose",
+	"i1_Iconclose": {
+		"prefix": "i1_Iconclose",
 		"body": "\"ion-close icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconclosedcaptioning": {
-		"prefix": "ionicIconclosedcaptioning",
+	"i1_Iconclosedcaptioning": {
+		"prefix": "i1_Iconclosedcaptioning",
 		"body": "\"ion-closed-captioning icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcloud": {
-		"prefix": "ionicIconcloud",
+	"i1_Iconcloud": {
+		"prefix": "i1_Iconcloud",
 		"body": "\"ion-cloud icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcodedownload": {
-		"prefix": "ionicIconcodedownload",
+	"i1_Iconcodedownload": {
+		"prefix": "i1_Iconcodedownload",
 		"body": "\"ion-code-download icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcodeworking": {
-		"prefix": "ionicIconcodeworking",
+	"i1_Iconcodeworking": {
+		"prefix": "i1_Iconcodeworking",
 		"body": "\"ion-code-working icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcode": {
-		"prefix": "ionicIconcode",
+	"i1_Iconcode": {
+		"prefix": "i1_Iconcode",
 		"body": "\"ion-code icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcoffee": {
-		"prefix": "ionicIconcoffee",
+	"i1_Iconcoffee": {
+		"prefix": "i1_Iconcoffee",
 		"body": "\"ion-coffee icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcompass": {
-		"prefix": "ionicIconcompass",
+	"i1_Iconcompass": {
+		"prefix": "i1_Iconcompass",
 		"body": "\"ion-compass icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcompose": {
-		"prefix": "ionicIconcompose",
+	"i1_Iconcompose": {
+		"prefix": "i1_Iconcompose",
 		"body": "\"ion-compose icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconconnectionbars": {
-		"prefix": "ionicIconconnectionbars",
+	"i1_Iconconnectionbars": {
+		"prefix": "i1_Iconconnectionbars",
 		"body": "\"ion-connection-bars icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcontrast": {
-		"prefix": "ionicIconcontrast",
+	"i1_Iconcontrast": {
+		"prefix": "i1_Iconcontrast",
 		"body": "\"ion-contrast icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcrop": {
-		"prefix": "ionicIconcrop",
+	"i1_Iconcrop": {
+		"prefix": "i1_Iconcrop",
 		"body": "\"ion-crop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconcube": {
-		"prefix": "ionicIconcube",
+	"i1_Iconcube": {
+		"prefix": "i1_Iconcube",
 		"body": "\"ion-cube icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcondisc": {
-		"prefix": "ionicIcondisc",
+	"i1_Icondisc": {
+		"prefix": "i1_Icondisc",
 		"body": "\"ion-disc icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcondocumenttext": {
-		"prefix": "ionicIcondocumenttext",
+	"i1_Icondocumenttext": {
+		"prefix": "i1_Icondocumenttext",
 		"body": "\"ion-document-text icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcondocument": {
-		"prefix": "ionicIcondocument",
+	"i1_Icondocument": {
+		"prefix": "i1_Icondocument",
 		"body": "\"ion-document icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcondrag": {
-		"prefix": "ionicIcondrag",
+	"i1_Icondrag": {
+		"prefix": "i1_Icondrag",
 		"body": "\"ion-drag icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconearth": {
-		"prefix": "ionicIconearth",
+	"i1_Iconearth": {
+		"prefix": "i1_Iconearth",
 		"body": "\"ion-earth icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconeasel": {
-		"prefix": "ionicIconeasel",
+	"i1_Iconeasel": {
+		"prefix": "i1_Iconeasel",
 		"body": "\"ion-easel icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconedit": {
-		"prefix": "ionicIconedit",
+	"i1_Iconedit": {
+		"prefix": "i1_Iconedit",
 		"body": "\"ion-edit icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconegg": {
-		"prefix": "ionicIconegg",
+	"i1_Iconegg": {
+		"prefix": "i1_Iconegg",
 		"body": "\"ion-egg icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconeject": {
-		"prefix": "ionicIconeject",
+	"i1_Iconeject": {
+		"prefix": "i1_Iconeject",
 		"body": "\"ion-eject icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconemailunread": {
-		"prefix": "ionicIconemailunread",
+	"i1_Iconemailunread": {
+		"prefix": "i1_Iconemailunread",
 		"body": "\"ion-email-unread icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconemail": {
-		"prefix": "ionicIconemail",
+	"i1_Iconemail": {
+		"prefix": "i1_Iconemail",
 		"body": "\"ion-email icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconerlenmeyerflaskbubbles": {
-		"prefix": "ionicIconerlenmeyerflaskbubbles",
+	"i1_Iconerlenmeyerflaskbubbles": {
+		"prefix": "i1_Iconerlenmeyerflaskbubbles",
 		"body": "\"ion-erlenmeyer-flask-bubbles icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconerlenmeyerflask": {
-		"prefix": "ionicIconerlenmeyerflask",
+	"i1_Iconerlenmeyerflask": {
+		"prefix": "i1_Iconerlenmeyerflask",
 		"body": "\"ion-erlenmeyer-flask icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconeyedisabled": {
-		"prefix": "ionicIconeyedisabled",
+	"i1_Iconeyedisabled": {
+		"prefix": "i1_Iconeyedisabled",
 		"body": "\"ion-eye-disabled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconeye": {
-		"prefix": "ionicIconeye",
+	"i1_Iconeye": {
+		"prefix": "i1_Iconeye",
 		"body": "\"ion-eye icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconfemale": {
-		"prefix": "ionicIconfemale",
+	"i1_Iconfemale": {
+		"prefix": "i1_Iconfemale",
 		"body": "\"ion-female icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconfiling": {
-		"prefix": "ionicIconfiling",
+	"i1_Iconfiling": {
+		"prefix": "i1_Iconfiling",
 		"body": "\"ion-filing icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconfilmmarker": {
-		"prefix": "ionicIconfilmmarker",
+	"i1_Iconfilmmarker": {
+		"prefix": "i1_Iconfilmmarker",
 		"body": "\"ion-film-marker icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconfireball": {
-		"prefix": "ionicIconfireball",
+	"i1_Iconfireball": {
+		"prefix": "i1_Iconfireball",
 		"body": "\"ion-fireball icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconflag": {
-		"prefix": "ionicIconflag",
+	"i1_Iconflag": {
+		"prefix": "i1_Iconflag",
 		"body": "\"ion-flag icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconflame": {
-		"prefix": "ionicIconflame",
+	"i1_Iconflame": {
+		"prefix": "i1_Iconflame",
 		"body": "\"ion-flame icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconflashoff": {
-		"prefix": "ionicIconflashoff",
+	"i1_Iconflashoff": {
+		"prefix": "i1_Iconflashoff",
 		"body": "\"ion-flash-off icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconflash": {
-		"prefix": "ionicIconflash",
+	"i1_Iconflash": {
+		"prefix": "i1_Iconflash",
 		"body": "\"ion-flash icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconfolder": {
-		"prefix": "ionicIconfolder",
+	"i1_Iconfolder": {
+		"prefix": "i1_Iconfolder",
 		"body": "\"ion-folder icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconforkrepo": {
-		"prefix": "ionicIconforkrepo",
+	"i1_Iconforkrepo": {
+		"prefix": "i1_Iconforkrepo",
 		"body": "\"ion-fork-repo icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconfork": {
-		"prefix": "ionicIconfork",
+	"i1_Iconfork": {
+		"prefix": "i1_Iconfork",
 		"body": "\"ion-fork icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconforward": {
-		"prefix": "ionicIconforward",
+	"i1_Iconforward": {
+		"prefix": "i1_Iconforward",
 		"body": "\"ion-forward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconfunnel": {
-		"prefix": "ionicIconfunnel",
+	"i1_Iconfunnel": {
+		"prefix": "i1_Iconfunnel",
 		"body": "\"ion-funnel icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcongeara": {
-		"prefix": "ionicIcongeara",
+	"i1_Icongeara": {
+		"prefix": "i1_Icongeara",
 		"body": "\"ion-gear-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcongearb": {
-		"prefix": "ionicIcongearb",
+	"i1_Icongearb": {
+		"prefix": "i1_Icongearb",
 		"body": "\"ion-gear-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcongrid": {
-		"prefix": "ionicIcongrid",
+	"i1_Icongrid": {
+		"prefix": "i1_Icongrid",
 		"body": "\"ion-grid icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconhammer": {
-		"prefix": "ionicIconhammer",
+	"i1_Iconhammer": {
+		"prefix": "i1_Iconhammer",
 		"body": "\"ion-hammer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconhappyoutline": {
-		"prefix": "ionicIconhappyoutline",
+	"i1_Iconhappyoutline": {
+		"prefix": "i1_Iconhappyoutline",
 		"body": "\"ion-happy-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconhappy": {
-		"prefix": "ionicIconhappy",
+	"i1_Iconhappy": {
+		"prefix": "i1_Iconhappy",
 		"body": "\"ion-happy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconheadphone": {
-		"prefix": "ionicIconheadphone",
+	"i1_Iconheadphone": {
+		"prefix": "i1_Iconheadphone",
 		"body": "\"ion-headphone icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconheartbroken": {
-		"prefix": "ionicIconheartbroken",
+	"i1_Iconheartbroken": {
+		"prefix": "i1_Iconheartbroken",
 		"body": "\"ion-heart-broken icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconheart": {
-		"prefix": "ionicIconheart",
+	"i1_Iconheart": {
+		"prefix": "i1_Iconheart",
 		"body": "\"ion-heart icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconhelpbuoy": {
-		"prefix": "ionicIconhelpbuoy",
+	"i1_Iconhelpbuoy": {
+		"prefix": "i1_Iconhelpbuoy",
 		"body": "\"ion-help-buoy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconhelpcircled": {
-		"prefix": "ionicIconhelpcircled",
+	"i1_Iconhelpcircled": {
+		"prefix": "i1_Iconhelpcircled",
 		"body": "\"ion-help-circled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconhelp": {
-		"prefix": "ionicIconhelp",
+	"i1_Iconhelp": {
+		"prefix": "i1_Iconhelp",
 		"body": "\"ion-help icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconhome": {
-		"prefix": "ionicIconhome",
+	"i1_Iconhome": {
+		"prefix": "i1_Iconhome",
 		"body": "\"ion-home icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconicecream": {
-		"prefix": "ionicIconicecream",
+	"i1_Iconicecream": {
+		"prefix": "i1_Iconicecream",
 		"body": "\"ion-icecream icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconimage": {
-		"prefix": "ionicIconimage",
+	"i1_Iconimage": {
+		"prefix": "i1_Iconimage",
 		"body": "\"ion-image icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconimages": {
-		"prefix": "ionicIconimages",
+	"i1_Iconimages": {
+		"prefix": "i1_Iconimages",
 		"body": "\"ion-images icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconinformationcircled": {
-		"prefix": "ionicIconinformationcircled",
+	"i1_Iconinformationcircled": {
+		"prefix": "i1_Iconinformationcircled",
 		"body": "\"ion-information-circled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconinformation": {
-		"prefix": "ionicIconinformation",
+	"i1_Iconinformation": {
+		"prefix": "i1_Iconinformation",
 		"body": "\"ion-information icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconionic": {
-		"prefix": "ionicIconionic",
+	"i1_Iconionic": {
+		"prefix": "i1_Iconionic",
 		"body": "\"ion-ionic icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosalarmoutline": {
-		"prefix": "ionicIconiosalarmoutline",
+	"i1_Iconiosalarmoutline": {
+		"prefix": "i1_Iconiosalarmoutline",
 		"body": "\"ion-ios-alarm-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosalarm": {
-		"prefix": "ionicIconiosalarm",
+	"i1_Iconiosalarm": {
+		"prefix": "i1_Iconiosalarm",
 		"body": "\"ion-ios-alarm icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosalbumsoutline": {
-		"prefix": "ionicIconiosalbumsoutline",
+	"i1_Iconiosalbumsoutline": {
+		"prefix": "i1_Iconiosalbumsoutline",
 		"body": "\"ion-ios-albums-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosalbums": {
-		"prefix": "ionicIconiosalbums",
+	"i1_Iconiosalbums": {
+		"prefix": "i1_Iconiosalbums",
 		"body": "\"ion-ios-albums icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosamericanfootballoutline": {
-		"prefix": "ionicIconiosamericanfootballoutline",
+	"i1_Iconiosamericanfootballoutline": {
+		"prefix": "i1_Iconiosamericanfootballoutline",
 		"body": "\"ion-ios-americanfootball-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosamericanfootball": {
-		"prefix": "ionicIconiosamericanfootball",
+	"i1_Iconiosamericanfootball": {
+		"prefix": "i1_Iconiosamericanfootball",
 		"body": "\"ion-ios-americanfootball icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosanalyticsoutline": {
-		"prefix": "ionicIconiosanalyticsoutline",
+	"i1_Iconiosanalyticsoutline": {
+		"prefix": "i1_Iconiosanalyticsoutline",
 		"body": "\"ion-ios-analytics-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosanalytics": {
-		"prefix": "ionicIconiosanalytics",
+	"i1_Iconiosanalytics": {
+		"prefix": "i1_Iconiosanalytics",
 		"body": "\"ion-ios-analytics icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowback": {
-		"prefix": "ionicIconiosarrowback",
+	"i1_Iconiosarrowback": {
+		"prefix": "i1_Iconiosarrowback",
 		"body": "\"ion-ios-arrow-back icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowdown": {
-		"prefix": "ionicIconiosarrowdown",
+	"i1_Iconiosarrowdown": {
+		"prefix": "i1_Iconiosarrowdown",
 		"body": "\"ion-ios-arrow-down icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowforward": {
-		"prefix": "ionicIconiosarrowforward",
+	"i1_Iconiosarrowforward": {
+		"prefix": "i1_Iconiosarrowforward",
 		"body": "\"ion-ios-arrow-forward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowleft": {
-		"prefix": "ionicIconiosarrowleft",
+	"i1_Iconiosarrowleft": {
+		"prefix": "i1_Iconiosarrowleft",
 		"body": "\"ion-ios-arrow-left icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowright": {
-		"prefix": "ionicIconiosarrowright",
+	"i1_Iconiosarrowright": {
+		"prefix": "i1_Iconiosarrowright",
 		"body": "\"ion-ios-arrow-right icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowthindown": {
-		"prefix": "ionicIconiosarrowthindown",
+	"i1_Iconiosarrowthindown": {
+		"prefix": "i1_Iconiosarrowthindown",
 		"body": "\"ion-ios-arrow-thin-down icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowthinleft": {
-		"prefix": "ionicIconiosarrowthinleft",
+	"i1_Iconiosarrowthinleft": {
+		"prefix": "i1_Iconiosarrowthinleft",
 		"body": "\"ion-ios-arrow-thin-left icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowthinright": {
-		"prefix": "ionicIconiosarrowthinright",
+	"i1_Iconiosarrowthinright": {
+		"prefix": "i1_Iconiosarrowthinright",
 		"body": "\"ion-ios-arrow-thin-right icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowthinup": {
-		"prefix": "ionicIconiosarrowthinup",
+	"i1_Iconiosarrowthinup": {
+		"prefix": "i1_Iconiosarrowthinup",
 		"body": "\"ion-ios-arrow-thin-up icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosarrowup": {
-		"prefix": "ionicIconiosarrowup",
+	"i1_Iconiosarrowup": {
+		"prefix": "i1_Iconiosarrowup",
 		"body": "\"ion-ios-arrow-up icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosatoutline": {
-		"prefix": "ionicIconiosatoutline",
+	"i1_Iconiosatoutline": {
+		"prefix": "i1_Iconiosatoutline",
 		"body": "\"ion-ios-at-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosat": {
-		"prefix": "ionicIconiosat",
+	"i1_Iconiosat": {
+		"prefix": "i1_Iconiosat",
 		"body": "\"ion-ios-at icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbarcodeoutline": {
-		"prefix": "ionicIconiosbarcodeoutline",
+	"i1_Iconiosbarcodeoutline": {
+		"prefix": "i1_Iconiosbarcodeoutline",
 		"body": "\"ion-ios-barcode-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbarcode": {
-		"prefix": "ionicIconiosbarcode",
+	"i1_Iconiosbarcode": {
+		"prefix": "i1_Iconiosbarcode",
 		"body": "\"ion-ios-barcode icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbaseballoutline": {
-		"prefix": "ionicIconiosbaseballoutline",
+	"i1_Iconiosbaseballoutline": {
+		"prefix": "i1_Iconiosbaseballoutline",
 		"body": "\"ion-ios-baseball-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbaseball": {
-		"prefix": "ionicIconiosbaseball",
+	"i1_Iconiosbaseball": {
+		"prefix": "i1_Iconiosbaseball",
 		"body": "\"ion-ios-baseball icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbasketballoutline": {
-		"prefix": "ionicIconiosbasketballoutline",
+	"i1_Iconiosbasketballoutline": {
+		"prefix": "i1_Iconiosbasketballoutline",
 		"body": "\"ion-ios-basketball-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbasketball": {
-		"prefix": "ionicIconiosbasketball",
+	"i1_Iconiosbasketball": {
+		"prefix": "i1_Iconiosbasketball",
 		"body": "\"ion-ios-basketball icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbelloutline": {
-		"prefix": "ionicIconiosbelloutline",
+	"i1_Iconiosbelloutline": {
+		"prefix": "i1_Iconiosbelloutline",
 		"body": "\"ion-ios-bell-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbell": {
-		"prefix": "ionicIconiosbell",
+	"i1_Iconiosbell": {
+		"prefix": "i1_Iconiosbell",
 		"body": "\"ion-ios-bell icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbodyoutline": {
-		"prefix": "ionicIconiosbodyoutline",
+	"i1_Iconiosbodyoutline": {
+		"prefix": "i1_Iconiosbodyoutline",
 		"body": "\"ion-ios-body-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbody": {
-		"prefix": "ionicIconiosbody",
+	"i1_Iconiosbody": {
+		"prefix": "i1_Iconiosbody",
 		"body": "\"ion-ios-body icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosboltoutline": {
-		"prefix": "ionicIconiosboltoutline",
+	"i1_Iconiosboltoutline": {
+		"prefix": "i1_Iconiosboltoutline",
 		"body": "\"ion-ios-bolt-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbolt": {
-		"prefix": "ionicIconiosbolt",
+	"i1_Iconiosbolt": {
+		"prefix": "i1_Iconiosbolt",
 		"body": "\"ion-ios-bolt icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbookoutline": {
-		"prefix": "ionicIconiosbookoutline",
+	"i1_Iconiosbookoutline": {
+		"prefix": "i1_Iconiosbookoutline",
 		"body": "\"ion-ios-book-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbook": {
-		"prefix": "ionicIconiosbook",
+	"i1_Iconiosbook": {
+		"prefix": "i1_Iconiosbook",
 		"body": "\"ion-ios-book icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbookmarksoutline": {
-		"prefix": "ionicIconiosbookmarksoutline",
+	"i1_Iconiosbookmarksoutline": {
+		"prefix": "i1_Iconiosbookmarksoutline",
 		"body": "\"ion-ios-bookmarks-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbookmarks": {
-		"prefix": "ionicIconiosbookmarks",
+	"i1_Iconiosbookmarks": {
+		"prefix": "i1_Iconiosbookmarks",
 		"body": "\"ion-ios-bookmarks icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosboxoutline": {
-		"prefix": "ionicIconiosboxoutline",
+	"i1_Iconiosboxoutline": {
+		"prefix": "i1_Iconiosboxoutline",
 		"body": "\"ion-ios-box-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbox": {
-		"prefix": "ionicIconiosbox",
+	"i1_Iconiosbox": {
+		"prefix": "i1_Iconiosbox",
 		"body": "\"ion-ios-box icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbriefcaseoutline": {
-		"prefix": "ionicIconiosbriefcaseoutline",
+	"i1_Iconiosbriefcaseoutline": {
+		"prefix": "i1_Iconiosbriefcaseoutline",
 		"body": "\"ion-ios-briefcase-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbriefcase": {
-		"prefix": "ionicIconiosbriefcase",
+	"i1_Iconiosbriefcase": {
+		"prefix": "i1_Iconiosbriefcase",
 		"body": "\"ion-ios-briefcase icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbrowsersoutline": {
-		"prefix": "ionicIconiosbrowsersoutline",
+	"i1_Iconiosbrowsersoutline": {
+		"prefix": "i1_Iconiosbrowsersoutline",
 		"body": "\"ion-ios-browsers-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosbrowsers": {
-		"prefix": "ionicIconiosbrowsers",
+	"i1_Iconiosbrowsers": {
+		"prefix": "i1_Iconiosbrowsers",
 		"body": "\"ion-ios-browsers icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscalculatoroutline": {
-		"prefix": "ionicIconioscalculatoroutline",
+	"i1_Iconioscalculatoroutline": {
+		"prefix": "i1_Iconioscalculatoroutline",
 		"body": "\"ion-ios-calculator-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscalculator": {
-		"prefix": "ionicIconioscalculator",
+	"i1_Iconioscalculator": {
+		"prefix": "i1_Iconioscalculator",
 		"body": "\"ion-ios-calculator icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscalendaroutline": {
-		"prefix": "ionicIconioscalendaroutline",
+	"i1_Iconioscalendaroutline": {
+		"prefix": "i1_Iconioscalendaroutline",
 		"body": "\"ion-ios-calendar-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscalendar": {
-		"prefix": "ionicIconioscalendar",
+	"i1_Iconioscalendar": {
+		"prefix": "i1_Iconioscalendar",
 		"body": "\"ion-ios-calendar icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscameraoutline": {
-		"prefix": "ionicIconioscameraoutline",
+	"i1_Iconioscameraoutline": {
+		"prefix": "i1_Iconioscameraoutline",
 		"body": "\"ion-ios-camera-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscamera": {
-		"prefix": "ionicIconioscamera",
+	"i1_Iconioscamera": {
+		"prefix": "i1_Iconioscamera",
 		"body": "\"ion-ios-camera icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscartoutline": {
-		"prefix": "ionicIconioscartoutline",
+	"i1_Iconioscartoutline": {
+		"prefix": "i1_Iconioscartoutline",
 		"body": "\"ion-ios-cart-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscart": {
-		"prefix": "ionicIconioscart",
+	"i1_Iconioscart": {
+		"prefix": "i1_Iconioscart",
 		"body": "\"ion-ios-cart icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioschatboxesoutline": {
-		"prefix": "ionicIconioschatboxesoutline",
+	"i1_Iconioschatboxesoutline": {
+		"prefix": "i1_Iconioschatboxesoutline",
 		"body": "\"ion-ios-chatboxes-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioschatboxes": {
-		"prefix": "ionicIconioschatboxes",
+	"i1_Iconioschatboxes": {
+		"prefix": "i1_Iconioschatboxes",
 		"body": "\"ion-ios-chatboxes icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioschatbubbleoutline": {
-		"prefix": "ionicIconioschatbubbleoutline",
+	"i1_Iconioschatbubbleoutline": {
+		"prefix": "i1_Iconioschatbubbleoutline",
 		"body": "\"ion-ios-chatbubble-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioschatbubble": {
-		"prefix": "ionicIconioschatbubble",
+	"i1_Iconioschatbubble": {
+		"prefix": "i1_Iconioschatbubble",
 		"body": "\"ion-ios-chatbubble icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscheckmarkempty": {
-		"prefix": "ionicIconioscheckmarkempty",
+	"i1_Iconioscheckmarkempty": {
+		"prefix": "i1_Iconioscheckmarkempty",
 		"body": "\"ion-ios-checkmark-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscheckmarkoutline": {
-		"prefix": "ionicIconioscheckmarkoutline",
+	"i1_Iconioscheckmarkoutline": {
+		"prefix": "i1_Iconioscheckmarkoutline",
 		"body": "\"ion-ios-checkmark-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscheckmark": {
-		"prefix": "ionicIconioscheckmark",
+	"i1_Iconioscheckmark": {
+		"prefix": "i1_Iconioscheckmark",
 		"body": "\"ion-ios-checkmark icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscirclefilled": {
-		"prefix": "ionicIconioscirclefilled",
+	"i1_Iconioscirclefilled": {
+		"prefix": "i1_Iconioscirclefilled",
 		"body": "\"ion-ios-circle-filled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscircleoutline": {
-		"prefix": "ionicIconioscircleoutline",
+	"i1_Iconioscircleoutline": {
+		"prefix": "i1_Iconioscircleoutline",
 		"body": "\"ion-ios-circle-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosclockoutline": {
-		"prefix": "ionicIconiosclockoutline",
+	"i1_Iconiosclockoutline": {
+		"prefix": "i1_Iconiosclockoutline",
 		"body": "\"ion-ios-clock-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosclock": {
-		"prefix": "ionicIconiosclock",
+	"i1_Iconiosclock": {
+		"prefix": "i1_Iconiosclock",
 		"body": "\"ion-ios-clock icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloseempty": {
-		"prefix": "ionicIconioscloseempty",
+	"i1_Iconioscloseempty": {
+		"prefix": "i1_Iconioscloseempty",
 		"body": "\"ion-ios-close-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloseoutline": {
-		"prefix": "ionicIconioscloseoutline",
+	"i1_Iconioscloseoutline": {
+		"prefix": "i1_Iconioscloseoutline",
 		"body": "\"ion-ios-close-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosclose": {
-		"prefix": "ionicIconiosclose",
+	"i1_Iconiosclose": {
+		"prefix": "i1_Iconiosclose",
 		"body": "\"ion-ios-close icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosclouddownloadoutline": {
-		"prefix": "ionicIconiosclouddownloadoutline",
+	"i1_Iconiosclouddownloadoutline": {
+		"prefix": "i1_Iconiosclouddownloadoutline",
 		"body": "\"ion-ios-cloud-download-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosclouddownload": {
-		"prefix": "ionicIconiosclouddownload",
+	"i1_Iconiosclouddownload": {
+		"prefix": "i1_Iconiosclouddownload",
 		"body": "\"ion-ios-cloud-download icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloudoutline": {
-		"prefix": "ionicIconioscloudoutline",
+	"i1_Iconioscloudoutline": {
+		"prefix": "i1_Iconioscloudoutline",
 		"body": "\"ion-ios-cloud-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosclouduploadoutline": {
-		"prefix": "ionicIconiosclouduploadoutline",
+	"i1_Iconiosclouduploadoutline": {
+		"prefix": "i1_Iconiosclouduploadoutline",
 		"body": "\"ion-ios-cloud-upload-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloudupload": {
-		"prefix": "ionicIconioscloudupload",
+	"i1_Iconioscloudupload": {
+		"prefix": "i1_Iconioscloudupload",
 		"body": "\"ion-ios-cloud-upload icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloud": {
-		"prefix": "ionicIconioscloud",
+	"i1_Iconioscloud": {
+		"prefix": "i1_Iconioscloud",
 		"body": "\"ion-ios-cloud icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloudynightoutline": {
-		"prefix": "ionicIconioscloudynightoutline",
+	"i1_Iconioscloudynightoutline": {
+		"prefix": "i1_Iconioscloudynightoutline",
 		"body": "\"ion-ios-cloudy-night-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloudynight": {
-		"prefix": "ionicIconioscloudynight",
+	"i1_Iconioscloudynight": {
+		"prefix": "i1_Iconioscloudynight",
 		"body": "\"ion-ios-cloudy-night icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloudyoutline": {
-		"prefix": "ionicIconioscloudyoutline",
+	"i1_Iconioscloudyoutline": {
+		"prefix": "i1_Iconioscloudyoutline",
 		"body": "\"ion-ios-cloudy-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscloudy": {
-		"prefix": "ionicIconioscloudy",
+	"i1_Iconioscloudy": {
+		"prefix": "i1_Iconioscloudy",
 		"body": "\"ion-ios-cloudy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscogoutline": {
-		"prefix": "ionicIconioscogoutline",
+	"i1_Iconioscogoutline": {
+		"prefix": "i1_Iconioscogoutline",
 		"body": "\"ion-ios-cog-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscog": {
-		"prefix": "ionicIconioscog",
+	"i1_Iconioscog": {
+		"prefix": "i1_Iconioscog",
 		"body": "\"ion-ios-cog icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscolorfilteroutline": {
-		"prefix": "ionicIconioscolorfilteroutline",
+	"i1_Iconioscolorfilteroutline": {
+		"prefix": "i1_Iconioscolorfilteroutline",
 		"body": "\"ion-ios-color-filter-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscolorfilter": {
-		"prefix": "ionicIconioscolorfilter",
+	"i1_Iconioscolorfilter": {
+		"prefix": "i1_Iconioscolorfilter",
 		"body": "\"ion-ios-color-filter icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscolorwandoutline": {
-		"prefix": "ionicIconioscolorwandoutline",
+	"i1_Iconioscolorwandoutline": {
+		"prefix": "i1_Iconioscolorwandoutline",
 		"body": "\"ion-ios-color-wand-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscolorwand": {
-		"prefix": "ionicIconioscolorwand",
+	"i1_Iconioscolorwand": {
+		"prefix": "i1_Iconioscolorwand",
 		"body": "\"ion-ios-color-wand icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscomposeoutline": {
-		"prefix": "ionicIconioscomposeoutline",
+	"i1_Iconioscomposeoutline": {
+		"prefix": "i1_Iconioscomposeoutline",
 		"body": "\"ion-ios-compose-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscompose": {
-		"prefix": "ionicIconioscompose",
+	"i1_Iconioscompose": {
+		"prefix": "i1_Iconioscompose",
 		"body": "\"ion-ios-compose icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscontactoutline": {
-		"prefix": "ionicIconioscontactoutline",
+	"i1_Iconioscontactoutline": {
+		"prefix": "i1_Iconioscontactoutline",
 		"body": "\"ion-ios-contact-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscontact": {
-		"prefix": "ionicIconioscontact",
+	"i1_Iconioscontact": {
+		"prefix": "i1_Iconioscontact",
 		"body": "\"ion-ios-contact icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscopyoutline": {
-		"prefix": "ionicIconioscopyoutline",
+	"i1_Iconioscopyoutline": {
+		"prefix": "i1_Iconioscopyoutline",
 		"body": "\"ion-ios-copy-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscopy": {
-		"prefix": "ionicIconioscopy",
+	"i1_Iconioscopy": {
+		"prefix": "i1_Iconioscopy",
 		"body": "\"ion-ios-copy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscropstrong": {
-		"prefix": "ionicIconioscropstrong",
+	"i1_Iconioscropstrong": {
+		"prefix": "i1_Iconioscropstrong",
 		"body": "\"ion-ios-crop-strong icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioscrop": {
-		"prefix": "ionicIconioscrop",
+	"i1_Iconioscrop": {
+		"prefix": "i1_Iconioscrop",
 		"body": "\"ion-ios-crop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosdownloadoutline": {
-		"prefix": "ionicIconiosdownloadoutline",
+	"i1_Iconiosdownloadoutline": {
+		"prefix": "i1_Iconiosdownloadoutline",
 		"body": "\"ion-ios-download-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosdownload": {
-		"prefix": "ionicIconiosdownload",
+	"i1_Iconiosdownload": {
+		"prefix": "i1_Iconiosdownload",
 		"body": "\"ion-ios-download icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosdrag": {
-		"prefix": "ionicIconiosdrag",
+	"i1_Iconiosdrag": {
+		"prefix": "i1_Iconiosdrag",
 		"body": "\"ion-ios-drag icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosemailoutline": {
-		"prefix": "ionicIconiosemailoutline",
+	"i1_Iconiosemailoutline": {
+		"prefix": "i1_Iconiosemailoutline",
 		"body": "\"ion-ios-email-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosemail": {
-		"prefix": "ionicIconiosemail",
+	"i1_Iconiosemail": {
+		"prefix": "i1_Iconiosemail",
 		"body": "\"ion-ios-email icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioseyeoutline": {
-		"prefix": "ionicIconioseyeoutline",
+	"i1_Iconioseyeoutline": {
+		"prefix": "i1_Iconioseyeoutline",
 		"body": "\"ion-ios-eye-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioseye": {
-		"prefix": "ionicIconioseye",
+	"i1_Iconioseye": {
+		"prefix": "i1_Iconioseye",
 		"body": "\"ion-ios-eye icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfastforwardoutline": {
-		"prefix": "ionicIconiosfastforwardoutline",
+	"i1_Iconiosfastforwardoutline": {
+		"prefix": "i1_Iconiosfastforwardoutline",
 		"body": "\"ion-ios-fastforward-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfastforward": {
-		"prefix": "ionicIconiosfastforward",
+	"i1_Iconiosfastforward": {
+		"prefix": "i1_Iconiosfastforward",
 		"body": "\"ion-ios-fastforward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfilingoutline": {
-		"prefix": "ionicIconiosfilingoutline",
+	"i1_Iconiosfilingoutline": {
+		"prefix": "i1_Iconiosfilingoutline",
 		"body": "\"ion-ios-filing-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfiling": {
-		"prefix": "ionicIconiosfiling",
+	"i1_Iconiosfiling": {
+		"prefix": "i1_Iconiosfiling",
 		"body": "\"ion-ios-filing icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfilmoutline": {
-		"prefix": "ionicIconiosfilmoutline",
+	"i1_Iconiosfilmoutline": {
+		"prefix": "i1_Iconiosfilmoutline",
 		"body": "\"ion-ios-film-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfilm": {
-		"prefix": "ionicIconiosfilm",
+	"i1_Iconiosfilm": {
+		"prefix": "i1_Iconiosfilm",
 		"body": "\"ion-ios-film icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosflagoutline": {
-		"prefix": "ionicIconiosflagoutline",
+	"i1_Iconiosflagoutline": {
+		"prefix": "i1_Iconiosflagoutline",
 		"body": "\"ion-ios-flag-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosflag": {
-		"prefix": "ionicIconiosflag",
+	"i1_Iconiosflag": {
+		"prefix": "i1_Iconiosflag",
 		"body": "\"ion-ios-flag icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosflameoutline": {
-		"prefix": "ionicIconiosflameoutline",
+	"i1_Iconiosflameoutline": {
+		"prefix": "i1_Iconiosflameoutline",
 		"body": "\"ion-ios-flame-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosflame": {
-		"prefix": "ionicIconiosflame",
+	"i1_Iconiosflame": {
+		"prefix": "i1_Iconiosflame",
 		"body": "\"ion-ios-flame icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosflaskoutline": {
-		"prefix": "ionicIconiosflaskoutline",
+	"i1_Iconiosflaskoutline": {
+		"prefix": "i1_Iconiosflaskoutline",
 		"body": "\"ion-ios-flask-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosflask": {
-		"prefix": "ionicIconiosflask",
+	"i1_Iconiosflask": {
+		"prefix": "i1_Iconiosflask",
 		"body": "\"ion-ios-flask icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfloweroutline": {
-		"prefix": "ionicIconiosfloweroutline",
+	"i1_Iconiosfloweroutline": {
+		"prefix": "i1_Iconiosfloweroutline",
 		"body": "\"ion-ios-flower-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosflower": {
-		"prefix": "ionicIconiosflower",
+	"i1_Iconiosflower": {
+		"prefix": "i1_Iconiosflower",
 		"body": "\"ion-ios-flower icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfolderoutline": {
-		"prefix": "ionicIconiosfolderoutline",
+	"i1_Iconiosfolderoutline": {
+		"prefix": "i1_Iconiosfolderoutline",
 		"body": "\"ion-ios-folder-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfolder": {
-		"prefix": "ionicIconiosfolder",
+	"i1_Iconiosfolder": {
+		"prefix": "i1_Iconiosfolder",
 		"body": "\"ion-ios-folder icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfootballoutline": {
-		"prefix": "ionicIconiosfootballoutline",
+	"i1_Iconiosfootballoutline": {
+		"prefix": "i1_Iconiosfootballoutline",
 		"body": "\"ion-ios-football-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosfootball": {
-		"prefix": "ionicIconiosfootball",
+	"i1_Iconiosfootball": {
+		"prefix": "i1_Iconiosfootball",
 		"body": "\"ion-ios-football icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgamecontrolleraoutline": {
-		"prefix": "ionicIconiosgamecontrolleraoutline",
+	"i1_Iconiosgamecontrolleraoutline": {
+		"prefix": "i1_Iconiosgamecontrolleraoutline",
 		"body": "\"ion-ios-game-controller-a-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgamecontrollera": {
-		"prefix": "ionicIconiosgamecontrollera",
+	"i1_Iconiosgamecontrollera": {
+		"prefix": "i1_Iconiosgamecontrollera",
 		"body": "\"ion-ios-game-controller-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgamecontrollerboutline": {
-		"prefix": "ionicIconiosgamecontrollerboutline",
+	"i1_Iconiosgamecontrollerboutline": {
+		"prefix": "i1_Iconiosgamecontrollerboutline",
 		"body": "\"ion-ios-game-controller-b-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgamecontrollerb": {
-		"prefix": "ionicIconiosgamecontrollerb",
+	"i1_Iconiosgamecontrollerb": {
+		"prefix": "i1_Iconiosgamecontrollerb",
 		"body": "\"ion-ios-game-controller-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgearoutline": {
-		"prefix": "ionicIconiosgearoutline",
+	"i1_Iconiosgearoutline": {
+		"prefix": "i1_Iconiosgearoutline",
 		"body": "\"ion-ios-gear-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgear": {
-		"prefix": "ionicIconiosgear",
+	"i1_Iconiosgear": {
+		"prefix": "i1_Iconiosgear",
 		"body": "\"ion-ios-gear icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosglassesoutline": {
-		"prefix": "ionicIconiosglassesoutline",
+	"i1_Iconiosglassesoutline": {
+		"prefix": "i1_Iconiosglassesoutline",
 		"body": "\"ion-ios-glasses-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosglasses": {
-		"prefix": "ionicIconiosglasses",
+	"i1_Iconiosglasses": {
+		"prefix": "i1_Iconiosglasses",
 		"body": "\"ion-ios-glasses icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgridviewoutline": {
-		"prefix": "ionicIconiosgridviewoutline",
+	"i1_Iconiosgridviewoutline": {
+		"prefix": "i1_Iconiosgridviewoutline",
 		"body": "\"ion-ios-grid-view-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosgridview": {
-		"prefix": "ionicIconiosgridview",
+	"i1_Iconiosgridview": {
+		"prefix": "i1_Iconiosgridview",
 		"body": "\"ion-ios-grid-view icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosheartoutline": {
-		"prefix": "ionicIconiosheartoutline",
+	"i1_Iconiosheartoutline": {
+		"prefix": "i1_Iconiosheartoutline",
 		"body": "\"ion-ios-heart-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosheart": {
-		"prefix": "ionicIconiosheart",
+	"i1_Iconiosheart": {
+		"prefix": "i1_Iconiosheart",
 		"body": "\"ion-ios-heart icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioshelpempty": {
-		"prefix": "ionicIconioshelpempty",
+	"i1_Iconioshelpempty": {
+		"prefix": "i1_Iconioshelpempty",
 		"body": "\"ion-ios-help-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioshelpoutline": {
-		"prefix": "ionicIconioshelpoutline",
+	"i1_Iconioshelpoutline": {
+		"prefix": "i1_Iconioshelpoutline",
 		"body": "\"ion-ios-help-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioshelp": {
-		"prefix": "ionicIconioshelp",
+	"i1_Iconioshelp": {
+		"prefix": "i1_Iconioshelp",
 		"body": "\"ion-ios-help icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioshomeoutline": {
-		"prefix": "ionicIconioshomeoutline",
+	"i1_Iconioshomeoutline": {
+		"prefix": "i1_Iconioshomeoutline",
 		"body": "\"ion-ios-home-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioshome": {
-		"prefix": "ionicIconioshome",
+	"i1_Iconioshome": {
+		"prefix": "i1_Iconioshome",
 		"body": "\"ion-ios-home icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosinfiniteoutline": {
-		"prefix": "ionicIconiosinfiniteoutline",
+	"i1_Iconiosinfiniteoutline": {
+		"prefix": "i1_Iconiosinfiniteoutline",
 		"body": "\"ion-ios-infinite-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosinfinite": {
-		"prefix": "ionicIconiosinfinite",
+	"i1_Iconiosinfinite": {
+		"prefix": "i1_Iconiosinfinite",
 		"body": "\"ion-ios-infinite icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosinformationempty": {
-		"prefix": "ionicIconiosinformationempty",
+	"i1_Iconiosinformationempty": {
+		"prefix": "i1_Iconiosinformationempty",
 		"body": "\"ion-ios-information-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosinformationoutline": {
-		"prefix": "ionicIconiosinformationoutline",
+	"i1_Iconiosinformationoutline": {
+		"prefix": "i1_Iconiosinformationoutline",
 		"body": "\"ion-ios-information-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosinformation": {
-		"prefix": "ionicIconiosinformation",
+	"i1_Iconiosinformation": {
+		"prefix": "i1_Iconiosinformation",
 		"body": "\"ion-ios-information icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosionicoutline": {
-		"prefix": "ionicIconiosionicoutline",
+	"i1_Iconiosionicoutline": {
+		"prefix": "i1_Iconiosionicoutline",
 		"body": "\"ion-ios-ionic-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioskeypadoutline": {
-		"prefix": "ionicIconioskeypadoutline",
+	"i1_Iconioskeypadoutline": {
+		"prefix": "i1_Iconioskeypadoutline",
 		"body": "\"ion-ios-keypad-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioskeypad": {
-		"prefix": "ionicIconioskeypad",
+	"i1_Iconioskeypad": {
+		"prefix": "i1_Iconioskeypad",
 		"body": "\"ion-ios-keypad icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslightbulboutline": {
-		"prefix": "ionicIconioslightbulboutline",
+	"i1_Iconioslightbulboutline": {
+		"prefix": "i1_Iconioslightbulboutline",
 		"body": "\"ion-ios-lightbulb-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslightbulb": {
-		"prefix": "ionicIconioslightbulb",
+	"i1_Iconioslightbulb": {
+		"prefix": "i1_Iconioslightbulb",
 		"body": "\"ion-ios-lightbulb icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslistoutline": {
-		"prefix": "ionicIconioslistoutline",
+	"i1_Iconioslistoutline": {
+		"prefix": "i1_Iconioslistoutline",
 		"body": "\"ion-ios-list-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslist": {
-		"prefix": "ionicIconioslist",
+	"i1_Iconioslist": {
+		"prefix": "i1_Iconioslist",
 		"body": "\"ion-ios-list icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslocationoutline": {
-		"prefix": "ionicIconioslocationoutline",
+	"i1_Iconioslocationoutline": {
+		"prefix": "i1_Iconioslocationoutline",
 		"body": "\"ion-ios-location-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslocation": {
-		"prefix": "ionicIconioslocation",
+	"i1_Iconioslocation": {
+		"prefix": "i1_Iconioslocation",
 		"body": "\"ion-ios-location icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslockedoutline": {
-		"prefix": "ionicIconioslockedoutline",
+	"i1_Iconioslockedoutline": {
+		"prefix": "i1_Iconioslockedoutline",
 		"body": "\"ion-ios-locked-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioslocked": {
-		"prefix": "ionicIconioslocked",
+	"i1_Iconioslocked": {
+		"prefix": "i1_Iconioslocked",
 		"body": "\"ion-ios-locked icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosloopstrong": {
-		"prefix": "ionicIconiosloopstrong",
+	"i1_Iconiosloopstrong": {
+		"prefix": "i1_Iconiosloopstrong",
 		"body": "\"ion-ios-loop-strong icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosloop": {
-		"prefix": "ionicIconiosloop",
+	"i1_Iconiosloop": {
+		"prefix": "i1_Iconiosloop",
 		"body": "\"ion-ios-loop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmedicaloutline": {
-		"prefix": "ionicIconiosmedicaloutline",
+	"i1_Iconiosmedicaloutline": {
+		"prefix": "i1_Iconiosmedicaloutline",
 		"body": "\"ion-ios-medical-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmedical": {
-		"prefix": "ionicIconiosmedical",
+	"i1_Iconiosmedical": {
+		"prefix": "i1_Iconiosmedical",
 		"body": "\"ion-ios-medical icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmedkitoutline": {
-		"prefix": "ionicIconiosmedkitoutline",
+	"i1_Iconiosmedkitoutline": {
+		"prefix": "i1_Iconiosmedkitoutline",
 		"body": "\"ion-ios-medkit-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmedkit": {
-		"prefix": "ionicIconiosmedkit",
+	"i1_Iconiosmedkit": {
+		"prefix": "i1_Iconiosmedkit",
 		"body": "\"ion-ios-medkit icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmicoff": {
-		"prefix": "ionicIconiosmicoff",
+	"i1_Iconiosmicoff": {
+		"prefix": "i1_Iconiosmicoff",
 		"body": "\"ion-ios-mic-off icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmicoutline": {
-		"prefix": "ionicIconiosmicoutline",
+	"i1_Iconiosmicoutline": {
+		"prefix": "i1_Iconiosmicoutline",
 		"body": "\"ion-ios-mic-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmic": {
-		"prefix": "ionicIconiosmic",
+	"i1_Iconiosmic": {
+		"prefix": "i1_Iconiosmic",
 		"body": "\"ion-ios-mic icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosminusempty": {
-		"prefix": "ionicIconiosminusempty",
+	"i1_Iconiosminusempty": {
+		"prefix": "i1_Iconiosminusempty",
 		"body": "\"ion-ios-minus-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosminusoutline": {
-		"prefix": "ionicIconiosminusoutline",
+	"i1_Iconiosminusoutline": {
+		"prefix": "i1_Iconiosminusoutline",
 		"body": "\"ion-ios-minus-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosminus": {
-		"prefix": "ionicIconiosminus",
+	"i1_Iconiosminus": {
+		"prefix": "i1_Iconiosminus",
 		"body": "\"ion-ios-minus icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmonitoroutline": {
-		"prefix": "ionicIconiosmonitoroutline",
+	"i1_Iconiosmonitoroutline": {
+		"prefix": "i1_Iconiosmonitoroutline",
 		"body": "\"ion-ios-monitor-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmonitor": {
-		"prefix": "ionicIconiosmonitor",
+	"i1_Iconiosmonitor": {
+		"prefix": "i1_Iconiosmonitor",
 		"body": "\"ion-ios-monitor icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmoonoutline": {
-		"prefix": "ionicIconiosmoonoutline",
+	"i1_Iconiosmoonoutline": {
+		"prefix": "i1_Iconiosmoonoutline",
 		"body": "\"ion-ios-moon-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmoon": {
-		"prefix": "ionicIconiosmoon",
+	"i1_Iconiosmoon": {
+		"prefix": "i1_Iconiosmoon",
 		"body": "\"ion-ios-moon icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmoreoutline": {
-		"prefix": "ionicIconiosmoreoutline",
+	"i1_Iconiosmoreoutline": {
+		"prefix": "i1_Iconiosmoreoutline",
 		"body": "\"ion-ios-more-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmore": {
-		"prefix": "ionicIconiosmore",
+	"i1_Iconiosmore": {
+		"prefix": "i1_Iconiosmore",
 		"body": "\"ion-ios-more icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmusicalnote": {
-		"prefix": "ionicIconiosmusicalnote",
+	"i1_Iconiosmusicalnote": {
+		"prefix": "i1_Iconiosmusicalnote",
 		"body": "\"ion-ios-musical-note icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosmusicalnotes": {
-		"prefix": "ionicIconiosmusicalnotes",
+	"i1_Iconiosmusicalnotes": {
+		"prefix": "i1_Iconiosmusicalnotes",
 		"body": "\"ion-ios-musical-notes icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosnavigateoutline": {
-		"prefix": "ionicIconiosnavigateoutline",
+	"i1_Iconiosnavigateoutline": {
+		"prefix": "i1_Iconiosnavigateoutline",
 		"body": "\"ion-ios-navigate-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosnavigate": {
-		"prefix": "ionicIconiosnavigate",
+	"i1_Iconiosnavigate": {
+		"prefix": "i1_Iconiosnavigate",
 		"body": "\"ion-ios-navigate icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosnutritionoutline": {
-		"prefix": "ionicIconiosnutritionoutline",
+	"i1_Iconiosnutritionoutline": {
+		"prefix": "i1_Iconiosnutritionoutline",
 		"body": "\"ion-ios-nutrition-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosnutrition": {
-		"prefix": "ionicIconiosnutrition",
+	"i1_Iconiosnutrition": {
+		"prefix": "i1_Iconiosnutrition",
 		"body": "\"ion-ios-nutrition icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospaperoutline": {
-		"prefix": "ionicIconiospaperoutline",
+	"i1_Iconiospaperoutline": {
+		"prefix": "i1_Iconiospaperoutline",
 		"body": "\"ion-ios-paper-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospaper": {
-		"prefix": "ionicIconiospaper",
+	"i1_Iconiospaper": {
+		"prefix": "i1_Iconiospaper",
 		"body": "\"ion-ios-paper icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospaperplaneoutline": {
-		"prefix": "ionicIconiospaperplaneoutline",
+	"i1_Iconiospaperplaneoutline": {
+		"prefix": "i1_Iconiospaperplaneoutline",
 		"body": "\"ion-ios-paperplane-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospaperplane": {
-		"prefix": "ionicIconiospaperplane",
+	"i1_Iconiospaperplane": {
+		"prefix": "i1_Iconiospaperplane",
 		"body": "\"ion-ios-paperplane icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospartlysunnyoutline": {
-		"prefix": "ionicIconiospartlysunnyoutline",
+	"i1_Iconiospartlysunnyoutline": {
+		"prefix": "i1_Iconiospartlysunnyoutline",
 		"body": "\"ion-ios-partlysunny-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospartlysunny": {
-		"prefix": "ionicIconiospartlysunny",
+	"i1_Iconiospartlysunny": {
+		"prefix": "i1_Iconiospartlysunny",
 		"body": "\"ion-ios-partlysunny icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospauseoutline": {
-		"prefix": "ionicIconiospauseoutline",
+	"i1_Iconiospauseoutline": {
+		"prefix": "i1_Iconiospauseoutline",
 		"body": "\"ion-ios-pause-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospause": {
-		"prefix": "ionicIconiospause",
+	"i1_Iconiospause": {
+		"prefix": "i1_Iconiospause",
 		"body": "\"ion-ios-pause icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospawoutline": {
-		"prefix": "ionicIconiospawoutline",
+	"i1_Iconiospawoutline": {
+		"prefix": "i1_Iconiospawoutline",
 		"body": "\"ion-ios-paw-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospaw": {
-		"prefix": "ionicIconiospaw",
+	"i1_Iconiospaw": {
+		"prefix": "i1_Iconiospaw",
 		"body": "\"ion-ios-paw icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospeopleoutline": {
-		"prefix": "ionicIconiospeopleoutline",
+	"i1_Iconiospeopleoutline": {
+		"prefix": "i1_Iconiospeopleoutline",
 		"body": "\"ion-ios-people-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospeople": {
-		"prefix": "ionicIconiospeople",
+	"i1_Iconiospeople": {
+		"prefix": "i1_Iconiospeople",
 		"body": "\"ion-ios-people icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospersonoutline": {
-		"prefix": "ionicIconiospersonoutline",
+	"i1_Iconiospersonoutline": {
+		"prefix": "i1_Iconiospersonoutline",
 		"body": "\"ion-ios-person-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosperson": {
-		"prefix": "ionicIconiosperson",
+	"i1_Iconiosperson": {
+		"prefix": "i1_Iconiosperson",
 		"body": "\"ion-ios-person icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospersonaddoutline": {
-		"prefix": "ionicIconiospersonaddoutline",
+	"i1_Iconiospersonaddoutline": {
+		"prefix": "i1_Iconiospersonaddoutline",
 		"body": "\"ion-ios-personadd-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospersonadd": {
-		"prefix": "ionicIconiospersonadd",
+	"i1_Iconiospersonadd": {
+		"prefix": "i1_Iconiospersonadd",
 		"body": "\"ion-ios-personadd icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosphotosoutline": {
-		"prefix": "ionicIconiosphotosoutline",
+	"i1_Iconiosphotosoutline": {
+		"prefix": "i1_Iconiosphotosoutline",
 		"body": "\"ion-ios-photos-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosphotos": {
-		"prefix": "ionicIconiosphotos",
+	"i1_Iconiosphotos": {
+		"prefix": "i1_Iconiosphotos",
 		"body": "\"ion-ios-photos icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospieoutline": {
-		"prefix": "ionicIconiospieoutline",
+	"i1_Iconiospieoutline": {
+		"prefix": "i1_Iconiospieoutline",
 		"body": "\"ion-ios-pie-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospie": {
-		"prefix": "ionicIconiospie",
+	"i1_Iconiospie": {
+		"prefix": "i1_Iconiospie",
 		"body": "\"ion-ios-pie icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospintoutline": {
-		"prefix": "ionicIconiospintoutline",
+	"i1_Iconiospintoutline": {
+		"prefix": "i1_Iconiospintoutline",
 		"body": "\"ion-ios-pint-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospint": {
-		"prefix": "ionicIconiospint",
+	"i1_Iconiospint": {
+		"prefix": "i1_Iconiospint",
 		"body": "\"ion-ios-pint icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosplayoutline": {
-		"prefix": "ionicIconiosplayoutline",
+	"i1_Iconiosplayoutline": {
+		"prefix": "i1_Iconiosplayoutline",
 		"body": "\"ion-ios-play-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosplay": {
-		"prefix": "ionicIconiosplay",
+	"i1_Iconiosplay": {
+		"prefix": "i1_Iconiosplay",
 		"body": "\"ion-ios-play icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosplusempty": {
-		"prefix": "ionicIconiosplusempty",
+	"i1_Iconiosplusempty": {
+		"prefix": "i1_Iconiosplusempty",
 		"body": "\"ion-ios-plus-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosplusoutline": {
-		"prefix": "ionicIconiosplusoutline",
+	"i1_Iconiosplusoutline": {
+		"prefix": "i1_Iconiosplusoutline",
 		"body": "\"ion-ios-plus-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosplus": {
-		"prefix": "ionicIconiosplus",
+	"i1_Iconiosplus": {
+		"prefix": "i1_Iconiosplus",
 		"body": "\"ion-ios-plus icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospricetagoutline": {
-		"prefix": "ionicIconiospricetagoutline",
+	"i1_Iconiospricetagoutline": {
+		"prefix": "i1_Iconiospricetagoutline",
 		"body": "\"ion-ios-pricetag-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospricetag": {
-		"prefix": "ionicIconiospricetag",
+	"i1_Iconiospricetag": {
+		"prefix": "i1_Iconiospricetag",
 		"body": "\"ion-ios-pricetag icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospricetagsoutline": {
-		"prefix": "ionicIconiospricetagsoutline",
+	"i1_Iconiospricetagsoutline": {
+		"prefix": "i1_Iconiospricetagsoutline",
 		"body": "\"ion-ios-pricetags-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospricetags": {
-		"prefix": "ionicIconiospricetags",
+	"i1_Iconiospricetags": {
+		"prefix": "i1_Iconiospricetags",
 		"body": "\"ion-ios-pricetags icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosprinteroutline": {
-		"prefix": "ionicIconiosprinteroutline",
+	"i1_Iconiosprinteroutline": {
+		"prefix": "i1_Iconiosprinteroutline",
 		"body": "\"ion-ios-printer-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosprinter": {
-		"prefix": "ionicIconiosprinter",
+	"i1_Iconiosprinter": {
+		"prefix": "i1_Iconiosprinter",
 		"body": "\"ion-ios-printer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospulsestrong": {
-		"prefix": "ionicIconiospulsestrong",
+	"i1_Iconiospulsestrong": {
+		"prefix": "i1_Iconiospulsestrong",
 		"body": "\"ion-ios-pulse-strong icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiospulse": {
-		"prefix": "ionicIconiospulse",
+	"i1_Iconiospulse": {
+		"prefix": "i1_Iconiospulse",
 		"body": "\"ion-ios-pulse icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrainyoutline": {
-		"prefix": "ionicIconiosrainyoutline",
+	"i1_Iconiosrainyoutline": {
+		"prefix": "i1_Iconiosrainyoutline",
 		"body": "\"ion-ios-rainy-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrainy": {
-		"prefix": "ionicIconiosrainy",
+	"i1_Iconiosrainy": {
+		"prefix": "i1_Iconiosrainy",
 		"body": "\"ion-ios-rainy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrecordingoutline": {
-		"prefix": "ionicIconiosrecordingoutline",
+	"i1_Iconiosrecordingoutline": {
+		"prefix": "i1_Iconiosrecordingoutline",
 		"body": "\"ion-ios-recording-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrecording": {
-		"prefix": "ionicIconiosrecording",
+	"i1_Iconiosrecording": {
+		"prefix": "i1_Iconiosrecording",
 		"body": "\"ion-ios-recording icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosredooutline": {
-		"prefix": "ionicIconiosredooutline",
+	"i1_Iconiosredooutline": {
+		"prefix": "i1_Iconiosredooutline",
 		"body": "\"ion-ios-redo-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosredo": {
-		"prefix": "ionicIconiosredo",
+	"i1_Iconiosredo": {
+		"prefix": "i1_Iconiosredo",
 		"body": "\"ion-ios-redo icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrefreshempty": {
-		"prefix": "ionicIconiosrefreshempty",
+	"i1_Iconiosrefreshempty": {
+		"prefix": "i1_Iconiosrefreshempty",
 		"body": "\"ion-ios-refresh-empty icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrefreshoutline": {
-		"prefix": "ionicIconiosrefreshoutline",
+	"i1_Iconiosrefreshoutline": {
+		"prefix": "i1_Iconiosrefreshoutline",
 		"body": "\"ion-ios-refresh-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrefresh": {
-		"prefix": "ionicIconiosrefresh",
+	"i1_Iconiosrefresh": {
+		"prefix": "i1_Iconiosrefresh",
 		"body": "\"ion-ios-refresh icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosreload": {
-		"prefix": "ionicIconiosreload",
+	"i1_Iconiosreload": {
+		"prefix": "i1_Iconiosreload",
 		"body": "\"ion-ios-reload icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosreversecameraoutline": {
-		"prefix": "ionicIconiosreversecameraoutline",
+	"i1_Iconiosreversecameraoutline": {
+		"prefix": "i1_Iconiosreversecameraoutline",
 		"body": "\"ion-ios-reverse-camera-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosreversecamera": {
-		"prefix": "ionicIconiosreversecamera",
+	"i1_Iconiosreversecamera": {
+		"prefix": "i1_Iconiosreversecamera",
 		"body": "\"ion-ios-reverse-camera icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrewindoutline": {
-		"prefix": "ionicIconiosrewindoutline",
+	"i1_Iconiosrewindoutline": {
+		"prefix": "i1_Iconiosrewindoutline",
 		"body": "\"ion-ios-rewind-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrewind": {
-		"prefix": "ionicIconiosrewind",
+	"i1_Iconiosrewind": {
+		"prefix": "i1_Iconiosrewind",
 		"body": "\"ion-ios-rewind icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosroseoutline": {
-		"prefix": "ionicIconiosroseoutline",
+	"i1_Iconiosroseoutline": {
+		"prefix": "i1_Iconiosroseoutline",
 		"body": "\"ion-ios-rose-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosrose": {
-		"prefix": "ionicIconiosrose",
+	"i1_Iconiosrose": {
+		"prefix": "i1_Iconiosrose",
 		"body": "\"ion-ios-rose icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiossearchstrong": {
-		"prefix": "ionicIconiossearchstrong",
+	"i1_Iconiossearchstrong": {
+		"prefix": "i1_Iconiossearchstrong",
 		"body": "\"ion-ios-search-strong icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiossearch": {
-		"prefix": "ionicIconiossearch",
+	"i1_Iconiossearch": {
+		"prefix": "i1_Iconiossearch",
 		"body": "\"ion-ios-search icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiossettingsstrong": {
-		"prefix": "ionicIconiossettingsstrong",
+	"i1_Iconiossettingsstrong": {
+		"prefix": "i1_Iconiossettingsstrong",
 		"body": "\"ion-ios-settings-strong icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiossettings": {
-		"prefix": "ionicIconiossettings",
+	"i1_Iconiossettings": {
+		"prefix": "i1_Iconiossettings",
 		"body": "\"ion-ios-settings icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosshufflestrong": {
-		"prefix": "ionicIconiosshufflestrong",
+	"i1_Iconiosshufflestrong": {
+		"prefix": "i1_Iconiosshufflestrong",
 		"body": "\"ion-ios-shuffle-strong icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosshuffle": {
-		"prefix": "ionicIconiosshuffle",
+	"i1_Iconiosshuffle": {
+		"prefix": "i1_Iconiosshuffle",
 		"body": "\"ion-ios-shuffle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosskipbackwardoutline": {
-		"prefix": "ionicIconiosskipbackwardoutline",
+	"i1_Iconiosskipbackwardoutline": {
+		"prefix": "i1_Iconiosskipbackwardoutline",
 		"body": "\"ion-ios-skipbackward-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosskipbackward": {
-		"prefix": "ionicIconiosskipbackward",
+	"i1_Iconiosskipbackward": {
+		"prefix": "i1_Iconiosskipbackward",
 		"body": "\"ion-ios-skipbackward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosskipforwardoutline": {
-		"prefix": "ionicIconiosskipforwardoutline",
+	"i1_Iconiosskipforwardoutline": {
+		"prefix": "i1_Iconiosskipforwardoutline",
 		"body": "\"ion-ios-skipforward-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosskipforward": {
-		"prefix": "ionicIconiosskipforward",
+	"i1_Iconiosskipforward": {
+		"prefix": "i1_Iconiosskipforward",
 		"body": "\"ion-ios-skipforward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiossnowy": {
-		"prefix": "ionicIconiossnowy",
+	"i1_Iconiossnowy": {
+		"prefix": "i1_Iconiossnowy",
 		"body": "\"ion-ios-snowy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosspeedometeroutline": {
-		"prefix": "ionicIconiosspeedometeroutline",
+	"i1_Iconiosspeedometeroutline": {
+		"prefix": "i1_Iconiosspeedometeroutline",
 		"body": "\"ion-ios-speedometer-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosspeedometer": {
-		"prefix": "ionicIconiosspeedometer",
+	"i1_Iconiosspeedometer": {
+		"prefix": "i1_Iconiosspeedometer",
 		"body": "\"ion-ios-speedometer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosstarhalf": {
-		"prefix": "ionicIconiosstarhalf",
+	"i1_Iconiosstarhalf": {
+		"prefix": "i1_Iconiosstarhalf",
 		"body": "\"ion-ios-star-half icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosstaroutline": {
-		"prefix": "ionicIconiosstaroutline",
+	"i1_Iconiosstaroutline": {
+		"prefix": "i1_Iconiosstaroutline",
 		"body": "\"ion-ios-star-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosstar": {
-		"prefix": "ionicIconiosstar",
+	"i1_Iconiosstar": {
+		"prefix": "i1_Iconiosstar",
 		"body": "\"ion-ios-star icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosstopwatchoutline": {
-		"prefix": "ionicIconiosstopwatchoutline",
+	"i1_Iconiosstopwatchoutline": {
+		"prefix": "i1_Iconiosstopwatchoutline",
 		"body": "\"ion-ios-stopwatch-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosstopwatch": {
-		"prefix": "ionicIconiosstopwatch",
+	"i1_Iconiosstopwatch": {
+		"prefix": "i1_Iconiosstopwatch",
 		"body": "\"ion-ios-stopwatch icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiossunnyoutline": {
-		"prefix": "ionicIconiossunnyoutline",
+	"i1_Iconiossunnyoutline": {
+		"prefix": "i1_Iconiossunnyoutline",
 		"body": "\"ion-ios-sunny-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiossunny": {
-		"prefix": "ionicIconiossunny",
+	"i1_Iconiossunny": {
+		"prefix": "i1_Iconiossunny",
 		"body": "\"ion-ios-sunny icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostelephoneoutline": {
-		"prefix": "ionicIconiostelephoneoutline",
+	"i1_Iconiostelephoneoutline": {
+		"prefix": "i1_Iconiostelephoneoutline",
 		"body": "\"ion-ios-telephone-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostelephone": {
-		"prefix": "ionicIconiostelephone",
+	"i1_Iconiostelephone": {
+		"prefix": "i1_Iconiostelephone",
 		"body": "\"ion-ios-telephone icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostennisballoutline": {
-		"prefix": "ionicIconiostennisballoutline",
+	"i1_Iconiostennisballoutline": {
+		"prefix": "i1_Iconiostennisballoutline",
 		"body": "\"ion-ios-tennisball-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostennisball": {
-		"prefix": "ionicIconiostennisball",
+	"i1_Iconiostennisball": {
+		"prefix": "i1_Iconiostennisball",
 		"body": "\"ion-ios-tennisball icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosthunderstormoutline": {
-		"prefix": "ionicIconiosthunderstormoutline",
+	"i1_Iconiosthunderstormoutline": {
+		"prefix": "i1_Iconiosthunderstormoutline",
 		"body": "\"ion-ios-thunderstorm-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosthunderstorm": {
-		"prefix": "ionicIconiosthunderstorm",
+	"i1_Iconiosthunderstorm": {
+		"prefix": "i1_Iconiosthunderstorm",
 		"body": "\"ion-ios-thunderstorm icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostimeoutline": {
-		"prefix": "ionicIconiostimeoutline",
+	"i1_Iconiostimeoutline": {
+		"prefix": "i1_Iconiostimeoutline",
 		"body": "\"ion-ios-time-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostime": {
-		"prefix": "ionicIconiostime",
+	"i1_Iconiostime": {
+		"prefix": "i1_Iconiostime",
 		"body": "\"ion-ios-time icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostimeroutline": {
-		"prefix": "ionicIconiostimeroutline",
+	"i1_Iconiostimeroutline": {
+		"prefix": "i1_Iconiostimeroutline",
 		"body": "\"ion-ios-timer-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostimer": {
-		"prefix": "ionicIconiostimer",
+	"i1_Iconiostimer": {
+		"prefix": "i1_Iconiostimer",
 		"body": "\"ion-ios-timer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostoggleoutline": {
-		"prefix": "ionicIconiostoggleoutline",
+	"i1_Iconiostoggleoutline": {
+		"prefix": "i1_Iconiostoggleoutline",
 		"body": "\"ion-ios-toggle-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostoggle": {
-		"prefix": "ionicIconiostoggle",
+	"i1_Iconiostoggle": {
+		"prefix": "i1_Iconiostoggle",
 		"body": "\"ion-ios-toggle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostrashoutline": {
-		"prefix": "ionicIconiostrashoutline",
+	"i1_Iconiostrashoutline": {
+		"prefix": "i1_Iconiostrashoutline",
 		"body": "\"ion-ios-trash-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiostrash": {
-		"prefix": "ionicIconiostrash",
+	"i1_Iconiostrash": {
+		"prefix": "i1_Iconiostrash",
 		"body": "\"ion-ios-trash icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosundooutline": {
-		"prefix": "ionicIconiosundooutline",
+	"i1_Iconiosundooutline": {
+		"prefix": "i1_Iconiosundooutline",
 		"body": "\"ion-ios-undo-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosundo": {
-		"prefix": "ionicIconiosundo",
+	"i1_Iconiosundo": {
+		"prefix": "i1_Iconiosundo",
 		"body": "\"ion-ios-undo icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosunlockedoutline": {
-		"prefix": "ionicIconiosunlockedoutline",
+	"i1_Iconiosunlockedoutline": {
+		"prefix": "i1_Iconiosunlockedoutline",
 		"body": "\"ion-ios-unlocked-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosunlocked": {
-		"prefix": "ionicIconiosunlocked",
+	"i1_Iconiosunlocked": {
+		"prefix": "i1_Iconiosunlocked",
 		"body": "\"ion-ios-unlocked icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosuploadoutline": {
-		"prefix": "ionicIconiosuploadoutline",
+	"i1_Iconiosuploadoutline": {
+		"prefix": "i1_Iconiosuploadoutline",
 		"body": "\"ion-ios-upload-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosupload": {
-		"prefix": "ionicIconiosupload",
+	"i1_Iconiosupload": {
+		"prefix": "i1_Iconiosupload",
 		"body": "\"ion-ios-upload icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosvideocamoutline": {
-		"prefix": "ionicIconiosvideocamoutline",
+	"i1_Iconiosvideocamoutline": {
+		"prefix": "i1_Iconiosvideocamoutline",
 		"body": "\"ion-ios-videocam-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosvideocam": {
-		"prefix": "ionicIconiosvideocam",
+	"i1_Iconiosvideocam": {
+		"prefix": "i1_Iconiosvideocam",
 		"body": "\"ion-ios-videocam icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosvolumehigh": {
-		"prefix": "ionicIconiosvolumehigh",
+	"i1_Iconiosvolumehigh": {
+		"prefix": "i1_Iconiosvolumehigh",
 		"body": "\"ion-ios-volume-high icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosvolumelow": {
-		"prefix": "ionicIconiosvolumelow",
+	"i1_Iconiosvolumelow": {
+		"prefix": "i1_Iconiosvolumelow",
 		"body": "\"ion-ios-volume-low icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioswineglassoutline": {
-		"prefix": "ionicIconioswineglassoutline",
+	"i1_Iconioswineglassoutline": {
+		"prefix": "i1_Iconioswineglassoutline",
 		"body": "\"ion-ios-wineglass-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconioswineglass": {
-		"prefix": "ionicIconioswineglass",
+	"i1_Iconioswineglass": {
+		"prefix": "i1_Iconioswineglass",
 		"body": "\"ion-ios-wineglass icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosworldoutline": {
-		"prefix": "ionicIconiosworldoutline",
+	"i1_Iconiosworldoutline": {
+		"prefix": "i1_Iconiosworldoutline",
 		"body": "\"ion-ios-world-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiosworld": {
-		"prefix": "ionicIconiosworld",
+	"i1_Iconiosworld": {
+		"prefix": "i1_Iconiosworld",
 		"body": "\"ion-ios-world icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconipad": {
-		"prefix": "ionicIconipad",
+	"i1_Iconipad": {
+		"prefix": "i1_Iconipad",
 		"body": "\"ion-ipad icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconiphone": {
-		"prefix": "ionicIconiphone",
+	"i1_Iconiphone": {
+		"prefix": "i1_Iconiphone",
 		"body": "\"ion-iphone icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconipod": {
-		"prefix": "ionicIconipod",
+	"i1_Iconipod": {
+		"prefix": "i1_Iconipod",
 		"body": "\"ion-ipod icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconjet": {
-		"prefix": "ionicIconjet",
+	"i1_Iconjet": {
+		"prefix": "i1_Iconjet",
 		"body": "\"ion-jet icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconkey": {
-		"prefix": "ionicIconkey",
+	"i1_Iconkey": {
+		"prefix": "i1_Iconkey",
 		"body": "\"ion-key icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconknife": {
-		"prefix": "ionicIconknife",
+	"i1_Iconknife": {
+		"prefix": "i1_Iconknife",
 		"body": "\"ion-knife icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlaptop": {
-		"prefix": "ionicIconlaptop",
+	"i1_Iconlaptop": {
+		"prefix": "i1_Iconlaptop",
 		"body": "\"ion-laptop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconleaf": {
-		"prefix": "ionicIconleaf",
+	"i1_Iconleaf": {
+		"prefix": "i1_Iconleaf",
 		"body": "\"ion-leaf icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlevels": {
-		"prefix": "ionicIconlevels",
+	"i1_Iconlevels": {
+		"prefix": "i1_Iconlevels",
 		"body": "\"ion-levels icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlightbulb": {
-		"prefix": "ionicIconlightbulb",
+	"i1_Iconlightbulb": {
+		"prefix": "i1_Iconlightbulb",
 		"body": "\"ion-lightbulb icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlink": {
-		"prefix": "ionicIconlink",
+	"i1_Iconlink": {
+		"prefix": "i1_Iconlink",
 		"body": "\"ion-link icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconloada": {
-		"prefix": "ionicIconloada",
+	"i1_Iconloada": {
+		"prefix": "i1_Iconloada",
 		"body": "\"ion-load-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconloadb": {
-		"prefix": "ionicIconloadb",
+	"i1_Iconloadb": {
+		"prefix": "i1_Iconloadb",
 		"body": "\"ion-load-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconloadc": {
-		"prefix": "ionicIconloadc",
+	"i1_Iconloadc": {
+		"prefix": "i1_Iconloadc",
 		"body": "\"ion-load-c icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconloadd": {
-		"prefix": "ionicIconloadd",
+	"i1_Iconloadd": {
+		"prefix": "i1_Iconloadd",
 		"body": "\"ion-load-d icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlocation": {
-		"prefix": "ionicIconlocation",
+	"i1_Iconlocation": {
+		"prefix": "i1_Iconlocation",
 		"body": "\"ion-location icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlockcombination": {
-		"prefix": "ionicIconlockcombination",
+	"i1_Iconlockcombination": {
+		"prefix": "i1_Iconlockcombination",
 		"body": "\"ion-lock-combination icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlocked": {
-		"prefix": "ionicIconlocked",
+	"i1_Iconlocked": {
+		"prefix": "i1_Iconlocked",
 		"body": "\"ion-locked icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlogin": {
-		"prefix": "ionicIconlogin",
+	"i1_Iconlogin": {
+		"prefix": "i1_Iconlogin",
 		"body": "\"ion-log-in icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconlogout": {
-		"prefix": "ionicIconlogout",
+	"i1_Iconlogout": {
+		"prefix": "i1_Iconlogout",
 		"body": "\"ion-log-out icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconloop": {
-		"prefix": "ionicIconloop",
+	"i1_Iconloop": {
+		"prefix": "i1_Iconloop",
 		"body": "\"ion-loop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmagnet": {
-		"prefix": "ionicIconmagnet",
+	"i1_Iconmagnet": {
+		"prefix": "i1_Iconmagnet",
 		"body": "\"ion-magnet icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmale": {
-		"prefix": "ionicIconmale",
+	"i1_Iconmale": {
+		"prefix": "i1_Iconmale",
 		"body": "\"ion-male icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconman": {
-		"prefix": "ionicIconman",
+	"i1_Iconman": {
+		"prefix": "i1_Iconman",
 		"body": "\"ion-man icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmap": {
-		"prefix": "ionicIconmap",
+	"i1_Iconmap": {
+		"prefix": "i1_Iconmap",
 		"body": "\"ion-map icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmedkit": {
-		"prefix": "ionicIconmedkit",
+	"i1_Iconmedkit": {
+		"prefix": "i1_Iconmedkit",
 		"body": "\"ion-medkit icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmerge": {
-		"prefix": "ionicIconmerge",
+	"i1_Iconmerge": {
+		"prefix": "i1_Iconmerge",
 		"body": "\"ion-merge icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmica": {
-		"prefix": "ionicIconmica",
+	"i1_Iconmica": {
+		"prefix": "i1_Iconmica",
 		"body": "\"ion-mic-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmicb": {
-		"prefix": "ionicIconmicb",
+	"i1_Iconmicb": {
+		"prefix": "i1_Iconmicb",
 		"body": "\"ion-mic-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmicc": {
-		"prefix": "ionicIconmicc",
+	"i1_Iconmicc": {
+		"prefix": "i1_Iconmicc",
 		"body": "\"ion-mic-c icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconminuscircled": {
-		"prefix": "ionicIconminuscircled",
+	"i1_Iconminuscircled": {
+		"prefix": "i1_Iconminuscircled",
 		"body": "\"ion-minus-circled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconminusround": {
-		"prefix": "ionicIconminusround",
+	"i1_Iconminusround": {
+		"prefix": "i1_Iconminusround",
 		"body": "\"ion-minus-round icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconminus": {
-		"prefix": "ionicIconminus",
+	"i1_Iconminus": {
+		"prefix": "i1_Iconminus",
 		"body": "\"ion-minus icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmodels": {
-		"prefix": "ionicIconmodels",
+	"i1_Iconmodels": {
+		"prefix": "i1_Iconmodels",
 		"body": "\"ion-model-s icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmonitor": {
-		"prefix": "ionicIconmonitor",
+	"i1_Iconmonitor": {
+		"prefix": "i1_Iconmonitor",
 		"body": "\"ion-monitor icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmore": {
-		"prefix": "ionicIconmore",
+	"i1_Iconmore": {
+		"prefix": "i1_Iconmore",
 		"body": "\"ion-more icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmouse": {
-		"prefix": "ionicIconmouse",
+	"i1_Iconmouse": {
+		"prefix": "i1_Iconmouse",
 		"body": "\"ion-mouse icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconmusicnote": {
-		"prefix": "ionicIconmusicnote",
+	"i1_Iconmusicnote": {
+		"prefix": "i1_Iconmusicnote",
 		"body": "\"ion-music-note icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconnaviconround": {
-		"prefix": "ionicIconnaviconround",
+	"i1_Iconnaviconround": {
+		"prefix": "i1_Iconnaviconround",
 		"body": "\"ion-navicon-round icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconnavicon": {
-		"prefix": "ionicIconnavicon",
+	"i1_Iconnavicon": {
+		"prefix": "i1_Iconnavicon",
 		"body": "\"ion-navicon icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconnavigate": {
-		"prefix": "ionicIconnavigate",
+	"i1_Iconnavigate": {
+		"prefix": "i1_Iconnavigate",
 		"body": "\"ion-navigate icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconnetwork": {
-		"prefix": "ionicIconnetwork",
+	"i1_Iconnetwork": {
+		"prefix": "i1_Iconnetwork",
 		"body": "\"ion-network icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconnosmoking": {
-		"prefix": "ionicIconnosmoking",
+	"i1_Iconnosmoking": {
+		"prefix": "i1_Iconnosmoking",
 		"body": "\"ion-no-smoking icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconnuclear": {
-		"prefix": "ionicIconnuclear",
+	"i1_Iconnuclear": {
+		"prefix": "i1_Iconnuclear",
 		"body": "\"ion-nuclear icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconoutlet": {
-		"prefix": "ionicIconoutlet",
+	"i1_Iconoutlet": {
+		"prefix": "i1_Iconoutlet",
 		"body": "\"ion-outlet icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpaintbrush": {
-		"prefix": "ionicIconpaintbrush",
+	"i1_Iconpaintbrush": {
+		"prefix": "i1_Iconpaintbrush",
 		"body": "\"ion-paintbrush icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpaintbucket": {
-		"prefix": "ionicIconpaintbucket",
+	"i1_Iconpaintbucket": {
+		"prefix": "i1_Iconpaintbucket",
 		"body": "\"ion-paintbucket icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpaperairplane": {
-		"prefix": "ionicIconpaperairplane",
+	"i1_Iconpaperairplane": {
+		"prefix": "i1_Iconpaperairplane",
 		"body": "\"ion-paper-airplane icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpaperclip": {
-		"prefix": "ionicIconpaperclip",
+	"i1_Iconpaperclip": {
+		"prefix": "i1_Iconpaperclip",
 		"body": "\"ion-paperclip icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpause": {
-		"prefix": "ionicIconpause",
+	"i1_Iconpause": {
+		"prefix": "i1_Iconpause",
 		"body": "\"ion-pause icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpersonadd": {
-		"prefix": "ionicIconpersonadd",
+	"i1_Iconpersonadd": {
+		"prefix": "i1_Iconpersonadd",
 		"body": "\"ion-person-add icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpersonstalker": {
-		"prefix": "ionicIconpersonstalker",
+	"i1_Iconpersonstalker": {
+		"prefix": "i1_Iconpersonstalker",
 		"body": "\"ion-person-stalker icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconperson": {
-		"prefix": "ionicIconperson",
+	"i1_Iconperson": {
+		"prefix": "i1_Iconperson",
 		"body": "\"ion-person icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpiegraph": {
-		"prefix": "ionicIconpiegraph",
+	"i1_Iconpiegraph": {
+		"prefix": "i1_Iconpiegraph",
 		"body": "\"ion-pie-graph icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpin": {
-		"prefix": "ionicIconpin",
+	"i1_Iconpin": {
+		"prefix": "i1_Iconpin",
 		"body": "\"ion-pin icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpinpoint": {
-		"prefix": "ionicIconpinpoint",
+	"i1_Iconpinpoint": {
+		"prefix": "i1_Iconpinpoint",
 		"body": "\"ion-pinpoint icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpizza": {
-		"prefix": "ionicIconpizza",
+	"i1_Iconpizza": {
+		"prefix": "i1_Iconpizza",
 		"body": "\"ion-pizza icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconplane": {
-		"prefix": "ionicIconplane",
+	"i1_Iconplane": {
+		"prefix": "i1_Iconplane",
 		"body": "\"ion-plane icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconplanet": {
-		"prefix": "ionicIconplanet",
+	"i1_Iconplanet": {
+		"prefix": "i1_Iconplanet",
 		"body": "\"ion-planet icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconplay": {
-		"prefix": "ionicIconplay",
+	"i1_Iconplay": {
+		"prefix": "i1_Iconplay",
 		"body": "\"ion-play icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconplaystation": {
-		"prefix": "ionicIconplaystation",
+	"i1_Iconplaystation": {
+		"prefix": "i1_Iconplaystation",
 		"body": "\"ion-playstation icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpluscircled": {
-		"prefix": "ionicIconpluscircled",
+	"i1_Iconpluscircled": {
+		"prefix": "i1_Iconpluscircled",
 		"body": "\"ion-plus-circled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconplusround": {
-		"prefix": "ionicIconplusround",
+	"i1_Iconplusround": {
+		"prefix": "i1_Iconplusround",
 		"body": "\"ion-plus-round icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconplus": {
-		"prefix": "ionicIconplus",
+	"i1_Iconplus": {
+		"prefix": "i1_Iconplus",
 		"body": "\"ion-plus icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpodium": {
-		"prefix": "ionicIconpodium",
+	"i1_Iconpodium": {
+		"prefix": "i1_Iconpodium",
 		"body": "\"ion-podium icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpound": {
-		"prefix": "ionicIconpound",
+	"i1_Iconpound": {
+		"prefix": "i1_Iconpound",
 		"body": "\"ion-pound icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpower": {
-		"prefix": "ionicIconpower",
+	"i1_Iconpower": {
+		"prefix": "i1_Iconpower",
 		"body": "\"ion-power icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpricetag": {
-		"prefix": "ionicIconpricetag",
+	"i1_Iconpricetag": {
+		"prefix": "i1_Iconpricetag",
 		"body": "\"ion-pricetag icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpricetags": {
-		"prefix": "ionicIconpricetags",
+	"i1_Iconpricetags": {
+		"prefix": "i1_Iconpricetags",
 		"body": "\"ion-pricetags icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconprinter": {
-		"prefix": "ionicIconprinter",
+	"i1_Iconprinter": {
+		"prefix": "i1_Iconprinter",
 		"body": "\"ion-printer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconpullrequest": {
-		"prefix": "ionicIconpullrequest",
+	"i1_Iconpullrequest": {
+		"prefix": "i1_Iconpullrequest",
 		"body": "\"ion-pull-request icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconqrscanner": {
-		"prefix": "ionicIconqrscanner",
+	"i1_Iconqrscanner": {
+		"prefix": "i1_Iconqrscanner",
 		"body": "\"ion-qr-scanner icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconquote": {
-		"prefix": "ionicIconquote",
+	"i1_Iconquote": {
+		"prefix": "i1_Iconquote",
 		"body": "\"ion-quote icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconradiowaves": {
-		"prefix": "ionicIconradiowaves",
+	"i1_Iconradiowaves": {
+		"prefix": "i1_Iconradiowaves",
 		"body": "\"ion-radio-waves icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconrecord": {
-		"prefix": "ionicIconrecord",
+	"i1_Iconrecord": {
+		"prefix": "i1_Iconrecord",
 		"body": "\"ion-record icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconrefresh": {
-		"prefix": "ionicIconrefresh",
+	"i1_Iconrefresh": {
+		"prefix": "i1_Iconrefresh",
 		"body": "\"ion-refresh icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconreplyall": {
-		"prefix": "ionicIconreplyall",
+	"i1_Iconreplyall": {
+		"prefix": "i1_Iconreplyall",
 		"body": "\"ion-reply-all icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconreply": {
-		"prefix": "ionicIconreply",
+	"i1_Iconreply": {
+		"prefix": "i1_Iconreply",
 		"body": "\"ion-reply icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconribbona": {
-		"prefix": "ionicIconribbona",
+	"i1_Iconribbona": {
+		"prefix": "i1_Iconribbona",
 		"body": "\"ion-ribbon-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconribbonb": {
-		"prefix": "ionicIconribbonb",
+	"i1_Iconribbonb": {
+		"prefix": "i1_Iconribbonb",
 		"body": "\"ion-ribbon-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsadoutline": {
-		"prefix": "ionicIconsadoutline",
+	"i1_Iconsadoutline": {
+		"prefix": "i1_Iconsadoutline",
 		"body": "\"ion-sad-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsad": {
-		"prefix": "ionicIconsad",
+	"i1_Iconsad": {
+		"prefix": "i1_Iconsad",
 		"body": "\"ion-sad icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconscissors": {
-		"prefix": "ionicIconscissors",
+	"i1_Iconscissors": {
+		"prefix": "i1_Iconscissors",
 		"body": "\"ion-scissors icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsearch": {
-		"prefix": "ionicIconsearch",
+	"i1_Iconsearch": {
+		"prefix": "i1_Iconsearch",
 		"body": "\"ion-search icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsettings": {
-		"prefix": "ionicIconsettings",
+	"i1_Iconsettings": {
+		"prefix": "i1_Iconsettings",
 		"body": "\"ion-settings icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconshare": {
-		"prefix": "ionicIconshare",
+	"i1_Iconshare": {
+		"prefix": "i1_Iconshare",
 		"body": "\"ion-share icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconshuffle": {
-		"prefix": "ionicIconshuffle",
+	"i1_Iconshuffle": {
+		"prefix": "i1_Iconshuffle",
 		"body": "\"ion-shuffle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconskipbackward": {
-		"prefix": "ionicIconskipbackward",
+	"i1_Iconskipbackward": {
+		"prefix": "i1_Iconskipbackward",
 		"body": "\"ion-skip-backward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconskipforward": {
-		"prefix": "ionicIconskipforward",
+	"i1_Iconskipforward": {
+		"prefix": "i1_Iconskipforward",
 		"body": "\"ion-skip-forward icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialandroidoutline": {
-		"prefix": "ionicIconsocialandroidoutline",
+	"i1_Iconsocialandroidoutline": {
+		"prefix": "i1_Iconsocialandroidoutline",
 		"body": "\"ion-social-android-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialandroid": {
-		"prefix": "ionicIconsocialandroid",
+	"i1_Iconsocialandroid": {
+		"prefix": "i1_Iconsocialandroid",
 		"body": "\"ion-social-android icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialangularoutline": {
-		"prefix": "ionicIconsocialangularoutline",
+	"i1_Iconsocialangularoutline": {
+		"prefix": "i1_Iconsocialangularoutline",
 		"body": "\"ion-social-angular-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialangular": {
-		"prefix": "ionicIconsocialangular",
+	"i1_Iconsocialangular": {
+		"prefix": "i1_Iconsocialangular",
 		"body": "\"ion-social-angular icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialappleoutline": {
-		"prefix": "ionicIconsocialappleoutline",
+	"i1_Iconsocialappleoutline": {
+		"prefix": "i1_Iconsocialappleoutline",
 		"body": "\"ion-social-apple-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialapple": {
-		"prefix": "ionicIconsocialapple",
+	"i1_Iconsocialapple": {
+		"prefix": "i1_Iconsocialapple",
 		"body": "\"ion-social-apple icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialbitcoinoutline": {
-		"prefix": "ionicIconsocialbitcoinoutline",
+	"i1_Iconsocialbitcoinoutline": {
+		"prefix": "i1_Iconsocialbitcoinoutline",
 		"body": "\"ion-social-bitcoin-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialbitcoin": {
-		"prefix": "ionicIconsocialbitcoin",
+	"i1_Iconsocialbitcoin": {
+		"prefix": "i1_Iconsocialbitcoin",
 		"body": "\"ion-social-bitcoin icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialbufferoutline": {
-		"prefix": "ionicIconsocialbufferoutline",
+	"i1_Iconsocialbufferoutline": {
+		"prefix": "i1_Iconsocialbufferoutline",
 		"body": "\"ion-social-buffer-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialbuffer": {
-		"prefix": "ionicIconsocialbuffer",
+	"i1_Iconsocialbuffer": {
+		"prefix": "i1_Iconsocialbuffer",
 		"body": "\"ion-social-buffer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialchromeoutline": {
-		"prefix": "ionicIconsocialchromeoutline",
+	"i1_Iconsocialchromeoutline": {
+		"prefix": "i1_Iconsocialchromeoutline",
 		"body": "\"ion-social-chrome-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialchrome": {
-		"prefix": "ionicIconsocialchrome",
+	"i1_Iconsocialchrome": {
+		"prefix": "i1_Iconsocialchrome",
 		"body": "\"ion-social-chrome icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialcodepenoutline": {
-		"prefix": "ionicIconsocialcodepenoutline",
+	"i1_Iconsocialcodepenoutline": {
+		"prefix": "i1_Iconsocialcodepenoutline",
 		"body": "\"ion-social-codepen-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialcodepen": {
-		"prefix": "ionicIconsocialcodepen",
+	"i1_Iconsocialcodepen": {
+		"prefix": "i1_Iconsocialcodepen",
 		"body": "\"ion-social-codepen icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialcss3outline": {
-		"prefix": "ionicIconsocialcss3outline",
+	"i1_Iconsocialcss3outline": {
+		"prefix": "i1_Iconsocialcss3outline",
 		"body": "\"ion-social-css3-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialcss3": {
-		"prefix": "ionicIconsocialcss3",
+	"i1_Iconsocialcss3": {
+		"prefix": "i1_Iconsocialcss3",
 		"body": "\"ion-social-css3 icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialdesignernewsoutline": {
-		"prefix": "ionicIconsocialdesignernewsoutline",
+	"i1_Iconsocialdesignernewsoutline": {
+		"prefix": "i1_Iconsocialdesignernewsoutline",
 		"body": "\"ion-social-designernews-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialdesignernews": {
-		"prefix": "ionicIconsocialdesignernews",
+	"i1_Iconsocialdesignernews": {
+		"prefix": "i1_Iconsocialdesignernews",
 		"body": "\"ion-social-designernews icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialdribbbleoutline": {
-		"prefix": "ionicIconsocialdribbbleoutline",
+	"i1_Iconsocialdribbbleoutline": {
+		"prefix": "i1_Iconsocialdribbbleoutline",
 		"body": "\"ion-social-dribbble-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialdribbble": {
-		"prefix": "ionicIconsocialdribbble",
+	"i1_Iconsocialdribbble": {
+		"prefix": "i1_Iconsocialdribbble",
 		"body": "\"ion-social-dribbble icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialdropboxoutline": {
-		"prefix": "ionicIconsocialdropboxoutline",
+	"i1_Iconsocialdropboxoutline": {
+		"prefix": "i1_Iconsocialdropboxoutline",
 		"body": "\"ion-social-dropbox-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialdropbox": {
-		"prefix": "ionicIconsocialdropbox",
+	"i1_Iconsocialdropbox": {
+		"prefix": "i1_Iconsocialdropbox",
 		"body": "\"ion-social-dropbox icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialeurooutline": {
-		"prefix": "ionicIconsocialeurooutline",
+	"i1_Iconsocialeurooutline": {
+		"prefix": "i1_Iconsocialeurooutline",
 		"body": "\"ion-social-euro-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialeuro": {
-		"prefix": "ionicIconsocialeuro",
+	"i1_Iconsocialeuro": {
+		"prefix": "i1_Iconsocialeuro",
 		"body": "\"ion-social-euro icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialfacebookoutline": {
-		"prefix": "ionicIconsocialfacebookoutline",
+	"i1_Iconsocialfacebookoutline": {
+		"prefix": "i1_Iconsocialfacebookoutline",
 		"body": "\"ion-social-facebook-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialfacebook": {
-		"prefix": "ionicIconsocialfacebook",
+	"i1_Iconsocialfacebook": {
+		"prefix": "i1_Iconsocialfacebook",
 		"body": "\"ion-social-facebook icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialfoursquareoutline": {
-		"prefix": "ionicIconsocialfoursquareoutline",
+	"i1_Iconsocialfoursquareoutline": {
+		"prefix": "i1_Iconsocialfoursquareoutline",
 		"body": "\"ion-social-foursquare-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialfoursquare": {
-		"prefix": "ionicIconsocialfoursquare",
+	"i1_Iconsocialfoursquare": {
+		"prefix": "i1_Iconsocialfoursquare",
 		"body": "\"ion-social-foursquare icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialfreebsddevil": {
-		"prefix": "ionicIconsocialfreebsddevil",
+	"i1_Iconsocialfreebsddevil": {
+		"prefix": "i1_Iconsocialfreebsddevil",
 		"body": "\"ion-social-freebsd-devil icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialgithuboutline": {
-		"prefix": "ionicIconsocialgithuboutline",
+	"i1_Iconsocialgithuboutline": {
+		"prefix": "i1_Iconsocialgithuboutline",
 		"body": "\"ion-social-github-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialgithub": {
-		"prefix": "ionicIconsocialgithub",
+	"i1_Iconsocialgithub": {
+		"prefix": "i1_Iconsocialgithub",
 		"body": "\"ion-social-github icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialgoogleoutline": {
-		"prefix": "ionicIconsocialgoogleoutline",
+	"i1_Iconsocialgoogleoutline": {
+		"prefix": "i1_Iconsocialgoogleoutline",
 		"body": "\"ion-social-google-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialgoogle": {
-		"prefix": "ionicIconsocialgoogle",
+	"i1_Iconsocialgoogle": {
+		"prefix": "i1_Iconsocialgoogle",
 		"body": "\"ion-social-google icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialgoogleplusoutline": {
-		"prefix": "ionicIconsocialgoogleplusoutline",
+	"i1_Iconsocialgoogleplusoutline": {
+		"prefix": "i1_Iconsocialgoogleplusoutline",
 		"body": "\"ion-social-googleplus-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialgoogleplus": {
-		"prefix": "ionicIconsocialgoogleplus",
+	"i1_Iconsocialgoogleplus": {
+		"prefix": "i1_Iconsocialgoogleplus",
 		"body": "\"ion-social-googleplus icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialhackernewsoutline": {
-		"prefix": "ionicIconsocialhackernewsoutline",
+	"i1_Iconsocialhackernewsoutline": {
+		"prefix": "i1_Iconsocialhackernewsoutline",
 		"body": "\"ion-social-hackernews-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialhackernews": {
-		"prefix": "ionicIconsocialhackernews",
+	"i1_Iconsocialhackernews": {
+		"prefix": "i1_Iconsocialhackernews",
 		"body": "\"ion-social-hackernews icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialhtml5outline": {
-		"prefix": "ionicIconsocialhtml5outline",
+	"i1_Iconsocialhtml5outline": {
+		"prefix": "i1_Iconsocialhtml5outline",
 		"body": "\"ion-social-html5-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialhtml5": {
-		"prefix": "ionicIconsocialhtml5",
+	"i1_Iconsocialhtml5": {
+		"prefix": "i1_Iconsocialhtml5",
 		"body": "\"ion-social-html5 icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialinstagramoutline": {
-		"prefix": "ionicIconsocialinstagramoutline",
+	"i1_Iconsocialinstagramoutline": {
+		"prefix": "i1_Iconsocialinstagramoutline",
 		"body": "\"ion-social-instagram-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialinstagram": {
-		"prefix": "ionicIconsocialinstagram",
+	"i1_Iconsocialinstagram": {
+		"prefix": "i1_Iconsocialinstagram",
 		"body": "\"ion-social-instagram icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialjavascriptoutline": {
-		"prefix": "ionicIconsocialjavascriptoutline",
+	"i1_Iconsocialjavascriptoutline": {
+		"prefix": "i1_Iconsocialjavascriptoutline",
 		"body": "\"ion-social-javascript-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialjavascript": {
-		"prefix": "ionicIconsocialjavascript",
+	"i1_Iconsocialjavascript": {
+		"prefix": "i1_Iconsocialjavascript",
 		"body": "\"ion-social-javascript icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsociallinkedinoutline": {
-		"prefix": "ionicIconsociallinkedinoutline",
+	"i1_Iconsociallinkedinoutline": {
+		"prefix": "i1_Iconsociallinkedinoutline",
 		"body": "\"ion-social-linkedin-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsociallinkedin": {
-		"prefix": "ionicIconsociallinkedin",
+	"i1_Iconsociallinkedin": {
+		"prefix": "i1_Iconsociallinkedin",
 		"body": "\"ion-social-linkedin icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialmarkdown": {
-		"prefix": "ionicIconsocialmarkdown",
+	"i1_Iconsocialmarkdown": {
+		"prefix": "i1_Iconsocialmarkdown",
 		"body": "\"ion-social-markdown icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialnodejs": {
-		"prefix": "ionicIconsocialnodejs",
+	"i1_Iconsocialnodejs": {
+		"prefix": "i1_Iconsocialnodejs",
 		"body": "\"ion-social-nodejs icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialoctocat": {
-		"prefix": "ionicIconsocialoctocat",
+	"i1_Iconsocialoctocat": {
+		"prefix": "i1_Iconsocialoctocat",
 		"body": "\"ion-social-octocat icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialpinterestoutline": {
-		"prefix": "ionicIconsocialpinterestoutline",
+	"i1_Iconsocialpinterestoutline": {
+		"prefix": "i1_Iconsocialpinterestoutline",
 		"body": "\"ion-social-pinterest-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialpinterest": {
-		"prefix": "ionicIconsocialpinterest",
+	"i1_Iconsocialpinterest": {
+		"prefix": "i1_Iconsocialpinterest",
 		"body": "\"ion-social-pinterest icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialpython": {
-		"prefix": "ionicIconsocialpython",
+	"i1_Iconsocialpython": {
+		"prefix": "i1_Iconsocialpython",
 		"body": "\"ion-social-python icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialredditoutline": {
-		"prefix": "ionicIconsocialredditoutline",
+	"i1_Iconsocialredditoutline": {
+		"prefix": "i1_Iconsocialredditoutline",
 		"body": "\"ion-social-reddit-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialreddit": {
-		"prefix": "ionicIconsocialreddit",
+	"i1_Iconsocialreddit": {
+		"prefix": "i1_Iconsocialreddit",
 		"body": "\"ion-social-reddit icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialrssoutline": {
-		"prefix": "ionicIconsocialrssoutline",
+	"i1_Iconsocialrssoutline": {
+		"prefix": "i1_Iconsocialrssoutline",
 		"body": "\"ion-social-rss-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialrss": {
-		"prefix": "ionicIconsocialrss",
+	"i1_Iconsocialrss": {
+		"prefix": "i1_Iconsocialrss",
 		"body": "\"ion-social-rss icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialsass": {
-		"prefix": "ionicIconsocialsass",
+	"i1_Iconsocialsass": {
+		"prefix": "i1_Iconsocialsass",
 		"body": "\"ion-social-sass icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialskypeoutline": {
-		"prefix": "ionicIconsocialskypeoutline",
+	"i1_Iconsocialskypeoutline": {
+		"prefix": "i1_Iconsocialskypeoutline",
 		"body": "\"ion-social-skype-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialskype": {
-		"prefix": "ionicIconsocialskype",
+	"i1_Iconsocialskype": {
+		"prefix": "i1_Iconsocialskype",
 		"body": "\"ion-social-skype icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialsnapchatoutline": {
-		"prefix": "ionicIconsocialsnapchatoutline",
+	"i1_Iconsocialsnapchatoutline": {
+		"prefix": "i1_Iconsocialsnapchatoutline",
 		"body": "\"ion-social-snapchat-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialsnapchat": {
-		"prefix": "ionicIconsocialsnapchat",
+	"i1_Iconsocialsnapchat": {
+		"prefix": "i1_Iconsocialsnapchat",
 		"body": "\"ion-social-snapchat icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialtumblroutline": {
-		"prefix": "ionicIconsocialtumblroutline",
+	"i1_Iconsocialtumblroutline": {
+		"prefix": "i1_Iconsocialtumblroutline",
 		"body": "\"ion-social-tumblr-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialtumblr": {
-		"prefix": "ionicIconsocialtumblr",
+	"i1_Iconsocialtumblr": {
+		"prefix": "i1_Iconsocialtumblr",
 		"body": "\"ion-social-tumblr icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialtux": {
-		"prefix": "ionicIconsocialtux",
+	"i1_Iconsocialtux": {
+		"prefix": "i1_Iconsocialtux",
 		"body": "\"ion-social-tux icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialtwitchoutline": {
-		"prefix": "ionicIconsocialtwitchoutline",
+	"i1_Iconsocialtwitchoutline": {
+		"prefix": "i1_Iconsocialtwitchoutline",
 		"body": "\"ion-social-twitch-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialtwitch": {
-		"prefix": "ionicIconsocialtwitch",
+	"i1_Iconsocialtwitch": {
+		"prefix": "i1_Iconsocialtwitch",
 		"body": "\"ion-social-twitch icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialtwitteroutline": {
-		"prefix": "ionicIconsocialtwitteroutline",
+	"i1_Iconsocialtwitteroutline": {
+		"prefix": "i1_Iconsocialtwitteroutline",
 		"body": "\"ion-social-twitter-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialtwitter": {
-		"prefix": "ionicIconsocialtwitter",
+	"i1_Iconsocialtwitter": {
+		"prefix": "i1_Iconsocialtwitter",
 		"body": "\"ion-social-twitter icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialusdoutline": {
-		"prefix": "ionicIconsocialusdoutline",
+	"i1_Iconsocialusdoutline": {
+		"prefix": "i1_Iconsocialusdoutline",
 		"body": "\"ion-social-usd-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialusd": {
-		"prefix": "ionicIconsocialusd",
+	"i1_Iconsocialusd": {
+		"prefix": "i1_Iconsocialusd",
 		"body": "\"ion-social-usd icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialvimeooutline": {
-		"prefix": "ionicIconsocialvimeooutline",
+	"i1_Iconsocialvimeooutline": {
+		"prefix": "i1_Iconsocialvimeooutline",
 		"body": "\"ion-social-vimeo-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialvimeo": {
-		"prefix": "ionicIconsocialvimeo",
+	"i1_Iconsocialvimeo": {
+		"prefix": "i1_Iconsocialvimeo",
 		"body": "\"ion-social-vimeo icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialwhatsappoutline": {
-		"prefix": "ionicIconsocialwhatsappoutline",
+	"i1_Iconsocialwhatsappoutline": {
+		"prefix": "i1_Iconsocialwhatsappoutline",
 		"body": "\"ion-social-whatsapp-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialwhatsapp": {
-		"prefix": "ionicIconsocialwhatsapp",
+	"i1_Iconsocialwhatsapp": {
+		"prefix": "i1_Iconsocialwhatsapp",
 		"body": "\"ion-social-whatsapp icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialwindowsoutline": {
-		"prefix": "ionicIconsocialwindowsoutline",
+	"i1_Iconsocialwindowsoutline": {
+		"prefix": "i1_Iconsocialwindowsoutline",
 		"body": "\"ion-social-windows-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialwindows": {
-		"prefix": "ionicIconsocialwindows",
+	"i1_Iconsocialwindows": {
+		"prefix": "i1_Iconsocialwindows",
 		"body": "\"ion-social-windows icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialwordpressoutline": {
-		"prefix": "ionicIconsocialwordpressoutline",
+	"i1_Iconsocialwordpressoutline": {
+		"prefix": "i1_Iconsocialwordpressoutline",
 		"body": "\"ion-social-wordpress-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialwordpress": {
-		"prefix": "ionicIconsocialwordpress",
+	"i1_Iconsocialwordpress": {
+		"prefix": "i1_Iconsocialwordpress",
 		"body": "\"ion-social-wordpress icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialyahoooutline": {
-		"prefix": "ionicIconsocialyahoooutline",
+	"i1_Iconsocialyahoooutline": {
+		"prefix": "i1_Iconsocialyahoooutline",
 		"body": "\"ion-social-yahoo-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialyahoo": {
-		"prefix": "ionicIconsocialyahoo",
+	"i1_Iconsocialyahoo": {
+		"prefix": "i1_Iconsocialyahoo",
 		"body": "\"ion-social-yahoo icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialyenoutline": {
-		"prefix": "ionicIconsocialyenoutline",
+	"i1_Iconsocialyenoutline": {
+		"prefix": "i1_Iconsocialyenoutline",
 		"body": "\"ion-social-yen-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialyen": {
-		"prefix": "ionicIconsocialyen",
+	"i1_Iconsocialyen": {
+		"prefix": "i1_Iconsocialyen",
 		"body": "\"ion-social-yen icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialyoutubeoutline": {
-		"prefix": "ionicIconsocialyoutubeoutline",
+	"i1_Iconsocialyoutubeoutline": {
+		"prefix": "i1_Iconsocialyoutubeoutline",
 		"body": "\"ion-social-youtube-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsocialyoutube": {
-		"prefix": "ionicIconsocialyoutube",
+	"i1_Iconsocialyoutube": {
+		"prefix": "i1_Iconsocialyoutube",
 		"body": "\"ion-social-youtube icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsoupcanoutline": {
-		"prefix": "ionicIconsoupcanoutline",
+	"i1_Iconsoupcanoutline": {
+		"prefix": "i1_Iconsoupcanoutline",
 		"body": "\"ion-soup-can-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsoupcan": {
-		"prefix": "ionicIconsoupcan",
+	"i1_Iconsoupcan": {
+		"prefix": "i1_Iconsoupcan",
 		"body": "\"ion-soup-can icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconspeakerphone": {
-		"prefix": "ionicIconspeakerphone",
+	"i1_Iconspeakerphone": {
+		"prefix": "i1_Iconspeakerphone",
 		"body": "\"ion-speakerphone icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconspeedometer": {
-		"prefix": "ionicIconspeedometer",
+	"i1_Iconspeedometer": {
+		"prefix": "i1_Iconspeedometer",
 		"body": "\"ion-speedometer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconspoon": {
-		"prefix": "ionicIconspoon",
+	"i1_Iconspoon": {
+		"prefix": "i1_Iconspoon",
 		"body": "\"ion-spoon icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconstar": {
-		"prefix": "ionicIconstar",
+	"i1_Iconstar": {
+		"prefix": "i1_Iconstar",
 		"body": "\"ion-star icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconstatsbars": {
-		"prefix": "ionicIconstatsbars",
+	"i1_Iconstatsbars": {
+		"prefix": "i1_Iconstatsbars",
 		"body": "\"ion-stats-bars icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconsteam": {
-		"prefix": "ionicIconsteam",
+	"i1_Iconsteam": {
+		"prefix": "i1_Iconsteam",
 		"body": "\"ion-steam icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconstop": {
-		"prefix": "ionicIconstop",
+	"i1_Iconstop": {
+		"prefix": "i1_Iconstop",
 		"body": "\"ion-stop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconthermometer": {
-		"prefix": "ionicIconthermometer",
+	"i1_Iconthermometer": {
+		"prefix": "i1_Iconthermometer",
 		"body": "\"ion-thermometer icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconthumbsdown": {
-		"prefix": "ionicIconthumbsdown",
+	"i1_Iconthumbsdown": {
+		"prefix": "i1_Iconthumbsdown",
 		"body": "\"ion-thumbsdown icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconthumbsup": {
-		"prefix": "ionicIconthumbsup",
+	"i1_Iconthumbsup": {
+		"prefix": "i1_Iconthumbsup",
 		"body": "\"ion-thumbsup icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontogglefilled": {
-		"prefix": "ionicIcontogglefilled",
+	"i1_Icontogglefilled": {
+		"prefix": "i1_Icontogglefilled",
 		"body": "\"ion-toggle-filled icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontoggle": {
-		"prefix": "ionicIcontoggle",
+	"i1_Icontoggle": {
+		"prefix": "i1_Icontoggle",
 		"body": "\"ion-toggle icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontransgender": {
-		"prefix": "ionicIcontransgender",
+	"i1_Icontransgender": {
+		"prefix": "i1_Icontransgender",
 		"body": "\"ion-transgender icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontrasha": {
-		"prefix": "ionicIcontrasha",
+	"i1_Icontrasha": {
+		"prefix": "i1_Icontrasha",
 		"body": "\"ion-trash-a icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontrashb": {
-		"prefix": "ionicIcontrashb",
+	"i1_Icontrashb": {
+		"prefix": "i1_Icontrashb",
 		"body": "\"ion-trash-b icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontrophy": {
-		"prefix": "ionicIcontrophy",
+	"i1_Icontrophy": {
+		"prefix": "i1_Icontrophy",
 		"body": "\"ion-trophy icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontshirtoutline": {
-		"prefix": "ionicIcontshirtoutline",
+	"i1_Icontshirtoutline": {
+		"prefix": "i1_Icontshirtoutline",
 		"body": "\"ion-tshirt-outline icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIcontshirt": {
-		"prefix": "ionicIcontshirt",
+	"i1_Icontshirt": {
+		"prefix": "i1_Icontshirt",
 		"body": "\"ion-tshirt icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconumbrella": {
-		"prefix": "ionicIconumbrella",
+	"i1_Iconumbrella": {
+		"prefix": "i1_Iconumbrella",
 		"body": "\"ion-umbrella icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconuniversity": {
-		"prefix": "ionicIconuniversity",
+	"i1_Iconuniversity": {
+		"prefix": "i1_Iconuniversity",
 		"body": "\"ion-university icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconunlocked": {
-		"prefix": "ionicIconunlocked",
+	"i1_Iconunlocked": {
+		"prefix": "i1_Iconunlocked",
 		"body": "\"ion-unlocked icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconupload": {
-		"prefix": "ionicIconupload",
+	"i1_Iconupload": {
+		"prefix": "i1_Iconupload",
 		"body": "\"ion-upload icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconusb": {
-		"prefix": "ionicIconusb",
+	"i1_Iconusb": {
+		"prefix": "i1_Iconusb",
 		"body": "\"ion-usb icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconvideocamera": {
-		"prefix": "ionicIconvideocamera",
+	"i1_Iconvideocamera": {
+		"prefix": "i1_Iconvideocamera",
 		"body": "\"ion-videocamera icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconvolumehigh": {
-		"prefix": "ionicIconvolumehigh",
+	"i1_Iconvolumehigh": {
+		"prefix": "i1_Iconvolumehigh",
 		"body": "\"ion-volume-high icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconvolumelow": {
-		"prefix": "ionicIconvolumelow",
+	"i1_Iconvolumelow": {
+		"prefix": "i1_Iconvolumelow",
 		"body": "\"ion-volume-low icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconvolumemedium": {
-		"prefix": "ionicIconvolumemedium",
+	"i1_Iconvolumemedium": {
+		"prefix": "i1_Iconvolumemedium",
 		"body": "\"ion-volume-medium icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconvolumemute": {
-		"prefix": "ionicIconvolumemute",
+	"i1_Iconvolumemute": {
+		"prefix": "i1_Iconvolumemute",
 		"body": "\"ion-volume-mute icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconwand": {
-		"prefix": "ionicIconwand",
+	"i1_Iconwand": {
+		"prefix": "i1_Iconwand",
 		"body": "\"ion-wand icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconwaterdrop": {
-		"prefix": "ionicIconwaterdrop",
+	"i1_Iconwaterdrop": {
+		"prefix": "i1_Iconwaterdrop",
 		"body": "\"ion-waterdrop icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconwifi": {
-		"prefix": "ionicIconwifi",
+	"i1_Iconwifi": {
+		"prefix": "i1_Iconwifi",
 		"body": "\"ion-wifi icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconwineglass": {
-		"prefix": "ionicIconwineglass",
+	"i1_Iconwineglass": {
+		"prefix": "i1_Iconwineglass",
 		"body": "\"ion-wineglass icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconwoman": {
-		"prefix": "ionicIconwoman",
+	"i1_Iconwoman": {
+		"prefix": "i1_Iconwoman",
 		"body": "\"ion-woman icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconwrench": {
-		"prefix": "ionicIconwrench",
+	"i1_Iconwrench": {
+		"prefix": "i1_Iconwrench",
 		"body": "\"ion-wrench icon\";$0",
 		"description": "",
 		"scope": ""
 	},
-	"ionicIconxbox": {
-		"prefix": "ionicIconxbox",
+	"i1_Iconxbox": {
+		"prefix": "i1_Iconxbox",
 		"body": "\"ion-xbox icon\";$0",
 		"description": "",
 		"scope": ""

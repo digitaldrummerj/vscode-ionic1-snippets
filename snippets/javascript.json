@@ -1,114 +1,114 @@
 {
-	"ionicjsactionsheet": {
-		"prefix": "ionicjsactionsheet",
+	"i1_jsactionsheet": {
+		"prefix": "i1_jsactionsheet",
 		"body": "\n// Make Sure to Add the $ionicActionSheet as Dependency to the Controller\n\n// Show the action sheet\nvar hideSheet = $ionicActionSheet.show({\n  buttons: [\n    { text: '${1:ButtonOneText}' },\n    { text: '${2:ButtonTwoText}' }\n  ],\n  destructiveText: 'Delete',\n  titleText: '${3:Title}',\n  cancelText: 'Cancel',\n  cancel: function() {\n    // add cancel code..\n  },\n  destructiveButtonClicked: function(){\n    // add delete code\n  },\n  buttonClicked: function(index) {\n    // add code to do something when button clicked.  \n    // index is the button index so you can figure out which one was clicked\n    \n    // return true to close actionsheet \n    return true;\n  }\n});\n${0}\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsbackdrop": {
-		"prefix": "ionicjsbackdrop",
+	"i1_jsbackdrop": {
+		"prefix": "i1_jsbackdrop",
 		"body": "\nfunction MyController($scope, $ionicBackdrop, $timeout) {\n  //Show a backdrop for one second\n  $scope.action = function() {\n    $ionicBackdrop.retain();\n    $timeout(function() {\n      $ionicBackdrop.release();\n    }, 1000);\n  };\n}\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicbroadcastinfinitescroll": {
-		"prefix": "ionicbroadcastinfinitescroll",
+	"i1_jsbroadcastinfinitescroll": {
+		"prefix": "i1_jsbroadcastinfinitescroll",
 		"body": "\n//Make sure to put it in a finally block so that it also calls it even if there is an error, else you may get into an infinite loop\n$scope.$broadcast('scroll.infiniteScrollComplete');\n${0}\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicbroadcastrefreshcomplete": {
-		"prefix": "ionicbroadcastrefreshcomplete",
+	"i1_jsbroadcastrefreshcomplete": {
+		"prefix": "i1_jsbroadcastrefreshcomplete",
 		"body": "\n//Make sure to put it in a finally block so that it also calls it even if there is an error else the refresher won't collapse back \n$scope.$broadcast('scroll.refreshComplete');\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsmodal": {
-		"prefix": "ionicjsmodal",
+	"i1_jsmodal": {
+		"prefix": "i1_jsmodal",
 		"body": "  \r\n  // Make Sure to Add the $ionicModal as Dependency to the Controller\r\n$ionicModal.fromTemplateUrl('${1:templatefile}.html', {\r\n    scope: $scope\r\n  }).then(function(modal) {\r\n    $scope.${2:modalname} = modal;\r\n  });\r\n  $scope.openModal = function() {\r\n    $scope.${2:modalname}.show();\r\n  };\r\n  $scope.closeModal = function() {\r\n    $scope.${2:modalname}.hide();\r\n  };\r\n  //Cleanup the modal when we're done with it!\r\n  $scope.$on('$destroy', function() {\r\n    $scope.${2:modalname}.remove();\r\n  });\r\n  // Execute action on hide modal\r\n  $scope.$on('modal.hidden', function() {\r\n    // Execute action\r\n  });\r\n  // Execute action on remove modal\r\n  $scope.$on('modal.removed', function() {\r\n    // Execute action\r\n  });\r\n  ${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformandroid": {
-		"prefix": "ionicjsplatformandroid",
+	"i1_jsplatformandroid": {
+		"prefix": "i1_jsplatformandroid",
 		"body": "\r\n\r\nvar isAndroid = ionic.Platform.isAndroid();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformcurrent": {
-		"prefix": "ionicjsplatformcurrent",
+	"i1_jsplatformcurrent": {
+		"prefix": "i1_jsplatformcurrent",
 		"body": "\r\nvar currentPlatform = ionic.Platform.platform();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformdeviceinfo": {
-		"prefix": "ionicjsplatformdeviceinfo",
+	"i1_jsplatformdeviceinfo": {
+		"prefix": "i1_jsplatformdeviceinfo",
 		"body": "\r\nvar deviceInformation = ionic.Platform.device();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformexit": {
-		"prefix": "ionicjsplatformexit",
+	"i1_jsplatformexit": {
+		"prefix": "i1_jsplatformexit",
 		"body": "\r\nionic.Platform.exitApp(); //stops the app\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformios": {
-		"prefix": "ionicjsplatformios",
+	"i1_jsplatformios": {
+		"prefix": "i1_jsplatformios",
 		"body": "\r\nvar isIOS = ionic.Platform.isIOS();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformipad": {
-		"prefix": "ionicjsplatformipad",
+	"i1_jsplatformipad": {
+		"prefix": "i1_jsplatformipad",
 		"body": "\r\nvar isIPad = ionic.Platform.isIPad();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformready": {
-		"prefix": "ionicjsplatformready",
+	"i1_jsplatformready": {
+		"prefix": "i1_jsplatformready",
 		"body": "\r\nionic.Platform.ready(function(){\r\n  // will execute when device is ready, or immediately if the device is already ready.\r\n  ${0}\r\n}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformversion": {
-		"prefix": "ionicjsplatformversion",
+	"i1_jsplatformversion": {
+		"prefix": "i1_jsplatformversion",
 		"body": "\r\nvar currentPlatformVersion = ionic.Platform.version();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformweb": {
-		"prefix": "ionicjsplatformweb",
+	"i1_jsplatformweb": {
+		"prefix": "i1_jsplatformweb",
 		"body": "\r\nvar iswebView = ionic.Platform.isWebView();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjsplatformwinphone": {
-		"prefix": "ionicjsplatformwinphone",
+	"i1_jsplatformwinphone": {
+		"prefix": "i1_jsplatformwinphone",
 		"body": "\r\nvar isWindowsPhone = ionic.Platform.isWindowsPhone();\r\n${0}\r\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjspopover": {
-		"prefix": "ionicjspopover",
+	"i1_jspopover": {
+		"prefix": "i1_jspopover",
 		"body": "\n  // Make Sure to Add the $ionicPopover as Dependency to the Controller\n$ionicPopover.fromTemplateUrl('${1:my-popover.html}', {\n  scope: $scope,\n}).then(function(popover) {\n  $scope.${2:popoverName} = popover;\n});\n$scope.openPopover = function($event) {\n  $scope.${2:popoverName}.show($event);\n};\n$scope.closePopover = function() {\n  $scope.${2:popoverName}.hide();\n};\n//Cleanup the popover when we're done with it!\n$scope.$on('$destroy', function() {\n  $scope.${2:popoverName}.remove();\n});\n// Execute action on hide popover\n$scope.$on('popover.hidden', function() {\n  // Execute action\n});\n// Execute action on remove popover\n$scope.$on('popover.removed', function() {\n  // Execute action\n});\n${0}\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjspopup:alert": {
-		"prefix": "ionicjspopup:alert",
+	"i1_jspopup_alert": {
+		"prefix": "i1_jspopup_alert",
 		"body": "\n  // Make Sure to Add the $ionicPopup as Dependency to the Controller\n$scope.showAlert = function() {\n  var ${1:PopupVariableName} = $ionicPopup.alert({\n    title: '${2:Popup Title}',\n    template: '${3:Its Content}'\n  });\n  ${1:PopupVariableName}.then(function(res) {\n    console.log('${4:Message}');\n  });\n});\n${0}\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjspopup:confirm": {
-		"prefix": "ionicjspopup:confirm",
+	"i1_jspopup_confirm": {
+		"prefix": "i1_jspopup_confirm",
 		"body": "\n  // Make Sure to Add the $ionicPopup as Dependency to the Controller\n$scope.showConfirm = function() {\n  var ${1:PopupVariableName} = $ionicPopup.confirm({\n    title: '${2:Title}',\n    template: '${3:Its Content}'\n  });\n  ${1:PopupVariableName}.then(function(res) {\n    if(res) {\n      console.log('You are sure');\n    } else {\n      console.log('You are not sure');\n    }\n  });\n};\n${0}\n",
 		"description": "",
 		"scope": "source.js"
 	},
-	"ionicjspopup:prompt": {
-		"prefix": "ionicjspopup:prompt",
+	"i1_jspopup_prompt": {
+		"prefix": "i1_jspopup_prompt",
 		"body": "\n  // Make Sure to Add the $ionicPopup as Dependency to the Controller\n$ionicPopup.prompt({\n  title: '${1:Title}',\n  template: '${2:Template}',\n  inputType: '${3:string}',\n  inputPlaceholder: '${4:Placehoder Text}'\n}).then(function(res) {\n  console.log('You Entered', res);\n});\n${0}\n",
 		"description": "",
 		"scope": "source.js"

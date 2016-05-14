@@ -25,3 +25,22 @@ See the docs at [https://github.com/digitaldrummerj/vscode-ionic1-snippets/blob/
 ** Enjoy!**
 
 Based off the awesome work for the Ionic sublime snippets by [https://github.com/imsingh/ionic-sublime-plugin](https://github.com/imsingh/ionic-sublime-plugin) and [https://github.com/felquis/ionic-sublime-plugin](https://github.com/felquis/ionic-sublime-plugin).
+
+## Contributing
+
+Contributions are greatly appreciated. Please fork the repository and submit a pull request.
+
+## Change Log
+
+1.0
+
+* Changed: snippet prefix from ionic to i1_
+* Fixed: issue with snippets that had semi-colon having intellsense for snippet name disappearing when you typed the semi-colon
+* Changed: i1_modal to have 2 versions
+	* i1_modal_script uses the javascript syntax for embedding the template inside a script tag within the html
+	* i1_modal_html created the html for ion-modal-view with a title and content area.  meant for use when you are using a seperate template file for the modal.  
+
+	
+0.9.4
+
+* Initial Release

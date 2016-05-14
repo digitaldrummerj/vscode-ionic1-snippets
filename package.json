@@ -1,14 +1,17 @@
 {
 	"name": "ionic1-snippets",
 	"displayName": "ionic1-snippets",
-	"description": "ionic1 html, icon, and javascript snippets",
-	"version": "0.9.4",
+	"description": "ionic v1 html, icon, and javascript snippets",
+	"version": "1.0.0",
 	"publisher": "justinjames",
 	"engines": {
-		"vscode": "^0.10.1"
+		"vscode": ">=0.10.1"
 	},
 	"categories": [
 		"Snippets"
+	],
+	"tags": [
+		"vscode", "ionic1", "ionic"
 	],
 	"repository": {
 		"type": "git",
