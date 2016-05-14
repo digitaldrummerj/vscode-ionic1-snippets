@@ -2,7 +2,7 @@
 	"name": "ionic1-snippets",
 	"displayName": "ionic1-snippets",
 	"description": "ionic v1 html, icon, and javascript snippets",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "justinjames",
 	"engines": {
 		"vscode": "^0.10.1"
