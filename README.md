@@ -16,7 +16,7 @@ There are over 200 snippets and 700 icons.
  
 ## Usage
 
-Type part of a snippet, press enter and the snippet unfolds.  
+Type part of a snippet, press enter and the snippet unfolds.  All of the snippets start with i1_  
 
 Alternatively, press Ctrl+Space (Windows,Linux) or Cmd+Space (OSX) to activate snippets from within the editor.
 

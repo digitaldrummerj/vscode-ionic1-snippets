@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"publisher": "justinjames",
 	"engines": {
-		"vscode": ">=0.10.1"
+		"vscode": "^0.10.1"
 	},
 	"categories": [
 		"Snippets"
